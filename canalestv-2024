@@ -15,8 +15,6 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="General;News",Canal TRV
-https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General",Barbe TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="General",Canal 13 Esquipulas
@@ -55,8 +53,6 @@ https://mediacp.us:8081/vallevision/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="",Canal 10 Durango
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="",Canal 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Music",Conecta TV
@@ -125,8 +121,6 @@ https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy",ViX Jajaja
-https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="",XEWH-TDT
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-logo="https://i.imgur.com/GWk6lTX.png" group-title="",XEWT-TDT
@@ -135,15 +129,9 @@ https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="Education",XHMNL-TDT
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="https://i.imgur.com/dw6puHC.png" group-title="General",XHTTG-TDT
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="News",101tv Malaga
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Canarias
 https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
-#EXTINF:-1 tvg-id="ArabiTV.es" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="General",Arabi TV
-https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Series",BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Kids",Boing
@@ -156,26 +144,18 @@ https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSierradeCadiz.es" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="",Canal Sierra de Cadiz
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 tvg-id="COSMO.es" tvg-logo="https://i.imgur.com/L2KKKuB.png" group-title="",COSMO
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="CostadelSolTV.es" tvg-logo="https://i.imgur.com/01acb17.png" group-title="General",Costa del Sol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-id="CostaNoroesteTV.es" tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="",Costa Noroeste TV
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="",Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="",Divinity
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://i.imgur.com/NxDHI6Y.png" group-title="",Energy
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="EsteCanalTV.es" tvg-logo="https://i.imgur.com/jDT5XFs.jpg" group-title="General",Este Canal TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
-#EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="",ETB 1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="",ETB 2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="",ETB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="General",Fuerteventura TV
