@@ -24,8 +24,6 @@ https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
 #EXTINF:-1 tvg-id="MASTV.gt" tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" group-title="General",MAS TV
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="504TV.hn" tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="Entertainment",504 TV
-https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/Canal_5_HN.png" group-title="",Canal 5 El Lider
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/Canal-11-HN.png" group-title="",Canal 11
@@ -36,14 +34,10 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://mediacp.us:8081/juncotv/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LitoralAtlanticoHD.hn" tvg-logo="https://i.imgur.com/UXsgEPX.png" group-title="General",Litoral Atlantico HD
-https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-logo="https://i.imgur.com/bcfmqHb.png" group-title="General",TV Centro HD
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="",UNE TV
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="Vallevision.hn" tvg-logo="https://i.imgur.com/hvn2tVA.jpg" group-title="General",Vallevision
