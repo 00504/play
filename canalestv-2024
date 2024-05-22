@@ -49,12 +49,8 @@ https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="Education;Outdoor;Relax",earthTV
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="",Franken Fernsehen
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalAvrupa.de" tvg-logo="https://i.imgur.com/dJocxUQ.png" group-title="",Kanal Avrupa
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="",Niederbayern TV
@@ -65,23 +61,12 @@ https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="",Oberpfalz TV
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="",OK Salzwedel
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="",ProSieben
-#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
-http://85.187.13.40:18000/ProSieben
-#EXTINF:-1 tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Music",Radio 21 TV
-https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="General",RFH
-http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="",Rockland TV
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" group-title="",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="",Seenluft24
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SRF.de" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="General",SRF
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="",TV Ingolstadt
@@ -90,6 +75,31 @@ https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/pl
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOberfranken.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24580-1.png" group-title="",TV Oberfranken
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="General",20 Minutes TV
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="",Cherie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Music",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="",DBM TV
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Music",Littoral FM TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports",Sport en France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="WildSideTV.fr" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wild Side TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
