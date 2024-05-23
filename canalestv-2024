@@ -19,8 +19,6 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="tencanal10.tv" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL-1.png" group-title="General",TEN Canal 10
 https://www.dailymotion.com/cdn/live/video/x8uk5ou.m3u8?sec=BKHhWyLr1p4vQClVqSpME0XUzq8dTvSKxGEEc0F1iZs4uNYfik57vSLBTsaOAcH2&dmTs=494649&dmV1st=4acd9421-6b3a-4ecd-8805-31a587da7b9f
-#EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://hch.tv/wp-content/uploads/2021/07/logos-hch-bueno-1.png" group-title="General",HCH
-https://live-c2.cf.dmcdn.net/sec2(-1zfRQxszpp9o3QA4SMGTLSXLk3_CumVJMSPokr2JMMvuexo0F6ceOy0UYEVafZ0ApdHMxA1sVoSLvheId7Jukmuu_vri4za_0ep1HUBEH4)/cloud/3/x81za5c/s/live-3.m3u8#cell=lcfc2
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://noticiero.sv/sourceimages/c10.png" group-title="General",Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="",Megavision Canal 19
@@ -29,6 +27,8 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+#EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://hch.tv/wp-content/uploads/2021/07/logos-hch-bueno-1.png" group-title="General",HCH
+https://live-c2.cf.dmcdn.net/sec2(-1zfRQxszpp9o3QA4SMGTLSXLk3_CumVJMSPokr2JMMvuexo0F6ceOy0UYEVafZ0ApdHMxA1sVoSLvheId7Jukmuu_vri4za_0ep1HUBEH4)/cloud/3/x81za5c/s/live-3.m3u8#cell=lcfc2
 
 #EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General",Barbe TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
