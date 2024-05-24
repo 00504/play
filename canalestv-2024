@@ -16,9 +16,9 @@ https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://hch.tv/wp-content/uploads/2021/07/logos-hch-bueno-1.png" group-title="General",HCH
 https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=U-29HGEqQ-gdY6hm3LMId81HDWKAkUEWFK9NGfrbUv0DeD1uBs_JlVxLeOL1foQv&dmTs=122971&dmV1st=6a3834cc-f7b3-4a47-a509-63d6b82d9845
 #EXTINF:-1 tvg-id="tencanal10.tv" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL-1.png" group-title="General",TEN Canal 10
-https://www.dailymotion.com/cdn/live/video/x8uk5ou.m3u8
+https://www.dailymotion.com/cdn/live/video/x8uk5ou.m3u8?sec=BKHhWyLr1p4vQClVqSpME9iTrq6bQ7l4H_D4aLPpP7dhkiaTenjDuHeH4Srn1j3b&dmTs=494649&dmV1st=4acd9421-6b3a-4ecd-8805-31a587da7b9f
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://noticiero.sv/sourceimages/c10.png" group-title="General",Canal 10
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI0IDQ6MjU6MzQgQU0maGFzaF92YWx1ZT1KL0RZQm5GWTRlOUhuc0pWWG5kOE93PT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="",Megavision Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
