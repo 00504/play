@@ -18,7 +18,7 @@ https://live-c2.cf.dmcdn.net/sec2(-1zfRQxszpp9o3QA4SMGTLSXLk3_CumVJMSPokr2JMMvue
 #EXTINF:-1 tvg-id="tencanal10.tv" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL-1.png" group-title="General",TEN Canal 10
 https://live-b.cf.dmcdn.net/sec2(s8TaVO1MCBSdcJPVI40ER35sUaSxibPvxpKZ4gdtJ4o_DHxqk86zAV72D33UBGJ8I1Ine2_i377TqSYWtp02T_d63DzYm2J6-SllwWubZkY)/dm/3/x8uk5ou/s/-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://noticiero.sv/sourceimages/c10.png" group-title="General",Canal 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w472413858_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="",Megavision Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
