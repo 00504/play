@@ -43,8 +43,6 @@ https://lencatelevision.com/hls/stream.m3u8
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 tvg-id="tsi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/e9b80e9b5e84425295f3e46b458c1ad4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6287fdc9303e3008289ab711/ffd5c524-6556-428c-b6ab-af27fa6c48b0/0.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="",UNE TV
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="Vallevision.hn" tvg-logo="https://i.imgur.com/hvn2tVA.jpg" group-title="General",Vallevision
