@@ -33,7 +33,7 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8?quality=high
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://image.pngaaa.com/484/4407484-middle.png" group-title="General",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/Canal5MX.png" group-title="General",Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
@@ -43,7 +43,7 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="http://www.unetvhn.com/wp-content/uploads/2022/09/logo-1.png" group-title="",UNE TV
 https://amixtv.live:3395/live/unetvlive.m3u8
-#EXTINF:-1 tvg-id="Vallevision.hn" tvg-logo="https://multicablemedios.hn/images/vallevision-2019-letras-blancas.png" group-title="General",Vallevision
+#EXTINF:-1 tvg-id="Vallevision.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/Vallevision.png" group-title="General",Vallevision
 https://mediacp.us:8081/vallevision/index.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Music",Deluxe Music
