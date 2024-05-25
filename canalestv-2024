@@ -163,7 +163,7 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="",Divinity
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://es.wikipedia.org/wiki/Energy#/media/Archivo:Energy.svg" group-title="",Energy
+#EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20111122171952_690.jpg" group-title="",Energy
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
@@ -177,13 +177,13 @@ https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Rakuten_TV_logo.svg" group-title="Movies",Rakuten TV Action Movies
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/RakutenTV.png" group-title="Movies",Rakuten TV Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Rakuten_TV_logo.svg" group-title="Movies",Rakuten TV Comedy Movies
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/RakutenTV.png" group-title="Movies",Rakuten TV Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Rakuten_TV_logo.svg" group-title="Movies",Rakuten TV Drama Movies
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/RakutenTV.png" group-title="Movies",Rakuten TV Drama Movies
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Rakuten_TV_logo.svg" group-title="Family;Movies",Rakuten TV Family Movies
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/RakutenTV.png" group-title="Family;Movies",Rakuten TV Family Movies
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele7.es" tvg-logo="https://i.imgur.com/JcuV9ZE.png" group-title="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
