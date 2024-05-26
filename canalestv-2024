@@ -145,6 +145,8 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General",XHFGL-TDT
 https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
 
+#EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Canarias
+https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_720.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.es" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Series",BBC Drama
