@@ -33,8 +33,8 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8?quality=high
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="General",Canal 5
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://imgur.com/uZdVSoW" group-title="General",Canal 5
+https://live.sdfgnksbounce.com:8080/MTM4Ljk0LjEyMC4yMjU=/2_.m3u8?token=SG86251-iYnThSBTPwZR9A&expires=1716734533
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN en Español
