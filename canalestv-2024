@@ -103,8 +103,6 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Canal26.mx" tvg-logo="https://i.imgur.com/PAvnVN9.png" group-title="",Canal 26
-https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Music",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro
@@ -123,32 +121,24 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="General",Nayarit Comunica
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="",Nortevision
+http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="News",N+
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-id="NPlusMedia.mx" tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="",N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-id="TELE4Ojocaliente.mx" tvg-logo="https://i.imgur.com/TkzIqR2.jpg" group-title="General",TELE 4 Ojocaliente
-https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="",Televisa Aguascalientes
-https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
-#EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="",Televisa Del Bajio
+#EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="",Televisa 12
 https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
-#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="",Televisa Guadalajara
-https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 #EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-logo="https://i.imgur.com/STbuBVa.png" group-title="",Televisa Guerrero
 https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 #EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="",Televisa Monterrey
 https://ythls.armelin.one/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 #EXTINF:-1 tvg-id="telemax.com.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="",Telemax
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General",XHFGL-TDT
-https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -164,24 +154,16 @@ https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSierradeCadiz.es" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="",Canal Sierra de Cadiz
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 tvg-id="CostadelSolTV.es" tvg-logo="https://i.imgur.com/01acb17.png" group-title="General",Costa del Sol TV
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="",Cuatro
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="",Divinity
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20111122171952_690.jpg" group-title="",Energy
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="ib3.org" tvg-logo="https://ib3cdn.s3.amazonaws.com/IB3/home/img/IB3.svg" group-title="",IB3
+#EXTINF:-1 tvg-id="ib3.org" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/IB3.png" group-title="",IB3
 https://ythls.armelin.one/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",NatureTime
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-#EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="",Nortevision
-http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://i.imgur.com/BNqZwxS.png" group-title="",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/RakutenTV.png" group-title="Movies",Rakuten TV Action Movies
