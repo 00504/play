@@ -66,7 +66,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-sam
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="",Oberpfalz TV
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" group-title="",Schlager Deluxe
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-logo="https://schlagerdeluxe.de/wp-content/uploads/sites/3/2020/12/SCHLAGER_DELUXE_LOGO_neu.png" group-title="",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
