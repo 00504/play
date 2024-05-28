@@ -18,7 +18,9 @@ https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://www.vtv.com.hn/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="General",VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://noticiero.sv/sourceimages/c10.png" group-title="General",Canal 10
-https://conceptoweb-studio.com/radio/video/tves/
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI0IDQ6NDc6NDYgUE0maGFzaF92YWx1ZT0vMFUxZDlrbnRZcWdiWmRDd29LRFd3PT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
+#EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://noticiero.sv/sourceimages/c10.png" group-title="General",Canal 10
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1329263037_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI0IDQ6NTA6NDkgUE0maGFzaF92YWx1ZT1PSXpQbnFRcktjVUFXcGpaZm5YMU1RPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal-11-HN.png" group-title="",Canal 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="",LTV
