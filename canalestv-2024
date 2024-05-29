@@ -23,14 +23,12 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSi
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1 tvg-id="JuncoTv.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/JuncoTV.png" group-title="General",Junco Tv
+#EXTINF:-1 tvg-id="JuncoTv.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Junco_TV.png" group-title="General",Junco Tv
 https://mediacp.us:8081/juncotv/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="",Megavision Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-id="tn23.tv" tvg-logo="https://www.tn23.tv/wp-content/uploads/2022/12/cropped-Logo-TN23-01-e1679410540114-256x256.png" group-title="",TN23
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8?quality=high
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5
@@ -119,8 +117,6 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="",Nortevision
@@ -129,18 +125,10 @@ http://amaru.dyndns.org:8870/0.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-id="NPlusMedia.mx" tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="",N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="",Televisa 12
 https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
-#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-logo="https://i.imgur.com/STbuBVa.png" group-title="",Televisa Guerrero
-https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
-#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="",Televisa Monterrey
-https://ythls.armelin.one/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
-#EXTINF:-1 tvg-id="telemax.com.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="",Telemax
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -192,14 +180,10 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
 http://170.254.18.106/AMC/mono.m3u8
-#EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="General",Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Lifestyle",CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV
 https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://yt3.googleusercontent.com/R4AIm13f3RZ5CPAFWuU8DRmpmtj6bne2S4n1K3RPvoJu3Nu5hpgbWcfD0VGMlz8CPPEJtN2T_g=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",MovieSphere
