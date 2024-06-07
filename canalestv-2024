@@ -23,12 +23,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1 tvg-id="HCH.hn" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="",HCH
-https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleProgreso.hn" tvg-logo="https://i.imgur.com/yBDI3AF.png" group-title="",TeleProgreso
-https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="",TEN Canal 10
-https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
+https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Entertainment",EDN TV
