@@ -13,7 +13,7 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="",Telecadena 7 y 4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
-#EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://i.imgur.com/yBDI3AF.png" group-title="",TelePaís
+#EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TelePais.png" group-title="",TelePaís
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://www.vtv.com.hn/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="General",VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
