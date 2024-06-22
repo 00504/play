@@ -39,16 +39,14 @@ https://mediacp.us:8081/juncotv/index.m3u8
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="Niños",Pandamax Channel 
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TeleCeiba.png" group-title="",Teleceiba
+https://astra.teleceiba.com:8443/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/D9aO5do.png" group-title="",Canal 22 MX
 http://www.iptvmexico.xyz/32.m3u8
 #EXTINF:-1 tvg-id="sitvhn.xyz" tvg-logo="https://i.imgur.com/w5aKt2l.png" group-title="General",Si TV
 https://amixtv.live:3753/live/sitvlive.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="",Teleceiba
-https://astra.teleceiba.com:8443/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN en Español
@@ -63,6 +61,8 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk.or.jp" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/NHK_World.png" group-title="Culture;News",NHK World
 https://bmcc.nhkworld.jp/live2/index_1M.m3u8
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="Niños",Pandamax Channel 
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español
