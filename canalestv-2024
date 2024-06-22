@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="",Canal 22 Nacional
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDI0IDEyOjEyOjI4IEFNJmhhc2hfdmFsdWU9MncwOHgxeERmNytKSndFOGkyb2lTdz09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 tvg-id="DTV.hn" tvg-logo="https://i.imgur.com/UpsLEAV.png" group-title="",DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
