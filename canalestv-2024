@@ -1,20 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sitvhn.xyz" tvg-logo="https://i.imgur.com/w5aKt2l.png" group-title="General",Si TV
 https://amixtv.live:3753/live/sitvlive.m3u8
-#EXTINF:-1 tvg-id="45TV.hn" tvg-logo="https://i.imgur.com/SjUnQlg.png" group-title="News",45 TV
-https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
-#EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="General",Azteca Honduras
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal51.hn" tvg-logo="https://i.imgur.com/xhVEEA1.png" group-title="General",Canal 51
 https://tvcn51.com/hls/cn51480.m3u8
 #EXTINF:-1 tvg-id="GloboTV.hn" tvg-logo="https://i.imgur.com/hxGvZ77.png" group-title="",Globo TV
-https://panel.dattalive.com/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="SulaTV.hn" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",Sula TV
-https://livestreamhd.us/sulatv/live/playlist.m3u8
+https://stream.radiosmundiales.com:19360/globotvhonduras/globotvhonduras.m3u8
 #EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="",Teleceiba
-https://astra.teleceiba.com:8443/play/a004/index.m3u8
+https://astra.teleceiba.com:8443/play/a002/26536679.m3u8
 
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
