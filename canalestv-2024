@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=3428000,RESOLUTION=1280x720
-chunklist_w1393130735_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
@@ -44,8 +42,7 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/D9aO5do.png" group-title="",Canal 22 MX
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w611321537_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDI0IDE6MjY6MDkgQU0maGFzaF92YWx1ZT0rUDhrUnp1MjVLSDRRSFdEVVZVenZRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w611321537_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN en Español
