@@ -1,16 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
- #EXTINF:-1 tvg-id="France24English.fr" status="online",France 24 English (1080p) 
- http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-https://helga.iptv2022.com/France24_es/index.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-https://p-alchimie-services-live.akamaized.net/france24_es/simple.isml/hdntl=exp=1657530606~acl=%2f*~id=ABiypdt1h_AAZiKo~data=hdntl~hmac=6fd6b373140c687417dd76d89bdbbba19a482900d5e763cc58238e08da4cc507/simple-audio_spa=128000-video=2600000.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-https://p-alchimie-services-live.akamaized.net/france24_es/simple.isml/hdntl=exp=1657530606~acl=%2f*~id=ABiypdt1h_AAZiKo~data=hdntl~hmac=6fd6b373140c687417dd76d89bdbbba19a482900d5e763cc58238e08da4cc507/simple-audio_spa=128000-video=2600000.m3u8
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
