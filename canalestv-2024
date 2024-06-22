@@ -45,7 +45,7 @@ https://astra.teleceiba.com:8443/play/a002/index.m3u8
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/D9aO5do.png" group-title="",Canal 22 MX
 http://www.iptvmexico.xyz/32.m3u8
-#EXTINF:-1 tvg-id="sitvhn.xyz" tvg-logo="https://i.imgur.com/w5aKt2l.png" group-title="General",Si TV
+#EXTINF:-1 tvg-id="sitvhn.xyz" tvg-logo="https://sitvhn.xyz/wp-content/uploads/2023/04/A-New-Design-1.png" group-title="General",Si TV
 https://amixtv.live:3753/live/sitvlive.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
