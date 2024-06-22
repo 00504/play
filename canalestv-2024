@@ -1,13 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3428000,RESOLUTION=1280x720
 chunklist_w1393130735_b3428000_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=978000,RESOLUTION=640x360
-chunklist_w1393130735_b978000_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=478000,RESOLUTION=512x288
-chunklist_w1393130735_b478000_sleng.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
