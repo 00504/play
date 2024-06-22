@@ -21,12 +21,14 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal11_HN.png" group-title="",Canal 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-#EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="",LTV
-https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV.hn" tvg-logo="https://i.imgur.com/UpsLEAV.png" group-title="",DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="",LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TeleCeiba.png" group-title="",Teleceiba
+https://astra.teleceiba.com:8443/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="",Campus TV
@@ -39,8 +41,6 @@ https://mediacp.us:8081/juncotv/index.m3u8
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TeleCeiba.png" group-title="",Teleceiba
-https://astra.teleceiba.com:8443/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/D9aO5do.png" group-title="",Canal 22 MX
