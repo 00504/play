@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
+http://www.iptvmexico.xyz/294.m3u8
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
