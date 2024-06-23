@@ -143,38 +143,14 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV
 https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="",CaliTV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="General",Canal 2 Alpavision Neiva
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="General",Canal 8 TV+
-https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal9.co" tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="General",Canal 9
-https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:-1 tvg-id="CanalMundoVision.co" tvg-logo="https://i.imgur.com/zRqfJuj.png" group-title="General",Canal Mundo Vision
-https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="",Canal Nets
-https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="",Canal Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="",Red+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-id="TamesisTeVe.co" tvg-logo="https://i.imgur.com/HxFRHvu.png" group-title="General",Tamesis TeVe
-https://tvlatina.live:1936/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="General",Telemedellin
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1 tvg-id="Telepasto.co" tvg-logo="https://i.imgur.com/NJ7J4gJ.jpg" group-title="General",Telepasto
-https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
-#EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://i.imgur.com/viBfaCl.jpg" group-title="General",Televilla
-https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
-#EXTINF:-1 tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="",Vive TV
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Infantil",Moon Bug
-https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Drama
 https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Estelar
@@ -183,30 +159,14 @@ https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="General",Az Star TV
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/cSBBqQ7.png" group-title="Outdoor",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MHZ.ca" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
-https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Easy Listening
-https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
-#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music",Stingray Everything '80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Music",Stingray Flashback 70's
 https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Music",Stingray Greatest Hits
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Music",Stingray Hit List
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Music",Stingray Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Music",Stingray Nothin' But 90s
-https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music",Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Music",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Romance Latino
