@@ -193,82 +193,52 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FiG
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", boxin
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FiTE
-https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-https://alchimie-mmatv-3-es.samsung.wurl.com:443/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-o3sd4f9g9tU/XlnAiCBxI6I/AAAAAAAArvk/fs3f-hvwbJ0g5XTFHv6KEa-aGytjjuY9ACLcBGAsYHQ/s1600/stream tv.png" group-title=".RD", VIP ( sport ) 
-#EXTINF:-0,olipic
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF:-0, GOLD
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-0, auto tv
-http://100automoto.tv:1935/bgtv1/autotv/chunklist_w1162899612.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Esport
-https://unbeaten-roku.amagi.tv:443/playlist1080p.m3u8 
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",redbull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CRISTAL tv
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MITV
-http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TELECISTEMA 
-https://hls.gvstream.live:443/telesistemas/15tv.stream/chunklist_w845300616.m3u8
- #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", AZTECA 
-http://190.122.96.187:8888/http/002
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",PUNTO 3
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8?_=2
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",PEOPLE tv 
-https://peopletv-oo.akamaized.net:443//playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Mundo +
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w276636945.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TELEVIDA tv
-https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w57071542.m3u8?_=1
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Cdn 3
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Canal i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ARGENTINISIMA
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TEVE 5
-http://coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TELE DIARIOS
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", fashion
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",BH tv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",EL54
-http://190.3.169.119:8080/latina/latina/playlist.m3u8?_=18
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",NET tv
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?_=1
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CGTN
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", PELIC 57 
-https://593b04c4c5670.streamlock.net:443/8148/8148/chunklist_w1520331469.m3u8?_=1
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ATN
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ANT
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Ntv
-https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",JALISCO tv
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Presumiendo tv
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", HITS 360
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",POWER tv
-https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8?_=1
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", OYE tv
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSA3OjM0OjQ1IFBNJmhhc2hfdmFsdWU9MlNmM05jU29YUk1QRHpNR212WWNNdz09JnZhbGlkbWludXRlcz0zNjA=
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music", PLAY music 
-https://cdn4.hostlagarto.com:8081/static/playtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music", ESTEREO 88
-http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1455314786.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music",809 
-https://inliveserver.com:1936/digital809tv/digital809tv/chunklist_w2042254794.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="⚡MUSICA⚡", Cineclub Musica
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 2 HD
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1058306129.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 3 HD
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1807746754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="⚡MUSICA⚡",Karibeña
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
+https://www.youtube.com/watch?v=6oTllXbgRc4
+#EXTINF:-1 tvg-id="VINILOS TV" tvg-name="Vinilos TV" tvg-logo="https://images2.imgbox.com/4c/61/642iVsSQ_o.png" group-title="⚡MUSICA⚡",VINILOS TV
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="⚡MUSICA⚡",RADIO SAN BORJA
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="⚡MUSICA⚡",PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://images2.imgbox.com/5d/f9/MwYlMnzK_o.png" group-title="⚡MUSICA⚡",V Classic TV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://images2.imgbox.com/2d/32/1y4oDQUY_o.png" group-title="⚡MUSICA⚡",Qello Concerts by Stingray 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:-1 tvg-id="OndaRadio.cl" tvg-logo="https://images2.imgbox.com/74/bd/5k2zRd0R_o.png" group-title="⚡MUSICA⚡",Onda Radio TV 
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://images2.imgbox.com/75/69/RCbbOFKK_o.jpg" group-title="⚡MUSICA⚡",RadioInka 
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://images2.imgbox.com/55/6d/laPvSlFI_o.png" group-title="PELICULAS",Retro Plus 3 
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://images2.imgbox.com/06/39/PEe5OgAn_o.jpg" group-title="PELICULAS",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png" group-title="PELICULAS",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="PELICULAS",PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="PELICULAS",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="PELICULAS",Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 1
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 2
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="PELICULAS",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://images2.imgbox.com/07/3b/gpiNuLZo_o.jpg" group-title="PELICULAS",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://images2.imgbox.com/6a/bd/oTo9Wpyo_o.png" group-title="PELICULAS",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
 
