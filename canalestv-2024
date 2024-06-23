@@ -57,6 +57,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Peliculas",Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Acción
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Drama
+https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Estelar
+https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Familia
+https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_6.m3u8
+#EXTINF:-1 tvg-id="MHZ.ca" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="",MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Movies",MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://yt3.googleusercontent.com/R4AIm13f3RZ5CPAFWuU8DRmpmtj6bne2S4n1K3RPvoJu3Nu5hpgbWcfD0VGMlz8CPPEJtN2T_g=s900-c-k-c0x00ffffff-no-rj" group-title="Peliculas",MovieSphere
@@ -73,8 +83,6 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/RakutenTV.png" group-title="Peliculas",Rakuten TV Family Movies
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="Peliculas",FreeTV Acción
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="nhk.or.jp" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/NHK_World.png" group-title="General",NHK World
@@ -135,18 +143,10 @@ https://live-b2.cf.dmcdn.net/sec2(dyEFjmjy8gTGpFssFAWM_nmd_ZAVMTNZlEiygIDA7BNmiE
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Drama
-https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Estelar
-https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Familia
-https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/cSBBqQ7.png" group-title="Outdoor",Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Outdoor",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="MHZ.ca" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="",MHZ
-https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Music",Stingray Flashback 70's
 https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Music",Stingray Everything '80s
@@ -157,15 +157,8 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u
 https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Music",Stingray Today's Latin Pop
 https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
-
 #EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV
 https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1 tvg-id="Canal25.do" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="",Canal 25
-https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-id="CibaenaTV.do" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="Entertainment",Cibaena TV
-https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
-#EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="",Cielo TV
-https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRATATV.do" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="General",FRATA TV
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1 tvg-id="GHTelevision.do" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Religious",GH Television
@@ -180,5 +173,3 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="",Ready TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="TVExitos.do" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="",TV Exitos
-https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
