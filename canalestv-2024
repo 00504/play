@@ -173,26 +173,13 @@ https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="",Vive TV
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Infantil", Moon Bug
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Infantil",Moon Bug
 https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",NEWORD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title=" ,WOW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
-#EXTINF:-0, pluto tv naturaleza
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f3696cfb-1333-11eb-aa17-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",DC animal
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=da10e1ae-1334-11eb-aa17-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CiNE REAL
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Drama
 https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TU CiNE
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Estelar
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", JUNTOS tv
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title="Peliculas",FreeTV Familia
 https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", MY TIME
-https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 1
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 2
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
