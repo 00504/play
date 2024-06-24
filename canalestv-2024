@@ -7,7 +7,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal-5-HN.png" group-title="",Canal 5 El Lider
+#EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="",Canal 5 MX
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
@@ -42,7 +42,7 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavision Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/D9aO5do.png" group-title="",Canal 22 MX
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI0IDI6Mjc6MjggQU0maGFzaF92YWx1ZT11aW1zVnJvNXYyMngrWUt4bGVwWlFRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="JuncoTv.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Junco_TV.png" group-title="General",Junco Tv
 https://mediacp.us:8081/juncotv/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
