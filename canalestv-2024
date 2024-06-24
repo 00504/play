@@ -43,10 +43,6 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/D9aO5do.png" group-title="",Canal 22 MX
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_sleng.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel East
-https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD East
-https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="JuncoTv.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Junco_TV.png" group-title="General",Junco Tv
 https://mediacp.us:8081/juncotv/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
