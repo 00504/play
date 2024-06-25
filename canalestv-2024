@@ -55,11 +55,11 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Acción
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Free-TV.png" group-title="Peliculas",FreeTV Acción
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Drama
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Free-TV.png" group-title="Peliculas",FreeTV Drama
 https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/FreeTV.png" group-title="Peliculas",FreeTV Estelar
+#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Free-TV.png" group-title="Peliculas",FreeTV Estelar
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Movies",MovieFe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -67,9 +67,9 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/RakutenTV.png" group-title="Peliculas",Rakuten TV Action Movies
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/RakutenTV.png" group-title="Peliculas",Rakuten TV Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/RakutenTV.png" group-title="Peliculas",Rakuten TV Family Movies
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/RakutenTV.png" group-title="Peliculas",Rakuten TV Familia
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -109,7 +109,7 @@ https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="canalmalaga.es" tvg-logo="https://www.canalmalaga.es/wp-content/uploads/2018/01/Logo_CanalM%C3%A1laga_x2.png" group-title="",Canal Malaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Noticias",El Pais TV
+#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Noticias",El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
