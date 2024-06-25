@@ -4,13 +4,11 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="",Canal 5 MX
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="",Canal 5 MX
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="",Telecadena 7 y 4
@@ -29,7 +27,7 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TeleCeibahn.png" group-title="",Teleceiba
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TeleCeiba.png" group-title="",Teleceiba
 https://astra.teleceiba.com:8443/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
