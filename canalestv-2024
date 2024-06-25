@@ -41,10 +41,6 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="",Megavisión Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1 tvg-id="miamitv.com" tvg-logo="https://e7.pngegg.com/pngimages/180/664/png-clipart-television-channel-miami-color-television-miami-beach-television-text.png" group-title="",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/playlist.m3u8
-#EXTINF:-1 tvg-id="miamitv.com" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-540x304-FFFFFF.jpg" group-title="",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/playlist.m3u8
 #EXTINF:-1 tvg-id="JuncoTv.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Junco_TV.png" group-title="General",Junco Tv
 https://mediacp.us:8081/juncotv/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
