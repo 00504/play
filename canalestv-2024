@@ -11,8 +11,12 @@ https://lencatelevision.com/hls/stream.m3u8
 http://170.82.37.21:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
+#EXTINF:-1,Canal 6
+http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
+#EXTINF:-1,Telecadena 7 y 4
+http://170.82.37.21:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TelePais.png" group-title="",TelePaís
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://www.vtv.com.hn/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="General",VTV
@@ -165,8 +169,6 @@ http://170.82.37.21:8000/play/a00c/index.m3u8
 http://170.82.37.21:8000/play/a03t/index.m3u8
 #EXTINF:-1,Canal 12 - SV
 http://170.82.37.21:8000/play/a03s/index.m3u8
-#EXTINF:-1,Canal 6
-http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://170.82.37.21:8000/play/a03b/index.m3u8
 #EXTINF:-1,Cartoon Network
@@ -365,8 +367,6 @@ http://170.82.37.21:8000/play/a00w/index.m3u8
 http://170.82.37.21:8000/play/a03x/index.m3u8
 #EXTINF:-1,Telebasica
 http://170.82.37.21:8000/play/a00k/index.m3u8
-#EXTINF:-1,Telecadena 7 y 4
-http://170.82.37.21:8000/play/a008/index.m3u8
 #EXTINF:-1,Teleceiba
 http://170.82.37.21:8000/play/a00i/index.m3u8
 #EXTINF:-1,Telefe | Argentina
