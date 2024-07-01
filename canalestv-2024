@@ -334,8 +334,6 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 http://170.82.37.21:8000/play/a044/index.m3u8
 #EXTINF:-1,Tooncast
 http://170.82.37.21:8000/play/a00x/index.m3u8
-#EXTINF:-1,MX: Tooncast FHD
-https://vk.com/away.php?to=http%3A%2F%2Fky-iptv.com%3A80%2FRE4T3AR4%2FTRH5Y4T4%2F385004.ts&post=786216432_828&cc_key=
 #EXTINF:-1,Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy
@@ -354,3 +352,5 @@ http://170.82.37.21:8000/play/a02x/index.m3u8
 http://170.82.37.21:8000/play/a002/index.m3u8
 #EXTINF:-1,Warner
 http://170.82.37.21:8000/play/a03o/index.m3u8
+#EXTINF:-1,MTV 80s HD
+https://vk.com/away.php?to=http%3A%2F%2Fky-iptv.com%3A80%2FRE4T3AR4%2FTRH5Y4T4%2F385021.ts&post=786216432_828&cc_key=
