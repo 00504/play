@@ -120,11 +120,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a53
 
 #EXTINF:-1 group-title="Deportes",ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Deportes",HOLA
-http://181.78.8.90:16123/play/ch01
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
-http://181.78.8.90:16123/play/ch17
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
-http://181.78.8.90:16123/play/ch16
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
-http://181.78.8.90:16123/play/ch19
+#EXTINF:-1 group-title="Prueba",Canal de Prueba
+http://181.78.8.90:16123/play/ch02
