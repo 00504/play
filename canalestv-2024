@@ -1,16 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
-https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
+http://45.5.116.178:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
+http://45.5.116.178:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
 http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:0,Canal 4 HD ESA
+http://45.5.116.178:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5_HN.png" group-title="",Canal 5 El Lider
 http://170.82.37.21:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5_HN.png" group-title="",Canal 5 El Lider
+http://45.5.116.178:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
+#EXTINF:0,Canal 6 - ESA
+http://45.5.116.178:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="",Telecadena 7/4
 http://170.82.37.21:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TelePais.png" group-title="",TelePaís
@@ -131,31 +138,37 @@ http://186.190.231.178:8000/play/a05h/index.m3u8
 #EXTINF:-1,Antena 3
 http://170.82.37.21:8000/play/a01n/index.m3u8
 #EXTINF:-1,Azteca 1
-https://vk.com/away.php?to=http%3A%2F%2Fky-iptv.com%3A80%2FRE4T3AR4%2FTRH5Y4T4%2F384770.ts&post=786216432_828&cc_key=
+http://170.82.37.21:8000/play/a02p/index.m3u8
 #EXTINF:-1,Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1,Azteca Clic
 http://170.82.37.21:8000/play/a02l/index.m3u8
 #EXTINF:-1,Banda Max
 http://170.82.37.21:8000/play/a01z/index.m3u8
-#EXTINF:-1,CNN en Español
-http://170.82.37.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="",Canal 5 MX
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:0,Canal 10 HD - ESA
+http://45.5.116.178:8000/play/a00f/index.m3u8
+#EXTINF:0,Canal 10 HD - ESA
+http://45.5.116.178:8000/play/a00f/index.m3u8
 #EXTINF:-1,Canal 12 SV
 http://170.82.37.21:8000/play/a03s/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://190.185.121.102:58092/play/a00o
+#EXTINF:-1,CARACOL HD 2
+http://186.190.231.178:8000/play/a04d/index.m3u8
+#EXTINF:-1,CARACOL TV HD
+http://186.190.231.178:8000/play/a04c/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://170.82.37.21:8000/play/a00u/index.m3u8
-#EXTINF:-1,Cartoonito
-http://170.82.37.21:8000/play/a00q/index.m3u8
 #EXTINF:-1,Cine Latino
 http://170.82.37.21:8000/play/a01o/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://186.190.231.178:8000/play/a05o/index.m3u8
 #EXTINF:-1,CINEMAX HD
 http://167.250.39.130:8000/play/cinemax
+#EXTINF:-1,CNN en Español
+http://186.190.231.178:8000/play/a01h/index.m3u8
 #EXTINF:-1,Comedy Central
 http://170.82.37.21:8000/play/a02f/index.m3u8
 #EXTINF:-1,DEPORTES TVC
