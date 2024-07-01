@@ -353,8 +353,14 @@ http://170.82.37.21:8000/play/a03m/index.m3u8
 #EXTINF:-1,Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1,Venus
-http://170.82.37.21:8000/play/a002/index.m3u8
-#EXTINF:-1,Venus
 http://38.56.118.88:4000/play/a03y
+#EXTINF:0,VENUS
+#EXTINF:-1,VENUS
+http://45.167.3.81:45000/play/a03c/index.m3u8
+http://45.5.116.178:8000/play/a03i/index.m3u8
+#EXTINF:-1,Venus
+http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1,Venus
+http://170.82.37.21:8000/play/a002/index.m3u8
 #EXTINF:-1,Warner
 http://170.82.37.21:8000/play/a03o/index.m3u8
