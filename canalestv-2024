@@ -4,11 +4,11 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="",Canal 5 MX
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal-5-HN.png" group-title="",Canal 5 El Lider
+http://170.82.37.21:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="",Telecadena 7/4
@@ -165,8 +165,6 @@ http://170.82.37.21:8000/play/a00c/index.m3u8
 http://170.82.37.21:8000/play/a03t/index.m3u8
 #EXTINF:-1,Canal 12 - SV
 http://170.82.37.21:8000/play/a03s/index.m3u8
-#EXTINF:-1,Canal 5
-http://170.82.37.21:8000/play/a006/index.m3u8
 #EXTINF:-1,Canal 6
 http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
@@ -351,8 +349,6 @@ http://170.82.37.21:8000/play/a00j/index.m3u8
 http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1,TNT Series
 http://170.82.37.21:8000/play/a03c/index.m3u8
-#EXTINF:-1,TSI
-http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1,TUDN
 http://170.82.37.21:8000/play/a015/index.m3u8
 #EXTINF:-1,TV Azteca Guatemala
@@ -423,5 +419,7 @@ http://170.82.37.21:8000/play/a002/index.m3u8
 http://170.82.37.21:8000/play/a03o/index.m3u8
 #EXTINF:-1,XHGCCanal5
 http://170.82.37.21:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="",Canal 5 MX
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1,ZooMoo
 http://170.82.37.21:8000/play/a00o/index.m3u8
