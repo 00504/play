@@ -142,8 +142,6 @@ http://170.82.37.21:8000/play/a01z/index.m3u8
 http://170.82.37.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="el5.tv" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5MX.png" group-title="",Canal 5 MX
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1,Canal 12 - Nicavision
-http://170.82.37.21:8000/play/a03t/index.m3u8
 #EXTINF:-1,Canal 12 SV
 http://170.82.37.21:8000/play/a03s/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
@@ -154,13 +152,13 @@ http://170.82.37.21:8000/play/a00u/index.m3u8
 http://170.82.37.21:8000/play/a00q/index.m3u8
 #EXTINF:-1,Cine Latino
 http://170.82.37.21:8000/play/a01o/index.m3u8
-#EXTINF:-1,Cinecanal
-http://170.82.37.21:8000/play/a022/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://186.190.231.178:8000/play/a05o/index.m3u8
 #EXTINF:-1,Cinemax
 http://170.82.37.21:8000/play/a023/index.m3u8
 #EXTINF:-1,Comedy Central
 http://170.82.37.21:8000/play/a02f/index.m3u8
-#EXTINF:-1,DEPORTES TVC 1
+#EXTINF:-1,DEPORTES TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1,DHE
 http://170.82.37.21:8000/play/a026/index.m3u8
@@ -178,6 +176,8 @@ http://170.82.37.21:8000/play/a00s/index.m3u8
 http://170.82.37.21:8000/play/a01b/index.m3u8
 #EXTINF:-1,Discovery Theather
 http://170.82.37.21:8000/play/a01c/index.m3u8
+#EXTINF:-1,Discovery TLC
+http://167.250.39.130:8000/play/discoverytlc
 #EXTINF:-1,Discovery World
 http://170.82.37.21:8000/play/a01e/index.m3u8
 #EXTINF:-1,Disney Channel
@@ -202,8 +202,6 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a04c/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
-#EXTINF:-1,EXATV
-http://170.82.37.21:8000/play/a01u/index.m3u8
 #EXTINF:-1,El Gourmet
 http://170.82.37.21:8000/play/a03e/index.m3u8
 #EXTINF:-1,El Trece Argentina
@@ -220,8 +218,6 @@ http://170.82.37.21:8000/play/a01i/index.m3u8
 http://170.82.37.21:8000/play/a014/index.m3u8
 #EXTINF:-1,Golden Premier
 http://170.82.37.21:8000/play/a02e/index.m3u8
-#EXTINF:-1,Guatevision
-http://170.82.37.21:8000/play/a03w/index.m3u8
 #EXTINF:-1,HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1,HBO 2
@@ -242,16 +238,12 @@ http://170.82.37.21:8000/play/a01v/index.m3u8
 http://170.82.37.21:8000/play/a01f/index.m3u8
 #EXTINF:-1,History 2
 http://170.82.37.21:8000/play/a01g/index.m3u8
-#EXTINF:-1,La Liga
-http://170.82.37.21:8000/play/a048/index.m3u8
 #EXTINF:-1,Lifetime
 http://170.82.37.21:8000/play/a02q/index.m3u8
 #EXTINF:-1,MTV
 http://170.82.37.21:8000/play/a01y/index.m3u8
 #EXTINF:-1,MTV00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
-#EXTINF:-1,Mega Clasicos
-http://170.82.37.21:8000/play/a005/index.m3u8
 #EXTINF:-1,Multicinema
 http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1,Multipremier
@@ -268,18 +260,10 @@ http://170.82.37.21:8000/play/a02v/index.m3u8
 http://170.82.37.21:8000/play/a027/index.m3u8
 #EXTINF:-1,PlayBoy
 http://170.82.37.21:8000/play/a004/index.m3u8
-#EXTINF:-1,Playboy HD
-http://38.56.118.88:4000/play/a01v
-#EXTINF:-1,Porvenir TV
-http://170.82.37.21:8000/play/a045/index.m3u8
 #EXTINF:-1,RCN Honduras
 http://170.82.37.21:8000/play/a046/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://170.82.37.21:8000/play/a025/index.m3u8
 #EXTINF:-1,Rhema TV
 http://170.82.37.21:8000/play/a03p/index.m3u8
-#EXTINF:-1,Semillitas
-http://170.82.37.21:8000/play/a00p/index.m3u8
 #EXTINF:-1,Sony Channel
 http://170.82.37.21:8000/play/a02w/index.m3u8
 #EXTINF:-1,Sony Movies
@@ -288,48 +272,32 @@ http://170.82.37.21:8000/play/a02y/index.m3u8
 http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1,Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
-#EXTINF:-1,Studio Universal
-http://170.82.37.21:8000/play/a033/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://186.190.231.178:8000/play/a05e/index.m3u8
 #EXTINF:-1,Sun Channel
 http://170.82.37.21:8000/play/a036/index.m3u8
 #EXTINF:-1,SyFy
 http://170.82.37.21:8000/play/a035/index.m3u8
 #EXTINF:-1,TCM
 http://170.82.37.21:8000/play/a038/index.m3u8
-#EXTINF:-1,TDTV
-http://170.82.37.21:8000/play/a04e/index.m3u8
-#EXTINF:-1,TLC
-http://170.82.37.21:8000/play/a01j/index.m3u8
-#EXTINF:-1,TLNovelas
-http://170.82.37.21:8000/play/a024/index.m3u8
 #EXTINF:-1,TNT HD
 http://138.186.20.13:23200/play/a055
-#EXTINF:-1,TNT Novelas
-http://170.82.37.21:8000/play/a037/index.m3u8
 #EXTINF:-1,TNT Series
 http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:-1,TUDN
 http://170.82.37.21:8000/play/a015/index.m3u8
-#EXTINF:-1,TV Azteca Guatemala
-http://170.82.37.21:8000/play/a03v/index.m3u8
 #EXTINF:-1,TV Chile
 http://170.82.37.21:8000/play/a03r/index.m3u8
-#EXTINF:-1,TV MAX
-http://170.82.37.21:8000/play/a03q/index.m3u8
 #EXTINF:-1,Teen Nick
 http://170.82.37.21:8000/play/a00w/index.m3u8
-#EXTINF:-1,Teleantillas
-http://170.82.37.21:8000/play/a03x/index.m3u8
 #EXTINF:-1,Telefe
 http://170.82.37.21:8000/play/a042/index.m3u8
 #EXTINF:-1,Telehit Música
 http://170.82.37.21:8000/play/a01w/index.m3u8
-#EXTINF:-1,Telemundo Miami
-http://170.82.37.21:8000/play/a02t/index.m3u8
 #EXTINF:-1,Teletica
 http://170.82.37.21:8000/play/a03u/index.m3u8
-#EXTINF:-1,Tigo Sports
-http://170.82.37.21:8000/play/a047/index.m3u8
+#EXTINF:-1,TIGO CDN
+http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1,Todo Noticias Argentina
 http://170.82.37.21:8000/play/a044/index.m3u8
 #EXTINF:-1,Tooncast
@@ -352,5 +320,3 @@ http://170.82.37.21:8000/play/a02x/index.m3u8
 http://170.82.37.21:8000/play/a002/index.m3u8
 #EXTINF:-1,Warner
 http://170.82.37.21:8000/play/a03o/index.m3u8
-#EXTINF:-1,MTV 80s HD
-https://vk.com/away.php?to=http%3A%2F%2Fky-iptv.com%3A80%2FRE4T3AR4%2FTRH5Y4T4%2F385021.ts&post=786216432_828&cc_key=
