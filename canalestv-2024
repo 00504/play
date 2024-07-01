@@ -120,6 +120,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a53
 http://138.186.20.13:23200/play/a078
 #EXTINF:-1,A3 Series
 http://170.82.37.21:8000/play/a01k/index.m3u8
+#EXTINF:-1,Adult Swim
+http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1,AMC HD
 http://138.186.20.13:23200/play/a05y
 #EXTINF:-1,AXN
@@ -300,7 +302,7 @@ http://170.82.37.21:8000/play/a04e/index.m3u8
 http://170.82.37.21:8000/play/a01j/index.m3u8
 #EXTINF:-1,TLNovelas
 http://170.82.37.21:8000/play/a024/index.m3u8
-#EXTINF:0,TNT HD
+#EXTINF:-1,TNT HD
 http://138.186.20.13:23200/play/a055
 #EXTINF:-1,TNT Novelas
 http://170.82.37.21:8000/play/a037/index.m3u8
@@ -332,10 +334,8 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 http://170.82.37.21:8000/play/a044/index.m3u8
 #EXTINF:-1,Tooncast
 http://170.82.37.21:8000/play/a00x/index.m3u8
-#EXTINF:-1,Aduly Swim
-http://170.82.37.21:8000/play/a034/index.m3u8
-#EXTINF:-1,TyC Sports
-http://170.82.37.21:8000/play/a016/index.m3u8
+#EXTINF:-1,MX: Tooncast FHD
+https://vk.com/away.php?to=http%3A%2F%2Fky-iptv.com%3A80%2FRE4T3AR4%2FTRH5Y4T4%2F385004.ts&post=786216432_828&cc_key=
 #EXTINF:-1,Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy
@@ -348,8 +348,6 @@ http://170.82.37.21:8000/play/a03j/index.m3u8
 http://170.82.37.21:8000/play/a03k/index.m3u8
 #EXTINF:-1,Universal Reality
 http://170.82.37.21:8000/play/a02z/index.m3u8
-#EXTINF:-1,Universal TV
-http://170.82.37.21:8000/play/a03m/index.m3u8
 #EXTINF:-1,Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1,Venus
