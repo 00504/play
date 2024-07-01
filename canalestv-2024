@@ -116,11 +116,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-s
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="Auto;Entertainment",Top Gear
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:0,A&E HD
+#EXTINF:-1,A&E HD
 http://138.186.20.13:23200/play/a078
 #EXTINF:-1,A3 Series
 http://170.82.37.21:8000/play/a01k/index.m3u8
-#EXTINF:0,AMC HD
+#EXTINF:-1,AMC HD
 http://138.186.20.13:23200/play/a05y
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
@@ -266,6 +266,8 @@ http://170.82.37.21:8000/play/a02v/index.m3u8
 http://170.82.37.21:8000/play/a027/index.m3u8
 #EXTINF:-1,PlayBoy
 http://170.82.37.21:8000/play/a004/index.m3u8
+#EXTINF:-1,Playboy HD
+http://38.56.118.88:4000/play/a01v
 #EXTINF:-1,Porvenir TV
 http://170.82.37.21:8000/play/a045/index.m3u8
 #EXTINF:-1,RCN Honduras
@@ -298,10 +300,8 @@ http://170.82.37.21:8000/play/a04e/index.m3u8
 http://170.82.37.21:8000/play/a01j/index.m3u8
 #EXTINF:-1,TLNovelas
 http://170.82.37.21:8000/play/a024/index.m3u8
-#EXTINF:-1,TNH Canal 8
-http://170.82.37.21:8000/play/a00j/index.m3u8
-#EXTINF:-1,TNT
-http://170.82.37.21:8000/play/a03a/index.m3u8
+#EXTINF:-1,TNT HD
+http://38.56.118.88:4000/play/a00r
 #EXTINF:-1,TNT Novelas
 http://170.82.37.21:8000/play/a037/index.m3u8
 #EXTINF:-1,TNT Series
@@ -354,5 +354,7 @@ http://170.82.37.21:8000/play/a03m/index.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1,Venus
 http://170.82.37.21:8000/play/a002/index.m3u8
+#EXTINF:-1,Venus
+http://38.56.118.88:4000/play/a03y
 #EXTINF:-1,Warner
 http://170.82.37.21:8000/play/a03o/index.m3u8
