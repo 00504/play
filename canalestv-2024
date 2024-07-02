@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
-http://45.5.116.178:8000/play/a00b/index.m3u8
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
-http://45.5.116.178:8000/play/a03q/index.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
 http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
@@ -100,14 +100,10 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://138.186.20.13:23200/play/a05y
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
-#EXTINF:-1,Caracol HD2
-http://186.190.231.178:8000/play/a04d/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://170.82.37.21:8000/play/a00u/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://168.181.122.234:8000/play/a035/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://186.190.231.178:8000/play/a05o/index.m3u8
 #EXTINF:-1,Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -163,7 +159,7 @@ http://170.82.37.21:8000/play/a02w/index.m3u8
 #EXTINF:-1,Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1,TNT HD
-http://206.62.161.251:22000/play/TNT/index.m3u8
+http://45.235.37.254:8370/play/a00p
 #EXTINF:-1,tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1,Universal Cinema
