@@ -163,7 +163,7 @@ http://170.82.37.21:8000/play/a02w/index.m3u8
 #EXTINF:-1,Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1,TNT HD
-http://138.186.20.13:23200/play/a055
+http://206.62.161.251:22000/play/TNT/index.m3u8
 #EXTINF:-1,tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1,Universal Cinema
