@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="General",TCS+
-http://144.178.85.9:8000/play/rtl5hd/index.m3u8
+http://170.82.37.21:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="General",Canal 2
 http://45.5.116.178:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
@@ -30,7 +30,7 @@ http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="icndigital.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/ICN%20Digital_HN.png" group-title="",ICN Honduras
 http://170.82.37.21:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="HCH.hn" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="",HCH
-http://200.59.188.3:8000/play/a08j
+http://170.82.37.21:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Infantil",Disney Junior
@@ -98,6 +98,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Star_TVE.png" group-title="Series",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
+#EXTINF:-1,A&E
+http://170.82.37.21:8000/play/a01l/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
 #EXTINF:-1,Cartoon Network
@@ -157,7 +159,7 @@ http://170.82.37.21:8000/play/a02w/index.m3u8
 #EXTINF:-1,Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1,TNT HD
-http://45.235.37.254:8370/play/a00p
+http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1,tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1,Universal Cinema
