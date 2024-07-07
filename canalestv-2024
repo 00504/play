@@ -99,7 +99,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1,AMC
-http://170.82.37.21:8000/play/a01m/index.m3u8
+http://186.190.231.178:8000/play/a05a/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
 #EXTINF:-1,Antena 3
@@ -138,10 +138,14 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a04c/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
-#EXTINF:-1,Golden Premiere 2 HD
-http://168.181.122.234:8000/play/a03r/index.m3u8
-#EXTINF:-1,Golden Premiere HD
-http://168.181.122.234:8000/play/a01t/index.m3u8
+#EXTINF:-1,Golden HD
+http://38.56.118.88:4000/play/a02n
+#EXTINF:-1,Golden Edge HD
+http://206.62.161.251:22000/play/GOLDEEDGE/index.m3u8
+#EXTINF:0,Golden Premiere 2 HD
+http://45.5.116.178:8000/play/a00m/index.m3u8
+#EXTINF:0,Golden Premiere HD
+http://45.5.116.178:8000/play/a00l/index.m3u8
 #EXTINF:-1,HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1,HBO 2
@@ -154,8 +158,6 @@ http://170.82.37.21:8000/play/a02m/index.m3u8
 http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1,History
 http://170.82.37.21:8000/play/a01f/index.m3u8
-#EXTINF:-1,History 2 HD
-http://38.56.118.88:4000/play/a03e
 #EXTINF:-1,MTV00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1,NatGeo
@@ -170,8 +172,6 @@ http://170.82.37.21:8000/play/a02w/index.m3u8
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1,tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
-#EXTINF:-1,TNT
-http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1,Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy
