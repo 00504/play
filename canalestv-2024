@@ -138,14 +138,6 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a04c/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
-#EXTINF:-1,Golden HD
-http://38.56.118.88:4000/play/a02n
-#EXTINF:-1,Golden Edge HD
-http://206.62.161.251:22000/play/GOLDEEDGE/index.m3u8
-#EXTINF:0,Golden Premiere 2 HD
-http://45.5.116.178:8000/play/a00m/index.m3u8
-#EXTINF:0,Golden Premiere HD
-http://45.5.116.178:8000/play/a00l/index.m3u8
 #EXTINF:-1,HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1,HBO 2
