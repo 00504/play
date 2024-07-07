@@ -178,5 +178,5 @@ http://170.82.37.21:8000/play/a03j/index.m3u8
 http://170.82.37.21:8000/play/a03k/index.m3u8
 #EXTINF:-1,Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1,Warner Bros HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
