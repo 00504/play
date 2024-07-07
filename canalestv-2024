@@ -98,14 +98,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Star_TVE.png" group-title="Series",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1,A&E HD
-http://181.78.22.251:8090/play/a002/index.m3u8
-#EXTINF:-1,A&E HD
-http://181.78.22.251:8090/play/a02b/index.m3u8
-#EXTINF:-1,AMC HD
-http://181.78.22.251:8090/play/a013/index.m3u8
-#EXTINF:-1,ATRES SERIES HD
-http://181.78.22.251:8090/play/a02z/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
 #EXTINF:-1,Cartoon Network
@@ -142,8 +134,6 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a04c/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
-#EXTINF:-1,El Gourmet HD
-http://181.78.22.251:8090/play/a00o/index.m3u8
 #EXTINF:-1,HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1,HBO 2
@@ -156,10 +146,6 @@ http://170.82.37.21:8000/play/a02m/index.m3u8
 http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1,History
 http://170.82.37.21:8000/play/a01f/index.m3u8
-#EXTINF:-1,History 2 HD
-http://181.78.22.251:8090/play/a01z/index.m3u8
-#EXTINF:-1,Love Nature HD
-http://181.78.22.251:8090/play/a01r/index.m3u8
 #EXTINF:-1,MTV00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1,NatGeo
@@ -170,18 +156,10 @@ http://144.178.85.9:8000/play/a00q/index.m3u8
 http://170.82.37.21:8000/play/a02v/index.m3u8
 #EXTINF:-1,Sony Channel
 http://170.82.37.21:8000/play/a02w/index.m3u8
-#EXTINF:-1,Space HD
-http://181.78.22.251:8090/play/a006/index.m3u8
-#EXTINF:-1,Space HD
-http://181.78.22.251:8090/play/a02f/index.m3u8
 #EXTINF:-1,Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://181.78.22.251:8090/play/a017/index.m3u8
 #EXTINF:-1,tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
-#EXTINF:-1,TNT HD
-http://181.78.22.251:8090/play/a00g/index.m3u8
 #EXTINF:-1,Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy
@@ -192,9 +170,5 @@ http://170.82.37.21:8000/play/a03j/index.m3u8
 http://170.82.37.21:8000/play/a03k/index.m3u8
 #EXTINF:-1,Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
-#EXTINF:-1,Warner
+#EXTINF:-1,Warner Channel HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://181.78.22.251:8090/play/a004/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://181.78.22.251:8090/play/a02d/index.m3u8
