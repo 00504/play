@@ -150,6 +150,10 @@ http://170.82.37.21:8000/play/a02m/index.m3u8
 http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1,History
 http://170.82.37.21:8000/play/a01f/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://168.181.122.234:8000/play/a01t/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1,MTV00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1,NatGeo
