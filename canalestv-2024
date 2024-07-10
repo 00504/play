@@ -98,18 +98,12 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Star_TVE.png" group-title="Series",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1,AMC
-http://186.190.231.178:8000/play/a05a/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
-#EXTINF:-1,Antena 3
-http://170.82.37.21:8000/play/a01n/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://170.82.37.21:8000/play/a00u/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://168.181.122.234:8000/play/a035/index.m3u8
-#EXTINF:-1,Cinemax
-http://170.82.37.21:8000/play/a023/index.m3u8
 #EXTINF:-1,Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1,DPelicula
