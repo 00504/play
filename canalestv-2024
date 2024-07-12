@@ -10,7 +10,7 @@ https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal5_HN.png" group-title="",Canal 5 El Lider
 http://170.82.37.21:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com" tvg-logo="https://file.canal6.com.hn/2022/03/logo_header.webp" group-title="",CBC Canal 6
-https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
+http://170.82.37.21:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="",Telecadena 7/4
 http://170.82.37.21:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/TelePais.png" group-title="",TelePaís
@@ -128,6 +128,8 @@ http://190.92.10.66:4000/play/a008/index.m3u8
 http://170.82.37.21:8000/play/a026/index.m3u8
 #EXTINF:-1,DPelicula
 http://170.82.37.21:8000/play/a028/index.m3u8
+#EXTINF:-1,Animal Planet
+http://170.82.37.21:8000/play/a017/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1,Discovery Home & Health
@@ -220,12 +222,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
 
 
 #EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a005/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a006/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a007/index.m3u8
-#EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a008/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a009/index.m3u8
@@ -237,17 +233,29 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a012/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a013/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1,FOX Sport
 http://170.82.37.21:8000/play/a014/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1,TUDN
 http://170.82.37.21:8000/play/a015/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a016/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a017/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a018/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a019/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1,TUDN
 http://170.82.37.21:8000/play/a020/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a021/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a022/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a023/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a024/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a025/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a026/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a027/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a028/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a029/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a030/index.m3u8
