@@ -220,23 +220,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5367
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
 
-
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a008/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a009/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a010/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a011/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a012/index.m3u8
-#EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a013/index.m3u8
-#EXTINF:-1,FOX Sport
-http://170.82.37.21:8000/play/a014/index.m3u8
-#EXTINF:-1,TUDN
-http://170.82.37.21:8000/play/a015/index.m3u8
 #EXTINF:-1,TUDN
 http://170.82.37.21:8000/play/a020/index.m3u8
 #EXTINF:-1,TUDN
@@ -249,13 +232,24 @@ http://170.82.37.21:8000/play/a023/index.m3u8
 http://170.82.37.21:8000/play/a024/index.m3u8
 #EXTINF:-1,TUDN
 http://170.82.37.21:8000/play/a025/index.m3u8
+
 #EXTINF:-1,TUDN
-http://170.82.37.21:8000/play/a026/index.m3u8
+http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1,TUDN
-http://170.82.37.21:8000/play/a027/index.m3u8
+http://170.82.37.21:8000/play/a032/index.m3u8
 #EXTINF:-1,TUDN
-http://170.82.37.21:8000/play/a028/index.m3u8
+http://170.82.37.21:8000/play/a033/index.m3u8
 #EXTINF:-1,TUDN
-http://170.82.37.21:8000/play/a029/index.m3u8
+http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1,TUDN
-http://170.82.37.21:8000/play/a030/index.m3u8
+http://170.82.37.21:8000/play/a035/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a036/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a037/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a038/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a039/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a040/index.m3u8
