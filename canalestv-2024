@@ -91,6 +91,8 @@ https://amixtv.live:3395/live/unetvlive.m3u8
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews Spanish
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Estilo de Vida",FashionTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Estilo de Vida",FashionTV Europe
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
@@ -198,3 +200,42 @@ http://170.82.37.21:8000/play/a02x/index.m3u8
 http://170.82.37.21:8000/play/a03o/index.m3u8
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5073
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5083
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5085
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5190
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5222
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5235
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5258
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5262
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5304
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5367
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
+#EXTINF:-1,Canal Test
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4182
+
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a002/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a003/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a004/index.m3u8
