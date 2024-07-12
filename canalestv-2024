@@ -3,6 +3,8 @@
 http://168.181.122.234:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="General",TV País Honduras
 https://rad-net.com/PaisTv/123/playlist.m3u8
+#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="General",TV País Honduras
+https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="",TSi
 http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="",Lenca TV
