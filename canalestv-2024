@@ -106,8 +106,12 @@ http://170.82.37.21:8000/play/a001/index.m3u8
 http://170.82.37.21:8000/play/a00u/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://168.181.122.234:8000/play/a035/index.m3u8
+#EXTINF:-1,Comedy Central
+http://170.82.37.21:8000/play/a02f/index.m3u8
 #EXTINF:-1,Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
+#EXTINF:-1,DHE
+http://170.82.37.21:8000/play/a026/index.m3u8
 #EXTINF:-1,DPelicula
 http://170.82.37.21:8000/play/a028/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -152,6 +156,8 @@ http://168.181.122.234:8000/play/a01t/index.m3u8
 http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1,MTV00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
+#EXTINF:-1,Multicinema
+http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1,NatGeo
 http://170.82.37.21:8000/play/a01h/index.m3u8
 #EXTINF:0,NatGeo Wild
@@ -160,6 +166,8 @@ http://144.178.85.9:8000/play/a00q/index.m3u8
 http://170.82.37.21:8000/play/a02v/index.m3u8
 #EXTINF:-1,Sony Channel
 http://170.82.37.21:8000/play/a02w/index.m3u8
+#EXTINF:-1,Space
+http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1,Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1,tigo SPORTS
