@@ -200,24 +200,13 @@ http://170.82.37.21:8000/play/a02x/index.m3u8
 http://170.82.37.21:8000/play/a03o/index.m3u8
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
-#EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
-#EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5073
 #EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5083
-#EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5085
-#EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5190
-#EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5222
-#EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5235
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5258
 #EXTINF:-1,Canal Test
@@ -225,17 +214,40 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5262
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 #EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5304
-#EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5367
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
-#EXTINF:-1,Canal Test
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4182
+
 
 #EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a002/index.m3u8
+http://170.82.37.21:8000/play/a005/index.m3u8
 #EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a003/index.m3u8
+http://170.82.37.21:8000/play/a006/index.m3u8
 #EXTINF:-1,AXN
-http://170.82.37.21:8000/play/a004/index.m3u8
+http://170.82.37.21:8000/play/a007/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a008/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a009/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a010/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a011/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a012/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a013/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a014/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a015/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a016/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a017/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a018/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a019/index.m3u8
+#EXTINF:-1,AXN
+http://170.82.37.21:8000/play/a020/index.m3u8
