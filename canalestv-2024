@@ -289,23 +289,5 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1,Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
 
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01a/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01b/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01c/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01d/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01e/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01f/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01g/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01h/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01i/index.m3u8
-#EXTINF:-1,Test Channel
-http://190.92.10.66:4000/play/a01j/index.m3u8
+#EXTINF:-1,TIGO CDN
+http://190.92.10.66:4000/play/a00b/index.m3u8
