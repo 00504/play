@@ -118,10 +118,16 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1,Adult SWIM
 http://170.82.37.21:8000/play/a034/index.m3u8
+#EXTINF:-1,AMC
+http://170.82.37.21:8000/play/a01m/index.m3u8
 #EXTINF:-1,Animal Planet
 http://170.82.37.21:8000/play/a017/index.m3u8
 #EXTINF:-1,AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
+#EXTINF:-1,Azteca Clic
+http://170.82.37.21:8000/play/a02l/index.m3u8
+#EXTINF:-1,BANDAMAX
+http://170.82.37.21:8000/play/a01z/index.m3u8
 #EXTINF:-1,Canal *MX
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1,Cartoon Network
@@ -166,11 +172,13 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a04c/index.m3u8
 #EXTINF:-1,ESPN 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
+#EXTINF:-1,Film & Arts
+http://170.82.37.21:8000/play/a01i/index.m3u8
 #EXTINF:-1,FX
 http://170.82.37.21:8000/play/a02d/index.m3u8
 #EXTINF:-1,HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
-#EXTINF:-1,HBO 2
+#EXTINF:-1,HBO2
 http://170.82.37.21:8000/play/a02i/index.m3u8
 #EXTINF:-1,HBO Extreme
 http://170.82.37.21:8000/play/a02k/index.m3u8
@@ -188,6 +196,8 @@ http://170.82.37.21:8000/play/a02e/index.m3u8
 http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1,MC
 http://170.82.37.21:8000/play/a02s/index.m3u8
+#EXTINF:-1,MTV
+http://170.82.37.21:8000/play/a01y/index.m3u8
 #EXTINF:-1,MTV00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1,Multicinema
@@ -210,6 +220,8 @@ http://170.82.37.21:8000/play/a031/index.m3u8
 http://170.82.37.21:8000/play/a00w/index.m3u8
 #EXTINF:-1,Telefé
 http://170.82.37.21:8000/play/a042/index.m3u8
+#EXTINF:-1,TeleHIT
+http://170.82.37.21:8000/play/a01w/index.m3u8
 #EXTINF:-1,tigo SPORTS
 http://170.82.37.21:8000/play/a047/index.m3u8
 #EXTINF:-1,TN
@@ -254,25 +266,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
 http://170.82.37.21:8000/play/a036/index.m3u8
 #EXTINF:-1,VIX LA LIGA
 http://170.82.37.21:8000/play/a048/index.m3u8
-
-#EXTINF:-1,National Geographic
-http://170.82.37.21:8000/play/a01h/index.m3u8
-#EXTINF:-1,Film & Arts
-http://170.82.37.21:8000/play/a01i/index.m3u8
-#EXTINF:-1,AMC
-http://170.82.37.21:8000/play/a01m/index.m3u8
-#EXTINF:-1,Antena 3
-http://170.82.37.21:8000/play/a01n/index.m3u8
-#EXTINF:-1,TeleHIT
-http://170.82.37.21:8000/play/a01w/index.m3u8
-#EXTINF:-1,MTV
-http://170.82.37.21:8000/play/a01y/index.m3u8
-#EXTINF:-1,BANDAMAX
-http://170.82.37.21:8000/play/a01z/index.m3u8
-
-#EXTINF:-1,PRUEBA
-http://170.82.37.21:8000/play/a02i/index.m3u8
-#EXTINF:-1,AZTECA DEPORTES
-http://170.82.37.21:8000/play/a02j/index.m3u8
-#EXTINF:-1,Azteca Clic
-http://170.82.37.21:8000/play/a02l/index.m3u8
