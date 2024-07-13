@@ -128,7 +128,7 @@ http://170.82.37.21:8000/play/a001/index.m3u8
 http://170.82.37.21:8000/play/a02l/index.m3u8
 #EXTINF:-1,BANDAMAX
 http://170.82.37.21:8000/play/a01z/index.m3u8
-#EXTINF:-1,Canal *MX
+#EXTINF:-1,Canal 5 MX
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://170.82.37.21:8000/play/a00u/index.m3u8
@@ -162,7 +162,7 @@ http://170.82.37.21:8000/play/a02c/index.m3u8
 http://170.82.37.21:8000/play/a03h/index.m3u8
 #EXTINF:-1,El Trece
 http://170.82.37.21:8000/play/a043/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN+
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1,ESPN HD
 http://170.82.37.21:8000/play/a00y/index.m3u8
@@ -200,7 +200,7 @@ http://170.82.37.21:8000/play/a02e/index.m3u8
 http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1,Gourmet
 http://170.82.37.21:8000/play/a03e/index.m3u8
-#EXTINF:-1,Hola TV
+#EXTINF:-1,¡Hola! TV
 http://170.82.37.21:8000/play/a03d/index.m3u8
 #EXTINF:-1,MC
 http://170.82.37.21:8000/play/a02s/index.m3u8
@@ -240,6 +240,8 @@ http://170.82.37.21:8000/play/a044/index.m3u8
 http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:-1,Toon Cast
 http://170.82.37.21:8000/play/a00x/index.m3u8
+#EXTINF:-1,TUDN
+http://170.82.37.21:8000/play/a015/index.m3u8
 #EXTINF:-1,Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy
@@ -254,8 +256,6 @@ http://170.82.37.21:8000/play/a03k/index.m3u8
 http://170.82.37.21:8000/play/a02z/index.m3u8
 #EXTINF:-1,Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
-#EXTINF:-1,UNIVISION
-http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1,VIX Premium
 http://170.82.37.21:8000/play/a048/index.m3u8
 #EXTINF:-1,Warner Bros HD
