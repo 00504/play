@@ -134,8 +134,6 @@ http://170.82.37.21:8000/play/a02h/index.m3u8
 http://170.82.37.21:8000/play/a00u/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://170.82.37.21:8000/play/a022/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://168.181.122.234:8000/play/a035/index.m3u8
 #EXTINF:-1,Comedy Central
 http://170.82.37.21:8000/play/a02f/index.m3u8
 #EXTINF:-1,Deportes TVC
@@ -281,56 +279,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5367
 #EXTINF:-1,R
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
-
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02a/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02b/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02c/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02d/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02e/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02f/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02g/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02h/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02i/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02j/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02k/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02l/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02m/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02n/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02o/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02p/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02q/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02r/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02s/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02t/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02u/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02v/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02w/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02x/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02y/index.m3u8
-#EXTINF:-1,PP
-http://168.181.122.234:8000/play/a02z/index.m3u8
