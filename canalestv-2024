@@ -234,7 +234,7 @@ http://170.82.37.21:8000/play/a00x/index.m3u8
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1,Universal Comedy
 http://170.82.37.21:8000/play/a03g/index.m3u8
-#EXTINF:-1,Universal Premier
+#EXTINF:-1,Universal Premiere
 http://170.82.37.21:8000/play/a03j/index.m3u8
 #EXTINF:-1,Universal Premiere 2
 http://170.82.37.21:8000/play/a03k/index.m3u8
@@ -265,56 +265,72 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5367
 #EXTINF:-1,Canal Test
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5375
-
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03a/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03b/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,TNT Series
 http://170.82.37.21:8000/play/a03c/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,HOLA TV
 http://170.82.37.21:8000/play/a03d/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,Gourmet
 http://170.82.37.21:8000/play/a03e/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03f/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03g/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,E Entreteniment
 http://170.82.37.21:8000/play/a03h/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,Universal Crime
 http://170.82.37.21:8000/play/a03i/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03j/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03k/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03l/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03m/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03n/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,Warner Channel
 http://170.82.37.21:8000/play/a03o/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03p/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03q/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03r/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03s/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03t/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,+QN
 http://170.82.37.21:8000/play/a03u/index.m3u8
-#EXTINF:-1,TEST Channel
+#EXTINF:-1,TV Azteca Guate
 http://170.82.37.21:8000/play/a03v/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03w/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03x/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03y/index.m3u8
-#EXTINF:-1,TEST Channel
-http://170.82.37.21:8000/play/a03z/index.m3u8
+
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04a/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04b/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04c/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04d/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04e/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04f/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04h/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04i/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04j/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04k/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04l/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04m/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04n/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04o/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04p/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04q/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04r/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04s/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04t/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04u/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04v/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04w/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04x/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04y/index.m3u8
+#EXTINF:-1,PRUEBA
+http://170.82.37.21:8000/play/a04z/index.m3u8
