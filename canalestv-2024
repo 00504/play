@@ -291,3 +291,9 @@ http://190.92.10.66:4000/play/a008/index.m3u8
 
 #EXTINF:-1,TIGO CDN
 http://190.92.10.66:4000/play/a00b/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://186.190.231.178:8000/play/a05i/index.m3u8
+#EXTINF:-1,Cinecanal
+http://186.190.231.178:8000/play/a00z/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://186.190.231.178:8000/play/a05o/index.m3u8
