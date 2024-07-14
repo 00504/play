@@ -138,6 +138,8 @@ http://170.82.37.21:8000/play/a01z/index.m3u8
 http://170.82.37.21:8000/play/a00u/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://170.82.37.21:8000/play/a022/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://181.205.77.118:4849/play/CH33
 #EXTINF:-1,Cinemax HD
 http://181.205.77.118:4849/play/CH57
 #EXTINF:-1,Comedy Central
@@ -222,6 +224,8 @@ http://170.82.37.21:8000/play/a01x/index.m3u8
 http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1,NatGeo
 http://170.82.37.21:8000/play/a01h/index.m3u8
+#EXTINF:-1,NatGeo
+http://181.205.77.118:4849/play/CH81
 #EXTINF:-1,Nick HD
 http://200.59.188.3:8000/play/a00r
 #EXTINF:-1,Paramount Network
@@ -250,8 +254,6 @@ http://170.82.37.21:8000/play/a047/index.m3u8
 http://170.82.37.21:8000/play/a044/index.m3u8
 #EXTINF:-1,TNT HD
 http://181.205.77.118:4849/play/CH39
-#EXTINF:-1,TNT HD
-http://200.59.188.3:8000/play/a010
 #EXTINF:-1,TNT Series
 http://170.82.37.21:8000/play/a03c/index.m3u8
 #EXTINF:-1,Toon Cast
