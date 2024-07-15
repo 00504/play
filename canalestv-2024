@@ -30,7 +30,7 @@ http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="icndigital.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/ICN%20Digital_HN.png" group-title="",ICN Honduras
 http://170.82.37.21:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="HCH.hn" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="",HCH
-http://170.82.37.21:8000/play/a009/index.m3u8
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=U-29HGEqQ-gdY6hm3LMId0huxBcZBCI9hQYoAJqCIg2bxOhEi-KSV1Elp_daD8OE&dmTs=908366&dmV1st=f548bd39-2365-4a1d-bf33-250e76a8e584
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Infantil",Disney Junior
