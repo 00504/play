@@ -96,7 +96,7 @@ https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=freetv.com&genre=Entretenimiento&us_privacy=1YNN&coppa=0&c_producer=freetv&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=3a24a5ccc822300ce3140da59c879f0e&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1720801443&id=2598&ip=190.92.36.165&override_expiration=1500&sign=vJUAEmOHnwJia33O8lxyr174Ky3E3fgetV9XQofJ6DI%3D
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=8824
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Documentales",Love Nature HD
 http://181.205.77.118:4849/play/CH82
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentales",Love Nature 4K
