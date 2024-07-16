@@ -17,7 +17,7 @@ http://170.82.37.21:8000/play/a008/index.m3u8
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://www.vtv.com.hn/wp-content/uploads/2023/08/VTV-PLAY-BLANCO-2-1-1-150x145.png" group-title="Variedades",VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW en Español
+#EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
