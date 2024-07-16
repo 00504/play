@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Canal Test",TCS+
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
@@ -121,7 +121,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="",Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Variedades",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Telemundo.png" group-title="Entretenimiento",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
@@ -199,6 +199,8 @@ http://170.82.37.21:8000/play/a02b/index.m3u8
 http://170.82.37.21:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",Las Estrellas HD
 http://181.205.77.118:4849/play/CH112
+#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="Entretenimiento",Sun Channel HD
+http://200.59.188.3:8000/play/a01c
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",TNT Series
 http://170.82.37.21:8000/play/a03c/index.m3u8
 
@@ -256,8 +258,6 @@ http://170.82.37.21:8000/play/a02y/index.m3u8
 http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Peliculas",Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Peliculas",Sun Channel HD
-http://200.59.188.3:8000/play/a01c
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Peliculas",TNT HD
 http://181.205.77.118:4849/play/CH39
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Peliculas",Universal Cinema
