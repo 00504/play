@@ -51,9 +51,9 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Canela*Kids
+#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids1.png" group-title="Infantil",Canela*Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Zona de Acción
+#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids1.png" group-title="Infantil",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="cartoonnetwork.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://170.82.37.21:8000/play/a00u/index.m3u8
@@ -73,8 +73,6 @@ http://170.82.37.21:8000/play/a00x/index.m3u8
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Variedades",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Cine%20Romantico.png" group-title="Peliculas",Cine Romántico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
@@ -129,9 +127,7 @@ http://170.82.37.21:8000/play/a042/index.m3u8
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Teletica_1982.pnghttps://upload.wikimedia.org/wikipedia/commons/0/0f/Teletica_1982.png" group-title="Variedades",Teletica
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Variedades",Teletica
+#EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Teletica_CR.png" group-title="Variedades",Teletica
 http://170.82.37.21:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Televisa12MX.png" group-title="Variedades",Televisa 12
 https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
@@ -139,11 +135,6 @@ https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Cultura",Film & Arts
-http://170.82.37.21:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Cultura",Gourmet
-http://170.82.37.21:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
@@ -180,8 +171,8 @@ http://168.181.122.234:8000/play/a02g/index.m3u8
 http://170.82.37.21:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Documentales",Discovery World
 http://170.82.37.21:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Saber Mas
-https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/cb573d177b6c6c8c84c93978d1f74582bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769286b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fed375551ac0b390665d5bf5eaa6b56c5865b967e28defbc0303a7c5e429f0c0cb1a55aa1aee85b40d066b28b2519c16c5bb0d71c8b813e9dbaf024dc1ad12faf45c1c7b39b874592f0d336fc33d46e75324c7c9d933790f64da4d59e7c3a99635a2c743df5a291fb5c318754192c9296cabb76b110c19935801254d161c815c95aed6aae1ae9e547a4dff9b5021238f6905a3424a3e6f8d8a96663ed65fef1b889237898a34d7b1f9e34de722e62e497a10197fc0584bf3584b7706f5eaaf514a2b39cd998daea4b983684d2e6944f2e240902108358b68c23d826d022e0a47d20585e0aac8a45fb84cc50346e4af4f634a01014b495848fc6032bdf731a4ea646cb5e0058fa6e0216822cfd897268873278e65f5cab0244ea28fdbc3fbbaec8da0a3aa1aca4289e3fb5cd60bef706ba233d49128cfc2d52403e15ba88401f357cf773be86a090760d13a2f6ddeeff402c082b126d1999ee9530f1f0c83d0906d209692f630700d802c46cda145f4e2dc6139ca80c628c05243ebcdf55335b688586a492b8c6d84da37ed0d68f5f455f085a931d37d00fb9c5e5dd3f842a041875ae4d0c6bb2095e57f894da97e1ea0ce0bd1467bcff7619a8de18531d5a3342079e8261d45f98e6752f11713dbe81be134bc50ca605029190ef79f4ecc38627bb3316366b05b4e15db35728d716c63f89df75d6a45a461839006bcd9c40fa4cf3bfc88e43ee5d63f73c68c5e6f5bc9a66107ff1aef37c93797a741a7a407f2f0df7eed0631578e5bb26ea4de7d1a5c828641e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6a8ba95790e518beee51cf2e1af84cfddc5692c5b3d60cb900f0437fe2fe28901eeb5522dbdd1c5b5a81bfd1fd53cb580b939f77cf19bce6980a4ddafab3947241f3d9becf8e01dd7b00b3fca5dd25f281e9392a4b925ccd3b20377fd4ea2e2236bbd356a52d9a199529933d90658ad2822bd3f11e4943050fb2c0772dc326896e11dfd/61/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Documentales",Film & Arts
+http://170.82.37.21:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Documentales",History
 http://170.82.37.21:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Documentales",History 2 HD
