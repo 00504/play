@@ -123,10 +123,16 @@ https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Variedades",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
+#EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Variedades",Telefe
+http://170.82.37.21:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Entretenimiento",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Teletica_1982.pnghttps://upload.wikimedia.org/wikipedia/commons/0/0f/Teletica_1982.png" group-title="Variedades",Teletica
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Variedades",Teletica
+http://170.82.37.21:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Televisa12MX.png" group-title="Variedades",Televisa 12
 https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
@@ -270,10 +276,3 @@ http://170.82.37.21:8000/play/a03j/index.m3u8
 http://170.82.37.21:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Peliculas",Warner Bros HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Variedades",Telefe
-http://170.82.37.21:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Variedades",Teletica
-http://170.82.37.21:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Variedades",TN
-http://170.82.37.21:8000/play/a044/index.m3u8
