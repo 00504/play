@@ -20,7 +20,7 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911/publish/media_5000.m3u8
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_5000.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Variedades",Azteca Honduras
 http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Variedades",EDN TV
