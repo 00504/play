@@ -20,7 +20,7 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911/publish/media_5000.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Variedades",Azteca Honduras
 http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Variedades",EDN TV
@@ -51,6 +51,8 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Música",BANDAMAX
+http://170.82.37.21:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Canela*Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Zona de Acción
@@ -101,6 +103,8 @@ http://181.205.77.118:4849/play/CH82
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="mtvla.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Música",MTV00s
+http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Noticias",N+
@@ -121,6 +125,8 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Variedades",Telefe
 http://170.82.37.21:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TeleHIT
+http://170.82.37.21:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Entretenimiento",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
@@ -133,6 +139,8 @@ https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="univision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
+http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
@@ -188,8 +196,6 @@ http://170.82.37.21:8000/play/a02f/index.m3u8
 http://170.82.37.21:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",E Entertainment
 http://170.82.37.21:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",Europa Europa
-http://170.82.37.21:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",¡HOLA! TV
 http://170.82.37.21:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",Las Estrellas HD
@@ -198,18 +204,6 @@ http://181.205.77.118:4849/play/CH112
 http://200.59.188.3:8000/play/a01c
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Entretenimiento",TNT Series
 http://170.82.37.21:8000/play/a03c/index.m3u8
-
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Música",BANDAMAX
-http://170.82.37.21:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Música",MTV
-http://170.82.37.21:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Música",MTV00s
-http://170.82.37.21:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Música",TeleHIT
-http://170.82.37.21:8000/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Noticias",Univision
-http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/Test_Check.png" group-title="Peliculas",AMC
 http://170.82.37.21:8000/play/a01m/index.m3u8
