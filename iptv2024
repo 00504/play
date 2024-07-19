@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2091013
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 http://45.238.176.2:25461/live/96087977/158/1.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
@@ -89,14 +89,10 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Acción
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Drama
 https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
 #EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Estelar
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=freetv.com&genre=Entretenimiento&us_privacy=1YNN&coppa=0&c_producer=freetv&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=3a24a5ccc822300ce3140da59c879f0e&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&timestamp=1720801443&id=2598&ip=190.92.36.165&override_expiration=1500&sign=vJUAEmOHnwJia33O8lxyr174Ky3E3fgetV9XQofJ6DI%3D
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Documentales",Love Nature HD
