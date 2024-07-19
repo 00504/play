@@ -67,7 +67,7 @@ http://200.59.188.3:8000/play/a016
 http://170.82.37.21:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Documentales",Discovery Channel
 http://170.82.37.21:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery Home & Health
+#EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery H&H
 http://200.59.188.3:8000/play/a01e
 #EXTINF:-1 tvg-id="DPeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Peliculas",DPelicula
 http://170.82.37.21:8000/play/a028/index.m3u8
@@ -77,8 +77,6 @@ http://200.59.188.3:8000/play/a00y
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://i.imgur.com/yrVMdst.png" group-title="Infantil",El Gourmet HD
 http://200.59.188.3:8000/play/a01a
-#EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
-http://170.82.37.21:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
 http://170.82.37.21:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantil",Nick HD
