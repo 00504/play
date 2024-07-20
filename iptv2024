@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
-https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ABP_jQbhLg4fsfAWQ_bA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
-http://45.238.176.2:25461/live/96087977/158/1.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
 http://170.82.37.21:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Variedades",Lenca TV
