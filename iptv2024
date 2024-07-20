@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
@@ -43,8 +43,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Bandamax.png" group-title="Música",BANDAMAX
 http://170.82.37.21:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TeleHIT
-http://170.82.37.21:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png" group-title="Música",Canela MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Infantil",Adult SWIM
@@ -52,8 +52,6 @@ http://170.82.37.21:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Infantil",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Canela*Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="cartoonnetwork.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://170.82.37.21:8000/play/a00u/index.m3u8
@@ -63,8 +61,6 @@ http://200.59.188.3:8000/play/a00y
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantil",Nick HD
 http://200.59.188.3:8000/play/a00r
-#EXTINF:-1 tvg-id="teennick.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png" group-title="Infantil",Teennick
-http://170.82.37.21:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.tv" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Infantil",Tooncast
 http://170.82.37.21:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
@@ -113,7 +109,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="natgeo.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentales",NatGeo
+#EXTINF:-1 tvg-id="natgeo.tv" tvg-logo="https://www.kindpng.com/picc/m/646-6466111_national-geographic-tv-logo-png-transparent-png.png" group-title="Documentales",NatGeo
 http://170.82.37.21:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Noticias",N+
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
@@ -131,6 +127,8 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 http://200.59.188.3:8000/play/a01c
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Variedades",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
+#EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TeleHIT
+http://170.82.37.21:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Entretenimiento",Telemundo Internacional
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
@@ -146,9 +144,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://i.imgur.com/N8an6V9.png" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.large.81331378_1200px-2018_Animal_Planet_logo.svg-copia(2).png.59d305ea783e247f5423563064ba0948.png.3a9749398073c2cb60c7ad2600498cd4.png" group-title="Documentales",Animal Planet
 http://170.82.37.21:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Documentales",Discovery Channel
+#EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="investigationdiscovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_ID.png" group-title="Documentales",Discovery ID HD
 http://168.181.122.234:8000/play/a02g/index.m3u8
