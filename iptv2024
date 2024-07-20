@@ -67,7 +67,7 @@ http://200.59.188.3:8000/play/a00r
 http://170.82.37.21:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.tv" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Infantil",Tooncast
 http://170.82.37.21:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5-MX.png" group-title="Variedades",Canal 5 MX
+#EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Variedades",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
