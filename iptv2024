@@ -63,8 +63,6 @@ http://200.59.188.3:8000/play/a00r
 http://170.82.37.21:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://170.82.37.21:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="cn51hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal51_HN.png" group-title="Variedades",Canal 51
-https://tvcn51.com/hls/cn51480.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Variedades",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
@@ -96,11 +94,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="historylatam.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentales",History
 http://170.82.37.21:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 HD
-http://181.205.77.118:4849/play/CH78
+http://177.53.155.236:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="hola.tv" tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg" group-title="Entretenimiento",¡HOLA! TV
 http://170.82.37.21:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Documentales",Love Nature HD
-http://181.205.77.118:4849/play/CH82
+http://177.53.155.236:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentales",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
@@ -185,7 +183,7 @@ http://170.82.37.21:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="DPeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Peliculas",DPelicula
 http://170.82.37.21:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
-http://181.205.77.118:4849/play/CH33
+http://177.53.155.236:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Peliculas",Cinemax HD
 http://200.59.188.3:8000/play/a016
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Peliculas",DHE
@@ -193,7 +191,7 @@ http://170.82.37.21:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
 http://170.82.37.21:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="goldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Peliculas",Golden Plus HD
-http://181.205.77.118:4849/play/CH47
+http://177.53.155.236:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier HD
 http://170.82.37.21:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier2 HD
@@ -219,7 +217,7 @@ http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="tntla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TNT.png" group-title="Peliculas",TNT HD
-http://181.205.77.118:4849/play/CH39
+http://177.53.155.236:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Peliculas",Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Peliculas",Universal Comedy
