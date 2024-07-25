@@ -233,6 +233,6 @@ http://170.82.37.21:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="UniversalReality.us" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Documentales",Universal Reality
 http://170.82.37.21:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
-http://170.83.242.9:4000/play/a10b/index.m3u8
+http://170.83.242.9:4000/play/a10b
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
