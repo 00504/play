@@ -219,7 +219,7 @@ http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="tntla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TNT.png" group-title="Peliculas",TNT HD
-http://177.53.155.236:8000/play/a08t/index.m3u8
+http://200.59.188.3:8000/play/a010
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Peliculas",Universal Cinema
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Peliculas",Universal Comedy
