@@ -179,7 +179,7 @@ http://170.82.37.21:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="DPeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Peliculas",DPelicula
 http://170.82.37.21:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
-http://177.93.41.134:4000/play/a0dp/index.m3u8
+http://177.53.155.236:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Peliculas",Cinemax HD
 http://200.59.188.3:8000/play/a016
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Peliculas",DHE
