@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
 http://200.115.120.1:8000/play/ca085/index.m3u8
-#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="",Canal 2
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 http://190.97.183.98:8000/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
 http://170.82.37.21:8000/play/a003/index.m3u8
@@ -9,7 +9,7 @@ http://170.82.37.21:8000/play/a003/index.m3u8
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 http://170.82.37.21:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="",Canal 6
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="Variedades",Canal 6
 http://190.97.183.98:8000/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Variedades",Telecadena 7/4
 http://170.82.37.21:8000/play/a008/index.m3u8
@@ -165,7 +165,7 @@ http://170.82.37.21:8000/play/a011/index.m3u8
 http://170.82.37.21:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 6 HD
 http://170.82.37.21:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png",tigo SPORTS
+#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://170.82.37.21:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://170.82.37.21:8000/play/a015/index.m3u8
