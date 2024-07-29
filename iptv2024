@@ -139,7 +139,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.large.81331378_1200px-2018_Animal_Planet_logo.svg-copia(2).png.59d305ea783e247f5423563064ba0948.png.3a9749398073c2cb60c7ad2600498cd4.png" group-title="Documentales",Animal Planet
-http://177.93.41.134:4000/play/a0e1/index.m3u8
+http://190.107.144.14:25461/live/Herrera28/1234/16.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery H&H
