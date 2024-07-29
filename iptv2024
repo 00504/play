@@ -71,7 +71,7 @@ http://170.82.37.21:8000/play/a02f/index.m3u8
 http://170.82.37.21:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="eonline.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="Entretenimiento",E Entertainment
 http://170.82.37.21:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://i.imgur.com/yrVMdst.png" group-title="Infantil",El Gourmet HD
+#EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://i.imgur.com/yrVMdst.png" group-title="Gastronomía",El Gourmet HD
 http://200.59.188.3:8000/play/a01a
 #EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="Noticias",El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
