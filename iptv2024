@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+http://190.97.183.98:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 http://190.97.183.98:8000/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
@@ -187,9 +187,9 @@ http://177.93.41.134:4000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
 http://177.93.41.134:4000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier HD
-http://170.82.37.21:8000/play/a02e/index.m3u8
+http://190.97.183.98:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier2 HD
-http://168.181.122.234:8000/play/a03r/index.m3u8
+http://190.97.183.98:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Peliculas",HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmericaHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Peliculas",HBO2
