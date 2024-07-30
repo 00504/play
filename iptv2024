@@ -146,8 +146,6 @@ http://190.107.144.14:25461/live/Herrera28/1234/16.m3u8
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery H&H
 http://200.59.188.3:8000/play/a01e
-#EXTINF:-1 tvg-id="investigationdiscovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_ID.png" group-title="Documentales",Discovery ID HD
-http://168.181.122.234:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="discoverytheaterlatinamerica.us" tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales",Discovery Theather
 http://170.82.37.21:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="discoveryworldlatinamerica.us" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World
