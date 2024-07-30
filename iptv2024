@@ -17,13 +17,15 @@ http://170.82.37.21:8000/play/a008/index.m3u8
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal10_SV.png" group-title="Documentales",Canal 10
+http://190.97.183.98:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+#EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Variedades",Azteca Honduras
 http://170.82.37.21:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="sitiowebdelcanal" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
+#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Variedades",EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
@@ -31,8 +33,6 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 http://170.82.37.21:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="Variedades",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
-https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="http://www.unetvhn.com/wp-content/uploads/2022/09/logo-1.png" group-title="Variedades",UNE TV
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -137,6 +137,8 @@ https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
+https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
