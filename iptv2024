@@ -127,6 +127,8 @@ http://170.82.37.21:8000/play/a01w/index.m3u8
 http://190.92.10.66:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Noticias",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Teletica_CR.png" group-title="Variedades",Teletica
 http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Televisa12MX.png" group-title="Variedades",Televisa 12
