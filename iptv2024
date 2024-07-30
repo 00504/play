@@ -18,7 +18,7 @@ https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal10_SV.png" group-title="Documentales",Canal 10
-http://190.97.183.98:8000/play/a083/index.m3u8
+http://179.49.113.220:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="Variedades",Azteca Honduras
@@ -220,7 +220,5 @@ http://170.82.37.21:8000/play/a03f/index.m3u8
 http://170.82.37.21:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Peliculas",Universal Premiere 2
 http://170.82.37.21:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="UniversalReality.us" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Documentales",Universal Reality
-http://170.82.37.21:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
