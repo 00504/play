@@ -141,6 +141,14 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
 http://177.93.41.134:4000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
+http://170.83.242.9:4000/play/a10b
+#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
+http://177.126.51.9:8000/play/a019
+#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
+http://200.59.188.3:8000/play/a01h
+#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
+http://138.186.20.13:23200/play/a0ff
 
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.large.81331378_1200px-2018_Animal_Planet_logo.svg-copia(2).png.59d305ea783e247f5423563064ba0948.png.3a9749398073c2cb60c7ad2600498cd4.png" group-title="Documentales",Animal Planet
 http://190.107.144.14:25461/live/Herrera28/1234/16.m3u8
