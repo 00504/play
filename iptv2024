@@ -117,7 +117,7 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Variedades",Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2024/03/cropped-LOGO-ta-NUEVO2.png" group-title="Variedades",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TeleHIT
 http://170.82.37.21:8000/play/a01w/index.m3u8
@@ -140,8 +140,8 @@ http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
 http://177.93.41.134:4000/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/small.large.81331378_1200px-2018_Animal_Planet_logo.svg-copia(2).png.59d305ea783e247f5423563064ba0948.png.3a9749398073c2cb60c7ad2600498cd4.png" group-title="Documentales",Animal Planet
-http://190.107.144.14:25461/live/Herrera28/1234/16.m3u8
+#EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
+http://170.82.37.21:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
 http://170.82.37.21:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery H&H
@@ -185,9 +185,9 @@ http://177.93.41.134:4000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
 http://177.93.41.134:4000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier HD
-http://190.97.183.98:8000/play/a08a/index.m3u8
+http://168.181.122.234:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier2 HD
-http://190.97.183.98:8000/play/a08b/index.m3u8
+http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Peliculas",HBO
 http://170.82.37.21:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmericaHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Peliculas",HBO2
