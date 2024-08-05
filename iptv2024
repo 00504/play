@@ -63,7 +63,7 @@ http://170.82.37.21:8000/play/a00x/index.m3u8
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="cinemexicano.mx" tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Peliculas",Cine Mexicano
+#EXTINF:-1 tvg-id="cinemexicano.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Cine_MX.png" group-title="Peliculas",Cine Mexicano
 http://45.228.234.173:4000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
