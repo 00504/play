@@ -33,7 +33,7 @@ http://170.82.37.21:8000/play/a046/index.m3u8
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
-#EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="http://www.unetvhn.com/wp-content/uploads/2022/09/logo-1.png" group-title="Variedades",UNE TV
+#EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Une_Tv.png" group-title="Variedades",UNE TV
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -178,8 +178,6 @@ http://170.82.37.21:8000/play/a015/index.m3u8
 http://177.53.155.236:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Peliculas",AXN
 http://170.82.37.21:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="DPeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Peliculas",DPelicula
-http://170.82.37.21:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
 http://177.53.155.236:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Peliculas",Cinemax HD
@@ -198,8 +196,6 @@ http://170.82.37.21:8000/play/a02g/index.m3u8
 http://170.82.37.21:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Peliculas",HBO Extreme
 http://170.82.37.21:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Peliculas",HBO Family
-http://170.82.37.21:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Peliculas",HBO+
 http://170.82.37.21:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="paramountnetwork.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Peliculas",Paramount Network
@@ -220,7 +216,5 @@ http://177.222.108.82:2500/play/a0il/index.m3u8
 http://170.82.37.21:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="UniversalPremiereWest.us" tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Peliculas",Universal Premiere
 http://170.82.37.21:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Peliculas",Universal Premiere 2
-http://170.82.37.21:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
