@@ -117,10 +117,6 @@ http://170.82.37.21:8000/play/a02v/index.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="la.sonychannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas",Sony Channel
-http://170.82.37.21:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="la.sonymovies.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Peliculas",Sony Movies
-http://170.82.37.21:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
 http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
@@ -206,6 +202,10 @@ http://170.82.37.21:8000/play/a02i/index.m3u8
 http://170.82.37.21:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Peliculas",HBO+
 http://170.82.37.21:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="la.sonychannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas",Sony Channel
+http://170.82.37.21:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="la.sonymovies.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Peliculas",Sony Movies
+http://170.82.37.21:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Peliculas",Space
 http://170.82.37.21:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="tntla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TNT.png" group-title="Peliculas",TNT HD
