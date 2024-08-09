@@ -219,38 +219,26 @@ http://170.82.37.21:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros HD
 http://170.82.37.21:8000/play/a03o/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="Sports",Canal+ Sport 1
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="CSFilm.cz" tvg-logo="https://i.imgur.com/BAAuBB2.png" group-title="Movies",CS Film
-https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
 #EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://i.imgur.com/rtYj21D.png" group-title="Documentary",CS History
 https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
 #EXTINF:-1 tvg-id="CSMystery.cz" tvg-logo="https://i.imgur.com/3cFbkUj.png" group-title="Entertainment",CS Mystery
 https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
-#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="News",Current Time TV
-http://81.94.196.204/tsstreamer/CurrentTime_HD.ts
-#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="",Elektrika TV
-https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="General",JC1
 https://stream.jc1.cz/hls/jc1.m3u8
 #EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="General",Jihoceska televize
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/512px-Kino_Barrandov_logo.png" group-title="Movies",Kino Barrandov
-http://83.167.253.107/hdmi1_ext
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="Music",Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Music",Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoGold.cz" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music",Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id="OIKTV.cz" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="",OIK TV
-https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="General",Plzen TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="Polar2.cz" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="General",Polar2
-https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PolarTV.cz" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="General",Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Polar2.cz" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="General",Polar2
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevizeFILMpro.cz" tvg-logo="https://i.imgur.com/7OY5EPh.jpg" group-title="General",Televize FILMpro
@@ -259,12 +247,6 @@ https://ythls.armelin.one/channel/UCijOX8ka7E2cBsULVgY50QA.m3u8
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMorava.cz" tvg-logo="https://i.imgur.com/VNNGjZK.png" group-title="General",TV Morava
 https://ythls.armelin.one/channel/UCW33LPZQ1SA7ByUW6GeKRGw.m3u8
-#EXTINF:-1 tvg-id="TVNoe.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/512px-Noe-logo-2016.png" group-title="",TV Noe
-https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="General",TV Noe+
-https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVNova.cz" tvg-logo="https://i.imgur.com/77ztmd9.png" group-title="General",TV Nova
-http://88.212.7.10/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="",Vychodoceska TV
