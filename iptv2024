@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Variedades",TCS+
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Música",TCS+
 http://190.97.183.98:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 http://190.97.183.98:8000/play/a0ak/index.m3u8
@@ -32,7 +32,7 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
-http://190.92.10.66:4000/play/a00b/index.m3u8
+http://170.82.37.21:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="http://www.unetvhn.com/wp-content/uploads/2022/09/logo-1.png" group-title="Variedades",UNE TV
 https://catv.amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -117,8 +117,6 @@ http://170.82.37.21:8000/play/a02v/index.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
-http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
@@ -206,6 +204,8 @@ http://170.82.37.21:8000/play/a02w/index.m3u8
 http://170.82.37.21:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Peliculas",Space
 http://170.82.37.21:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
+http://170.82.37.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="tntla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TNT.png" group-title="Peliculas",TNT HD
 http://200.59.188.3:8000/play/a010
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal HD
