@@ -223,7 +223,5 @@ http://170.82.37.21:8000/play/a03o/index.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="General",Plzen TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="",Praha TV
-https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
