@@ -161,9 +161,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
 http://177.93.41.134:4000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://www.kindpng.com/picc/m/129-1295556_vevo-white-logo-transparent-hd-png-download.png" group-title="Música",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO 2K
 https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Música",Vevo Pop
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Música",VEVO pop
 https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
 http://170.82.37.21:8000/play/a017/index.m3u8
