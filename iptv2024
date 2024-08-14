@@ -50,7 +50,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="canalsurmas.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/CanalSUR_Andaluc%C3%ADa.png" group-title="Variedades",Canal Sur Andalucía
-https://jmp2.uk/SamsungTVPlus/ESBD3000002GP.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Canela*Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="cartoonnetwork.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
@@ -111,14 +111,12 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="Education",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="Education",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="Education",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/3R6ejrG.png" group-title="",NASA TV UHD
+#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="",NASA TV UHD
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="",NASA TV UHD
+https://artv.watch/generate_playlist.php?channel=NASATVUHD.us
 #EXTINF:-1 tvg-id="nationalgeographicla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Nat_Geo_HD.png" group-title="Documentales",NatGeo
 http://170.82.37.21:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="natgeo.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Documentales",NatGeo Wild
@@ -135,8 +133,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://jmp2.uk/SamsungTVPlus/ESBD1400003QN.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Música",Stingray Naturescape
-https://jmp2.uk/SamsungTVPlus/CAAJ3400003T7.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Teleamazonas.png" group-title="Variedades",Teleamazonas
@@ -155,8 +151,6 @@ http://200.115.120.1:8000/play/ca085/index.m3u8
 https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
 #EXTINF:-1 tvg-id="tennischannel.com" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes",Tennis Channel
 https://jmp2.uk/SamsungTVPlus/ESBD2600001ME.m3u8
-#EXTINF:-1 tvg-id="travelxp.com" tvg-logo="https://www.skylink.net.in/skylsite/wp-content/uploads/2023/06/travexp-60x60-1.png" group-title="Documentales",Travelxp
-https://jmp2.uk/SamsungTVPlus/ESBD1400001L4.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
