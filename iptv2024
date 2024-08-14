@@ -49,8 +49,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="canalsurmas.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/CanalSUR_Andaluc%C3%ADa.png" group-title="Variedades",Canal SUR Andalucía
+#EXTINF:-1 tvg-id="canalsurmas.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/CanalSUR_Andaluc%C3%ADa.png" group-title="Variedades",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD3000002GP.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantil",Canela*Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="cartoonnetwork.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
@@ -80,7 +81,7 @@ http://200.59.188.3:8000/play/a01a
 #EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/El_Pa%C3%ADs_ES.png" group-title="Noticias",El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Euronews.png" group-title="Noticias",Euronews Spanish
-https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+https://jmp2.uk/SamsungTVPlus/ESAJ4500024LR.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Fashion_TV.png" group-title="Entretenimiento",FashionTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
@@ -103,6 +104,8 @@ http://170.82.37.21:8000/play/a03d/index.m3u8
 http://177.93.41.134:4000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentales",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="samsung.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Love_The_Planet.png" group-title="Documentales",Love The Planet
+https://jmp2.uk/SamsungTVPlus/ESBC4700002TD.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="mtvla.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Música",MTV00s
@@ -121,9 +124,11 @@ http://170.82.37.21:8000/play/a02v/index.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="samsung.com" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20240313T073246SQUARE.png" group-title="Documentales",Royal World
+https://jmp2.uk/SamsungTVPlus/ESBD1400003QN.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Music",Stingray Naturescape
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Música",Stingray Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
@@ -141,6 +146,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Televisa12MX.png" group-title="Variedades",Televisa 12
 https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+
+#EXTINF:-1 tvg-id="tennischannel.com" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Deportes",Tennis Channel
+https://jmp2.uk/SamsungTVPlus/ESBD2600001ME.m3u8
+#EXTINF:-1 tvg-id="travelxp.com" tvg-logo="https://contenidostv.es/images/travel_512.png" group-title="Documentales",Travelxp
+https://jmp2.uk/SamsungTVPlus/ESBD1400001L4.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
