@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Música",TCS+
-http://190.97.183.98:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Test",TCS+
+https://jmp2.uk/SamsungTVPlus/CA1400011ZD.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 http://190.97.183.98:8000/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
@@ -47,6 +47,10 @@ http://170.82.37.21:8000/play/a01z/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-logo="https://cabineducap.com/wp-content/uploads/2018/05/74F1F564-184C-4E7E-AD81-9758CE39C8CA.png" group-title="Educación",Architectural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-logo="https://cabineducap.com/wp-content/uploads/2018/05/74F1F564-184C-4E7E-AD81-9758CE39C8CA.png" group-title="Educación",Architectural Digest
+https://jmp2.uk/SamsungTVPlus/CABC5200009HX.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="canalsurmas.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/CanalSUR_Andaluc%C3%ADa.png" group-title="Variedades",Canal Sur Andalucía
@@ -111,12 +115,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://170.82.37.21:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="Education",NASA TV
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="Educación",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="",NASA TV UHD
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="",NASA TV UHD
-https://artv.watch/generate_playlist.php?channel=NASATVUHD.us
 #EXTINF:-1 tvg-id="nationalgeographicla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Nat_Geo_HD.png" group-title="Documentales",NatGeo
 http://170.82.37.21:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="natgeo.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Documentales",NatGeo Wild
@@ -133,6 +133,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://jmp2.uk/SamsungTVPlus/ESBD1400003QN.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
+https://jmp2.uk/SamsungTVPlus/CA400005W4.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Teleamazonas.png" group-title="Variedades",Teleamazonas
@@ -161,7 +163,10 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://170.82.37.21:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
 http://177.93.41.134:4000/play/a01g/index.m3u8
-
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo 2K
+https://jmp2.uk/SamsungTVPlus/CABC5200013DN.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop
+https://jmp2.uk/SamsungTVPlus/CABC52000180Z.m3u8
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
 http://170.82.37.21:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
