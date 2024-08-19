@@ -63,7 +63,7 @@ http://170.82.37.21:8000/play/a00x/index.m3u8
 http://170.82.37.21:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="Vix.com" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240625T011323SQUARE.png" group-title="Peliculas",VIX Cine de Oro
+#EXTINF:-1 tvg-id="Vix.com" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240625T011323SQUARE.png" group-title="Peliculas",Cine de Oro VIX
 https://jmp2.uk/SamsungTVPlus/USBD2700005KL.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
