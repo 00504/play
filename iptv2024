@@ -55,9 +55,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 http://200.115.120.1:8000/play/ca002/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel HD
 http://200.115.120.1:8000/play/ca012/index.m3u8
-#EXTINF:-1 tvg-id="latam.goltv.tv" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="Deportes",GOL TV
-http://177.53.155.236:8000/play/a00o/index.m3u8
-
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantil",Nick HD
 http://200.115.120.1:8000/play/ca008/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
@@ -148,8 +145,6 @@ http://200.115.96.66:4000/play/a0cr/index.m3u8
 http://200.115.120.1:8000/play/ca023/index.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO 2K
 https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO Latino
-https://jmp2.uk/SamsungTVPlus/USBC3600015GF.m3u8
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Música",VEVO pop
 https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
