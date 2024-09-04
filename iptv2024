@@ -30,7 +30,7 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Variedades",Q'hubo TV
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
-https://jactvpro.xyz/auth/10248.m3u8?token=ltnxiM6ODiijn8THrHWe1XoAOYTmkgwTlIqZh5VHF4SzxexZHnNw3qxsqwW50xht00d9SwDYvk4WVwqk17WE0UGrk5OzVwdOWq_B30k8OnqQu5EbWjpcBihQYxpe419ikV43-tmdmD3lwnZQArd5SzYQO2nm-6LHhWWQTignof-P_ygWeplk9qDwYleSrBoNaC_u9gFJnisjAEdrxULgK01wNy-q_L6fKsVoaHLjQkS6uWEsQnIqwaTXtHp6AwdXPBGTjJT655qMdklTekEcWOXkWRhtmm6mXc6uCvKfSkCiLvT5FLjJuZKYFq2VBClwuezaNPbI-K6kHADYnh6aCSwCSkXdPzKGElOysLgYCJDNb4G2QG9rOqBfO7KrVGUNOdhXBNx8iOLaQp4r2n3ejNocMJOiGwqyH9a9IAgZwTOIOMIM2zk9NPpEH2qMjcTNWYTYNQgSxnLpxEsLTKMLZB_D183UkHay40_C0QnifUS8j7h_6iOfddRUsBakyqwzuantOikn5a5Z3hJJJcoBXjJDOYtivVY5Od0VR6k76iiB35DEG8Dt6JOqRyz9QK_aZ4lKmi-_N4dbhUWxQ90EC-oP9KYmZ6udN2LubcC14ew
+http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="TVMASHD.hn" tvg-logo="https://i.imgur.com/tjnTbRR.jpg" group-title="Variedades",TV MAS HD
 https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
@@ -57,6 +57,8 @@ http://200.115.120.1:8000/play/ca002/index.m3u8
 http://200.115.120.1:8000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantil",Nick HD
 http://200.115.120.1:8000/play/ca008/index.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religioso",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_HN.png" group-title="Variedades",CBC Canal 6
@@ -146,9 +148,9 @@ http://200.115.96.66:4000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
 http://200.115.120.1:8000/play/ca023/index.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO 2K
-https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Música",VEVO pop
-https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
 http://177.53.155.236:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
@@ -159,7 +161,6 @@ http://190.90.18.161:15082/play/a02l/index.m3u8
 http://190.90.18.161:15082/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="discoveryworldlatinamerica.us" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World
 http://190.60.38.114:1010/play/a06s/index.m3u8
-
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN HD
