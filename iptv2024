@@ -5,16 +5,17 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
 http://179.49.113.220:25461/live/1171/2022/2.m3u8
-#EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Variedades",Lenca TV
-https://lencatelevision.com/hls/0/stream.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal4_SV.png" group-title="",Canal 4
+http://204.157.251.250:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 http://179.49.113.220:25461/live/1171/2022/4.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_SV.png" group-title="Variedades",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Variedades",Telecadena 7/4
 http://179.49.113.220:25461/live/1171/2022/3.m3u8
-#EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TelePais.png" group-title="Variedades",TelePaís
-https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Variedades",Lenca TV
+https://lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
 https://d3q93l5bumjyoq.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
@@ -29,10 +30,10 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Variedades",Q'hubo TV
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TelePais.png" group-title="Variedades",TelePaís
+https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://179.49.113.220:25461/live/1171/2022/1756.m3u8
-#EXTINF:-1 tvg-id="TVMASHD.hn" tvg-logo="https://i.imgur.com/tjnTbRR.jpg" group-title="Variedades",TV MAS HD
-https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
 https://catv.amixtv.live:3058/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
