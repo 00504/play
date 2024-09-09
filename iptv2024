@@ -155,7 +155,7 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 2 HD
 http://190.90.18.161:15082/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Peliculas",AMC
+#EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/AMC.png" group-title="Peliculas",AMC
 http://177.53.155.236:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Peliculas",AXN
 http://200.115.120.1:8000/play/ca038/index.m3u8
