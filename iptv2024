@@ -5,7 +5,6 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
 http://179.49.113.220:25461/live/1171/2022/2.m3u8
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal4_SV.png" group-title="",Canal 4
 http://204.157.251.250:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
