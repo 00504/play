@@ -134,7 +134,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 http://200.115.96.66:4000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Documentales",Universal TV
-http://200.115.120.1:8000/play/ca023/index.m3u8
+http://200.60.124.19:29000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
