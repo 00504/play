@@ -81,8 +81,6 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Free_TV.png" group-title="Peliculas",FreeTV Estelar
-https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
 https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
