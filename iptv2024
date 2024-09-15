@@ -152,7 +152,7 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN HD
 http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 2 HD
-http://190.90.18.161:15082/play/a05g/index.m3u8
+http://201.219.29.246:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/AMC.png" group-title="Peliculas",AMC
 http://201.219.29.246:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Peliculas",AXN
@@ -176,7 +176,7 @@ http://190.60.38.114:1010/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="la.sonymovies.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Peliculas",Sony Movies
 http://190.211.102.42:4000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Peliculas",Space
-http://190.90.18.161:15082/play/a051/index.m3u8
+http://201.219.29.246:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
 http://201.219.29.246:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="tntla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TNT.png" group-title="Peliculas",TNT HD
