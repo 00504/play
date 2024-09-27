@@ -4,7 +4,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
-http://179.49.113.220:25461/live/1171/2022/2.m3u8
+http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal4_SV.png" group-title="Variedades",Canal 4
 http://204.157.251.250:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
@@ -30,7 +30,7 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Variedades",Q'hubo TV
-https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+http://181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://179.49.113.220:25461/live/1171/2022/1756.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
@@ -86,7 +86,7 @@ https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 https://jmp2.uk/SamsungTVPlus/US1300001GM.m3u8
 #EXTINF:-1 tvg-id="historylatam.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentales",History
-http://201.219.29.246:8000/play/a004/index.m3u8
+http://181.114.57.246:4000/play/hgRR6HGdf23As/index.m3u8
 #EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 HD
 http://201.219.29.246:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="hola.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/%C2%A1HOLA!_tv.png" group-title="Entretenimiento",¡HOLA! TV
