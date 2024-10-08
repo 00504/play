@@ -12,7 +12,7 @@ http://179.49.113.220:25461/live/1171/2022/4.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_SV.png" group-title="Variedades",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Variedades",Telecadena 7/4
-http://179.49.113.220:25461/live/1171/2022/3.m3u8
+http://181.114.57.246:4000/play/f8jnN96QRRHSLgvE/index.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TelePais.png" group-title="Variedades",TelePaís
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
@@ -23,14 +23,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Variedades",HCH
+http://181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Variedades",Lenca TV
 https://lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="Variedades",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
-#EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://qhubotv.com/content/images/2022/08/Logo-Q-HUBO-1.png" group-title="Variedades",Q'hubo TV
-http://181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://179.49.113.220:25461/live/1171/2022/1756.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
@@ -136,15 +136,15 @@ http://200.115.120.1:8000/play/ca023/index.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
-http://201.219.29.246:8000/play/a021/index.m3u8
+http://181.114.57.246:4000/play/3xraqjwdjUNTNVu9/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
-http://200.115.120.1:8000/play/ca052/index.m3u8
+http://181.114.57.246:4000/play/ZbNgJUAyX5qQ2Kck/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery H&H
-http://201.219.29.246:8000/play/a016/index.m3u8
+http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
 #EXTINF:-1 tvg-id="discoverytheaterlatinamerica.us" tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales",Discovery Theather
 http://201.219.29.246:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="discoveryworldlatinamerica.us" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World
-http://201.219.29.246:8000/play/a01p/index.m3u8
+http://181.114.57.246:4000/play/Nf4QeAarDKFtuBFz/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN HD
