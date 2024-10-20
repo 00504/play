@@ -42,7 +42,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Bandamax.png" group-title="Música",BANDAMAX
-http://186.148.178.214:8090/play/a014/index.m3u8
+http://190.60.33.245:4002/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://checalamovie.net/wp-content/uploads/2021/10/CM-logo-box2.png" group-title="Música",Canela MUSIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1747
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
@@ -84,7 +84,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 https://jmp2.uk/SamsungTVPlus/US1300001GM.m3u8
 #EXTINF:-1 tvg-id="historylatam.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentales",History
-http://181.78.24.187:8006/play/a001/index.m3u8
+http://190.60.33.245:4002/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 HD
 http://190.109.15.46:3528/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="hola.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/%C2%A1HOLA!_tv.png" group-title="Entretenimiento",¡HOLA! TV
@@ -158,9 +158,9 @@ http://200.115.120.1:8000/play/ca038/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
 http://45.163.205.110:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Peliculas",Cinemax HD
-http://179.1.146.21:8000/play/a04h/index.m3u8
+http://190.60.33.245:4002/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Peliculas",DHE
-http://217.26.191.118:8126/play/a0dm/index.m3u8 
+http://190.60.33.245:4002/play/a0d3/index.m3u8 
 #EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
 http://45.163.205.110:8000/play/a0g6/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier HD
@@ -178,12 +178,12 @@ http://200.115.120.1:8000/play/ca027/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
 http://45.163.205.110:8000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal HD
-http://200.115.120.1:8000/play/ca029/index.m3u8
+http://45.181.123.194:8000/play/studiouniversalhd/index.m3u8
 #EXTINF:-1 tvg-id="tntla.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TNT.png" group-title="Peliculas",TNT HD
 http://45.163.205.110:8000/play/a0h1/index.m3u8 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Series",TNT Series
 http://45.163.205.110:8000/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Universal_Premiere.png" group-title="Peliculas",Universal Premiere
+#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Universal_Cinema.png" group-title="Peliculas",Universal Cinema
 http://45.163.205.110:8000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros
 http://200.115.120.1:8000/play/ca047/index.m3u8
