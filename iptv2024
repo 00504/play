@@ -4,7 +4,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
-http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+http://179.49.113.220:25461/live/1171/2022/2.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal4_SV.png" group-title="Variedades",Canal 4
 http://45.163.205.110:8000/play/a0fb/index.m3u8 
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
@@ -12,7 +12,7 @@ http://179.49.113.220:25461/live/1171/2022/4.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_SV.png" group-title="Variedades",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Variedades",Telecadena 7/4
-http://200.52.148.194:8000/play/a04q/index.m3u8
+http://179.49.113.220:25461/live/1171/2022/3.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TelePais.png" group-title="Variedades",TelePaís
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
@@ -32,7 +32,7 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
-http://45.163.205.110:8000/play/a0gy/index.m3u8
+http://179.49.113.220:25461/live/1171/2022/2916.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
 https://catv.amixtv.live:3058/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -68,7 +68,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="comedycentral.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",Comedy Central
-http://200.115.120.1:8000/play/ca108/index.m3u8
+http://217.26.191.118:8126/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia
 http://200.115.120.1:8000/play/ca082/index.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://i.imgur.com/yrVMdst.png" group-title="Gastronomía",El Gourmet HD
@@ -160,7 +160,7 @@ http://45.163.205.110:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Peliculas",Cinemax HD
 http://179.1.146.21:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Peliculas",DHE
-http://45.163.205.110:8000/play/a0g9/index.m3u8 
+http://217.26.191.118:8126/play/a0dm/index.m3u8 
 #EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Peliculas",FX
 http://45.163.205.110:8000/play/a0g6/index.m3u8
 #EXTINF:-1 tvg-id="goldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Peliculas",Golden Premier HD
