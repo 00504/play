@@ -17,14 +17,14 @@ http://200.115.98.26:9000/play/a007/index.m3u8
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
 https://d3q93l5bumjyoq.cloudfront.net/original.m3u8
-#EXTINF:-1 tvg-id="	noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal10_SV.png" group-title="Variedades",Canal 10 SV
-http://45.163.205.110:8000/play/a0fa/index.m3u8
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Documentales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
+http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Variedades",HCH
-http://179.49.113.220:25461/live/1171/2022/1.m3u8
+http://45.4.85.214:58001/play/a00l
 #EXTINF:-1 tvg-id="LencaTV.hn" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Variedades",Lenca TV
 https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="Variedades",LTV
@@ -32,7 +32,7 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
-http://190.92.10.66:4000/play/a00b/index.m3u8
+http://45.163.205.110:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
 https://catv.amixtv.live:3058/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -88,7 +88,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appName=web&appVersion=9.5.0-74992cec19532978f36754a29fbf3068a09f0b19&app_name=web&clientDeviceType=0&clientID=3597524b-1244-4fa9-be8c-3529c76bd972&clientModelNumber=1.0.0&country=US&deviceDNT=true&deviceId=3597524b-1244-4fa9-be8c-3529c76bd972&deviceLat=37.7500&deviceLon=-122.4200&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=131.0.0&marketingRegion=US&serverSideAds=true&sessionID=6cc4de31-8fe2-11ef-bacc-0667d2a9d376&sid=6cc4de31-8fe2-11ef-bacc-0667d2a9d376&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjY4YmU0OWNlLTRlMzUtNGM4Ny1iYWQ5LTEwZWNiMjQwOGU4NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2Y2M0ZGUzMS04ZmUyLTExZWYtYmFjYy0wNjY3ZDJhOWQzNzYiLCJjbGllbnRJUCI6IjE3Mi45Ni4xNjIuOTgiLCJjaXR5IjoiU2FuIEZyYW5jaXNjbyIsInBvc3RhbENvZGUiOiI5NDExMCIsImNvdW50cnkiOiJVUyIsImRtYSI6ODA3LCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzcuNzUsImRldmljZUxvbiI6LTEyMi40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMxLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNS4wLTc0OTkyY2VjMTk1MzI5NzhmMzY3NTRhMjlmYmYzMDY4YTA5ZjBiMTkiLCJjbGllbnRJRCI6IjM1OTc1MjRiLTEyNDQtNGZhOS1iZThjLTM1MjljNzZiZDk3MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsibWF0Y2hFeGFjdEluUGhyYXNlRW5hYmxlZCI6dHJ1ZSwibWF0Y2hJbkFjdG9yc0Jvb3N0IjoyNSwibWF0Y2hJbkFjdG9yc0VkaXREaXN0YW5jZSI6IkFVVE86NSwxMSIsIm1hdGNoSW5BY3RvcnNFbmFibGVkIjp0cnVlLCJtYXRjaEluRGlyZWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluRGlyZWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkRpcmVjdG9yc0VuYWJsZWQiOnRydWUsIm5leHVzVGltZW91dE1zIjo1MDAsInF1ZXJ5U3lub255bXNFbmFibGVkIjp0cnVlLCJxdWVyeVZlcnNpb24iOiJoeWJyaWQiLCJzZWFyY2hQcm94eUVuaGFuY2VtZW50IjpmYWxzZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjM1OTc1MjRiLTEyNDQtNGZhOS1iZThjLTM1MjljNzZiZDk3MiIsImZ3VmNJRDJDb3BwYSI6IjM1OTc1MjRiLTEyNDQtNGZhOS1iZThjLTM1MjljNzZiZDk3MiIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMzU5NzUyNGItMTI0NC00ZmE5LWJlOGMtMzUyOWM3NmJkOTcyIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOk16VTVOelV5TkdJdE1USTBOQzAwWm1FNUxXSmxPR010TXpVeU9XTTNObUprT1RjeSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3Mjk2MjUyMTIsImlhdCI6MTcyOTUzODgxMiwianRpIjoiNDkwMzk3MWUtM2VhMS00MzFjLWIyZTMtNzUzMTg0ZGY5ZDA3In0.UuDSW_003tDixnYQDuA1IuccvYZ-mnE1QXI1KE3nfO8&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQE7IQU24AVDnxYZDvxCzUVVfqefwvldld2OM1Ljeyoprg-pLj1nr38OMg3ilziYUt15mMUlKdC-IWYOpGQq-Z2tzbz1TeN4QRvsmgmhNhAWHgfocwJUtoiZKZaVTF5EY7dbMcGgmEmsnLL6CcWo1WT41cgA5FYkzfZ5vMXM0VtGrgYyN_1qgzR0K2A1Y3r8fRl74NGHg0VAmKYNRrGithJoYcNipzB_4e-14C0hyGmjfwc2Y_DoRCGF28AEkAZyXCXLZl5qWu7BRySw0Vo455Hf-nWgBGq5IKLw2eMu9Thj5eofL2sjkXZHBhhr8k1VFn86bhCBZdPJg_PBlWI8nsEEEVBBTuuNbBz8CDERyDaOofIJAF8kif6JjXoc9gfupIYGqY5HcHZzvmA7ZwC43i4I1PRA6-cJCzsZ0ryrwzV6O_Iim_SXmE4BS27q9fJqtTg4zduyQt5Z8ii10HT6WBYciDGvlYtMzDJdSmZVRiQxQJBm74zNu5p4iUUR7DvtBCf_XemEd_-v8jp-aFVrXJO0-eAR3Lf7Yy34VOiNudmdHZqeR23JQITjBsUJqdDUO3DPeM6yx83D11VRmVoic3yutsfRbVTFG0FmYxPakrR-cfCTVouk9VlEIoaqD7k-bxjzmvYfoU0em7r2bAFZkbm0srOjHOV8E2lMxKQq4-7VpizR4bGOTnFaAFPUTK_D9htkmN3Pg2NKuUyeH2gG9zqfWtanI_VKrjFHvrMuZ4hWVGCFU_-S8VQ2LTiVTC8IhssJx-_x6lIweMWTesch5svtZvTgPFKoNWPPKrRMCqigHnR0n7R5FtX24npmCYPJzMEE7UzxJGyZu8kgiEpCiihdK-tMUKSXJZjR-rY986-atNp6wJ4QHZd0mJMjMZibravNNzzuuwKMBWqNb3wekLMIuiua0xwQZFpdskQtn4rR5vnRZXttLLpohvWsJltzLjrIIAddaiOG3Hu3iEHEslT0dnf_mLYegjWYfgbQybvMe8-ypMyufKBOVpHnFHh7IL1llh0agWJQEdEXzfdtXJKUr02hOAA2yTCnfpQGkRKLC9eG8AB9v3rfbkfhX8eINnz3EvWsYKSIQbRMQnaZqlwV-oT76oKlmnRFBkOL0lSoT5CmyvjPi6SzsrHVGeijVAishr2JdeEIhVkzFNI5rnGKL34Zx7-njE5uO56Ug..&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223203a129-e1e5-4cb8-b1d0-9eaec9c0224a%22%2Csu
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&checkedby
 #EXTINF:-1 tvg-id="historylatam.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentales",History
 http://190.60.33.245:4002/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 HD
@@ -154,8 +155,6 @@ http://179.1.146.21:8000/play/a05y/index.m3u8
 http://45.163.205.110:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="discoveryworldlatinamerica.us" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World
 http://45.230.199.108:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
-http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN HD
