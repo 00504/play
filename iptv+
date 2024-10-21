@@ -4,15 +4,15 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
-http://179.49.113.220:25461/live/1171/2022/2.m3u8
+http://200.115.98.26:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal4_SV.png" group-title="Variedades",Canal 4
 http://45.163.205.110:8000/play/a0fb/index.m3u8 
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
-http://45.4.85.213:58001/play/a02b
+http://200.115.98.26:9000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_SV.png" group-title="Variedades",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Variedades",Telecadena 7/4
-http://179.49.113.220:25461/live/1171/2022/3.m3u8
+http://200.115.98.26:9000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TelePais.png" group-title="Variedades",TelePaís
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
