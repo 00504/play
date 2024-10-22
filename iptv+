@@ -95,8 +95,8 @@ http://190.60.33.245:4002/play/a0vc/index.m3u8
 http://190.109.15.46:3528/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="hola.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/%C2%A1HOLA!_tv.png" group-title="Entretenimiento",¡HOLA! TV
 http://45.163.205.110:8000/play/a0h4/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentales",Love Nature 4K
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1--N&did=98c5a5ed54611cfd42a808fb9b232ef0&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=us&country_region=california&postal_code=90060&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1729632532&id=34632&ip=108.181.23.91&override_expiration=1500&deliveryProfileId=23762&sign=fk%2Ble%2FITSObG6bHR26m%2F6Qffbl0QyIjfCFTlMWmNisQ%3D
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Documentales",Love Nature 4K
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3363
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="mtvla.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Música",MTV00s
