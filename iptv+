@@ -4,15 +4,15 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Variedades",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8?uid=gNcTx2uqjufmbzSt6JtxQtC7H3agBeKL&sid=FNSG7Z6Z0K4H71PVgMh1p85myfv3TOQ5&pid=fFxFSvT6D0hslW8esEJaiW2YrqPnhg7Z&an=screen&at=web-app&av=v6.0.72&ref=https%3A%2F%2Fwww.televicentro.com%2F&res=1368x770&without_cookies=false&listenerid=&dnt=false&adInsertionSessionId=757cd52a-16cc-45d3-8f35-3082d25d835a
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8?uid=gNcTx2uqjufmbzSt6JtxQtC7H3agBeKL&sid=FNSG7Z6Z0K4H71PVgMh1p85myfv3TOQ5&pid=fFxFSvT6D0hslW8esEJaiW2YrqPnhg7Z&an=screen&at=web-app&av=v6.0.72&ref=https%3A%2F%2Fwww.televicentro.com%2F&res=1368x770&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=757cd52a-16cc-45d3-8f35-3082d25d835a
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal4_SV.png" group-title="Variedades",Canal 4
 http://45.163.205.110:8000/play/a0fb/index.m3u8 
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
-http://45.4.85.212:58001/play/a02b
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8?uid=gNcTx2uqjufmbzSt6JtxQtC7H3agBeKL&sid=FNSG7Z6Z0K4H71PVgMh1p85myfv3TOQ5&pid=fFxFSvT6D0hslW8esEJaiW2YrqPnhg7Z&an=screen&at=web-app&av=v6.0.72&ref=https%3A%2F%2Fwww.televicentro.com%2F&res=1368x770&without_cookies=false&listenerid=&dnt=false&adInsertionSessionId=757cd52a-16cc-45d3-8f35-3082d25d835a
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_SV.png" group-title="Variedades",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png" group-title="Variedades",Telecadena 7/4
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8?uid=gNcTx2uqjufmbzSt6JtxQtC7H3agBeKL&sid=FNSG7Z6Z0K4H71PVgMh1p85myfv3TOQ5&pid=fFxFSvT6D0hslW8esEJaiW2YrqPnhg7Z&an=screen&at=web-app&av=v6.0.72&ref=https%3A%2F%2Fwww.televicentro.com%2F&res=1368x770&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=757cd52a-16cc-45d3-8f35-3082d25d835a
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/TelePais.png" group-title="Variedades",TelePaís
 https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VTV_HN.png" group-title="Variedades",VTV
