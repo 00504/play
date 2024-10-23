@@ -74,7 +74,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="comedycentral.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entretenimiento",Comedy Central
-http://217.26.191.118:8126/play/a0ft/index.m3u8
+http://45.163.205.110:8000/play/a0h5/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia
 http://200.115.120.1:8000/play/ca082/index.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://i.imgur.com/yrVMdst.png" group-title="Gastronomía",El Gourmet HD
@@ -150,7 +150,7 @@ http://179.1.146.21:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="discoverytheaterlatinamerica.us" tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales",Discovery Theather
 http://45.163.205.110:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="discoveryworldlatinamerica.us" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World
-http://217.26.191.114:8126/play/a0d5/index.m3u8
+http://45.163.205.110:8000/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN HD
