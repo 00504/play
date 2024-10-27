@@ -69,6 +69,8 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us" tvg-logo="https://i.imgur.com/N3UYHFS.png" group-title="Peliculas",Cine Classicos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?advertisingId=&appName=web&appVersion=9.5.0-74992cec19532978f36754a29fbf3068a09f0b19&app_name=web&clientDeviceType=0&clientID=3597524b-1244-4fa9-be8c-3529c76bd972&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=3597524b-1244-4fa9-be8c-3529c76bd972&deviceLat=40.2862&deviceLon=-78.8662&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=131.0.0&marketingRegion=US&serverSideAds=false&sessionID=b3ee4df7-940d-11ef-b0e0-5eeed371c0fd&sid=b3ee4df7-940d-11ef-b0e0-5eeed371c0fd
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
