@@ -24,12 +24,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Variedades",HCH
 http://181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
+#EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://i.imgur.com/XLWkERe.png" group-title="Música",La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="Variedades",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
-#EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://i.imgur.com/I7GuToz.png" group-title="Deportes",Suyapa TV
-https://live-c.cf.dmcdn.net/sec2(zvDDHSrrwQ_X8eIO2m04_FKn1iwvWDu7lXc1w_joCSWoJCTGalyE7_lAuZSxYGUtiKxQugkWllXip-ZzQy6GV3HR4q_FhGhBnd5tII07-SerwiQOz1aEdQ7JD2K0I15m)/dm/3/x8jso92/s/live-480.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://45.163.205.110:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
