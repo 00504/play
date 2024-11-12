@@ -197,6 +197,6 @@ http://190.60.33.245:4002/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Universal_Cinema.png" group-title="Peliculas",Universal Cinema
 http://45.163.205.110:8000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Universal_Premiere.png" group-title="Peliculas",Universal Premiere
-http://45.163.205.110:8000/play/a0h9/index.m3u8
+http://181.78.107.162:49000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros
 http://190.60.37.115:8001/play/a08d/index.m3u8
