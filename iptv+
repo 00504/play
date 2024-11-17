@@ -131,7 +131,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Música",TeleHIT
 http://179.49.163.34:45000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Entretenimiento",Telemundo
-http://45.163.205.110:8000/play/a0g5/index.m3u8
+http://190.92.10.66:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Noticias",Telesur
