@@ -33,7 +33,7 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
-https://catv.amixtv.live:3058/live/unetvlive.m3u8
+https://amixtv.live:3058/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/VEVO.png" group-title="Música",VEVO 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=true&serverSideAds=true&sid=9c78a281-5d61-4850-8b62-74632f015343
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -73,7 +73,7 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineClassicos.us" tvg-logo="https://i.imgur.com/N3UYHFS.png" group-title="Peliculas",Cine Classicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=3597524b-1244-4fa9-be8c-3529c76bd972&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=3597524b-1244-4fa9-be8c-3529c76bd972&deviceLat=37.7200&deviceLon=-122.4400&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=132.0.0&marketingRegion=US&serverSideAds=false&sessionID=d454f24b-a878-11ef-969d-eebc53f382ba&sid=d454f24b-a878-11ef-969d-eebc53f382ba&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjczMDA1ZTM5LTQzMWMtNGE3NC1iOWU4LWNmNTQ0NWQ0M2QyNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkNDU0ZjI0Yi1hODc4LTExZWYtOTY5ZC1lZWJjNTNmMzgyYmEiLCJjbGllbnRJUCI6IjIwOS41OC4xMzAuMzciLCJjaXR5IjoiU2FuIEZyYW5jaXNjbyIsInBvc3RhbENvZGUiOiI5NDExMiIsImNvdW50cnkiOiJVUyIsImRtYSI6ODA3LCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzcuNzIwMDAxMjIwNzAzMTI1LCJkZXZpY2VMb24iOi0xMjIuNDQwMDAyNDQxNDA2MjUsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMi4wLjAiLCJkZXZpY2VNYWtlIjoiZmlyZWZveCIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjYuMC1hNDg4NTA0NDEzNGU5NTUwZjMzNjI0ZDk0MDU2ZGUxNTAyMGM2YWRiIiwiY2xpZW50SUQiOiIzNTk3NTI0Yi0xMjQ0LTRmYTktYmU4Yy0zNTI5Yzc2YmQ5NzIiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7Im1hdGNoRXhhY3RJblBocmFzZUVuYWJsZWQiOnRydWUsIm1hdGNoSW5BY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5BY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluQWN0b3JzRW5hYmxlZCI6dHJ1ZSwibWF0Y2hJbkRpcmVjdG9yc0Jvb3N0IjoyNSwibWF0Y2hJbkRpcmVjdG9yc0VkaXREaXN0YW5jZSI6IkFVVE86NSwxMSIsIm1hdGNoSW5EaXJlY3RvcnNFbmFibGVkIjp0cnVlLCJuZXh1c1RpbWVvdXRNcyI6NTAwLCJxdWVyeVN5bm9ueW1zRW5hYmxlZCI6dHJ1ZSwicXVlcnlWZXJzaW9uIjoiaHlicmlkIiwic2VhcmNoUHJveHlFbmhhbmNlbWVudCI6ZmFsc2V9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIzNTk3NTI0Yi0xMjQ0LTRmYTktYmU4Yy0zNTI5Yzc2YmQ5NzIiLCJmd1ZjSUQyQ29wcGEiOiIzNTk3NTI0Yi0xMjQ0LTRmYTktYmU4Yy0zNTI5Yzc2YmQ5NzIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjM1OTc1MjRiLTEyNDQtNGZhOS1iZThjLTM1MjljNzZiZDk3MiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpNelU1TnpVeU5HSXRNVEkwTkMwMFptRTVMV0psT0dNdE16VXlPV00zTm1Ka09UY3kiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMyMzI4NjM4LCJpYXQiOjE3MzIyNDIyMzgsImp0aSI6ImY0ZjUyZTgxLWZmZDYtNGY0Zi1hOWJkLTNlMTNhN2RiZTY0NiJ9.y6p6KICLUPxaAm-WpJBPF8k9og74-fAs-E18VkvKZOk&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQE_VV1FbwaO-XvawyO2lCwat34yMQ1kpK26x0NNKzcOZKaVzwi5vHRLcnXPz8JyJwxZC2rp-ukY8Z0vqaIMsbpxNMW8D9byplh-2vKJ1JQEs1V_f7oPjmYhkBPa6lrZq7_UmDqQJhF6w1H4CTy8Ckr26lXUy9A0NhbEu60EBjeKAytokPEH67XsNm7Zm3_KvC6ruBFlw8US6aYgWQluE16L1B-NxR3pZbeA8pu361IiwkBppqP_ykMKry1d7_qbO6P_11rtpbwasXsvrSYjz5Rwk3mwzLzo1du3UOtGwPSRyp_1xnFm23b48DD10txrbYaRwqKRXioV0kdSbdMgBY-lpm3Av-EFILEhFV1YkGX1aBkBBjdieetUcJuiXEFJvfYec9qxz_05YP3BYeJ4_dzgn9LIy5kfpS-eWiiqQD3CyRr5qRp4ur9d24xxTaTiGk_6URC3Cqi-pmvFWo9AZrpIH1phZkZouX8-mBRNsdOgt-ExDGweTJmv9TFNTqMt6wz1KN8qPCa_QEPigzWx0fxwNLPmgs0gXMz0TbIV43YG-UDYRvM9UJMRmwkzi2h5n3liXHBBsIVh0enj2-1Bx453r4Y8Bp5sGWWC2IJf8XbnvswWQqy7Wa2suwlkIgDYvtFqeNa5ZEq0lcTlHVgFAuUtaaOHtlBac5GDTUHEdhGxnpzUPthTd3DXXSrMmWv6y1LfAK5NOIYX_3Xx6Dkw4ptMLHR-5266MqSTHXJynN_LPNqE9GXmPwIKUvoTZSZOvEdBAzwPmw2TaJ2s8f33y8YiAQ95xCJhZ1K7MBofulvSMw_wW-juVNtFrUHcGo6PiQKBs1QXlKHAjM2MPKCNhd8BadidgVb6qnD2-ZkhKfbwoTLrDmGytoK1sFDPAblMhLnxnfu7UWFZhBEDV-YBArjMgUPiEZ04xtHhyskKle0HeRyFIH41sGqh2SCJD2SVFI2ath-WCi8cXuFhRVZESu5lBEh597edTjRlp5pmFUsk30XMYjnHeeOtNG3LwM6uitLdcsIhL09MhlIrir9zFyTjYbC2rbQE3a9MRLWGkjxN5udYZ4sGP0uxllZU5KjFr9u7XKQpCrwnEZF-16UAYqWhvpXN2ElfstUrkcG-AdjqNkyQspC_aaqD20Acnf9KSKJvml-giwjKjqHTNmKpDo.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225eba43eb-d1f1-4cb7-865e-2b54aa015679%22%2Csu
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
@@ -137,7 +137,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="teletica.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Teletica_CR.png" group-title="Variedades",Teletica
-http://45.163.205.110:8000/play/a0fx/index.m3u8
+http://45.170.225.212:48001/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
@@ -151,7 +151,7 @@ http://200.115.120.1:8000/play/ca023/index.m3u8
 #EXTINF:-1 tvg-id="VevoRegional.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/VEVO_RegioMEX.png" group-title="Música",VEVO Regional MEX
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce916-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=true&sid=a80400b9-d4b6-4bbf-812e-2c1959206e6b&serverSideAds=true
 #EXTINF:-1 tvg-id="animalplanet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Animal%20Planet.png" group-title="Documentales",Animal Planet
-http://45.163.205.110:8000/play/a0g0/index.m3u8
+http://181.78.82.6:46090/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentales",Discovery Channel
 http://45.163.205.110:8000/play/a0i4/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Discovery_H%26H.png" group-title="Documentales",Discovery H&H
@@ -165,15 +165,15 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 2 HD
 http://45.163.205.110:8000/play/a0hy/index.m3u8 
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/AMC.png" group-title="Peliculas",AMC
-http://190.83.2.172:8080/play/a031/index.m3u8
+http://181.78.82.6:46090/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Peliculas",AXN
 http://200.115.120.1:8000/play/ca038/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
 http://45.163.205.110:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Peliculas",Cinemax HD
-http://181.78.82.6:46090/play/a010/index.m3u8
+http://177.93.41.82:45000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Peliculas",DHE
-http://45.163.205.110:8000/play/a0g9/index.m3u8 
+http://181.78.82.6:46090/play/a02e/index.m3u8 
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Peliculas",HBO
 http://45.163.205.110:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="la.sonychannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas",Sony Channel
