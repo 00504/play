@@ -67,10 +67,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_HN.png" group-title="Variedades",CBC Canal 6
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
+#EXTINF:-1 tvg-id="tv.cctv.com" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Documentales",CCTV-4 America
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="agrotv.estaenlanet.com" tvg-logo="https://media.sube.la/media/7899/7787/logo-AFfjtT.png" group-title="Documentales",Agro TV
+https://mediacp.us:8081/agrotvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+#EXTINF:-1 tvg-id="canalluz.org" tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png" group-title="Religioso",Canal LUZ
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-clasico-latam/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
@@ -83,7 +89,7 @@ http://45.163.205.110:8000/play/a0h5/index.m3u8
 http://200.115.120.1:8000/play/ca082/index.m3u8
 #EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Religioso",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Enlace_TBN.png" group-title="Religioso",Enlace
+#EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Euronews.png" group-title="Noticias",Euronews Spanish
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
@@ -119,6 +125,8 @@ https://rohls.pmc.live/hls/stream.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Educación",STVE Telebásica
+https://live-b.cf.dmcdn.net/sec2(jgvbBHOzBpfXDMuIlr3KgT-nXIAf2348fUGCcfT_TNmOkoWMJ8p268tRIWMVTWsoRrTnUqOyjcjIy1kpNQ4jc2fQqLMl7zGIfZ4YVvA3YbmCw2MqCOh3rd4_lyoVxnvV)/dm/3/x8jt15y/s/live-720.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
