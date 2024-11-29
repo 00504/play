@@ -71,10 +71,12 @@ https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",Agro TV
 https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
-#EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Agricultura",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://agro-tv.ro/wp-content/uploads/2018/09/Logo-mic.png" group-title="Agricultura",Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="AgroTV.bg" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Agricultura",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="agrotv.md" tvg-logo="https://agrotv.md/wp-content/uploads/2022/01/AgroTV-HD.png" group-title="Agricultura",Agro TV
+https://stream.mux.com/Xy7nBImn2hI998DoIXbtWcN521bjQse8KOmhWuQgt8U.m3u8
 #EXTINF:-1 tvg-id="agrotv.com.tr" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400.png" group-title="Agricultura",Agro TV
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
@@ -175,6 +177,8 @@ http://45.163.205.110:8000/play/a0i5/index.m3u8
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 2 HD
 http://45.163.205.110:8000/play/a0hy/index.m3u8 
+#EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Deportes",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/AMC.png" group-title="Peliculas",AMC
 http://181.78.82.6:46090/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Peliculas",AXN
