@@ -32,7 +32,7 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Educación",STVE Telebásica
-https://live-b.cf.dmcdn.net/sec2(jgvbBHOzBpfXDMuIlr3KgT-nXIAf2348fUGCcfT_TNmOkoWMJ8p268tRIWMVTWsoRrTnUqOyjcjIy1kpNQ4jc2fQqLMl7zGIfZ4YVvA3YbmCw2MqCOh3rd4_lyoVxnvV)/dm/3/x8jt15y/s/live-720.m3u8
+https://www.dailymotion.com/cdn/live/video/x8jt15y.m3u8?sec=H8TvyxLu7ZwidR3CCHhpFC2Iol62GOWHN6F5k0QCJFJ4JYVAqCRNwAkxhNyOoETSuFL7xGhSoqz9BVlCSHVyrw&dmTs=894670&dmV1st=3EE90663D2D9A36BA49EE219E5F473CF
 #EXTINF:-1 tvg-id="UNETV.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/UNEtv_HN.png" group-title="Variedades",UNE TV
 https://amixtv.live:3058/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
