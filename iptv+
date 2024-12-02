@@ -27,6 +27,8 @@ http://190.92.10.66:4000/play/a008/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Noticias",HCH
 http://181.114.57.246:4000/play/h9ZJEvEGVfy9by8W/index.m3u8
+#EXTINF:-1 tvg-id="mntv.hn" tvg-logo="https://i.imgur.com/FG4nfRX.jpg" group-title="Noticias",Mas Noticias Television
+https://amixtv.com:8081/plus39/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tigosports.com.hn" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="Deportes",tigo SPORTS
@@ -71,8 +73,6 @@ https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV PE
 https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
-#EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://agro-tv.ro/wp-content/uploads/2018/09/Logo-mic.png" group-title="Agricultura",AgroTV RO
-https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="agrotv.com.tr" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400.png" group-title="Agricultura",AgroTV TR
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
