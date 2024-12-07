@@ -55,6 +55,8 @@ http://200.115.120.1:8000/play/ca002/index.m3u8
 http://200.115.120.1:8000/play/ca012/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nick HD
 http://200.115.120.1:8000/play/ca008/index.m3u8
+#EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV PE
+https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Variedades",Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Telenovelas",Azteca Corazón
@@ -69,8 +71,6 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV PE
-https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico FreeTV
@@ -109,6 +109,8 @@ http://186.113.25.223:62837/play/a04p
 http://190.90.252.200:16001/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="hola.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/%C2%A1HOLA!_tv.png" group-title="Entretenimiento",¡HOLA! TV
 http://186.113.25.223:62837/play/a028
+#EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religiouso",JBN HD
+https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="Variedades",LTV
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Love_Nature.png" group-title="Documentales",Love Nature
