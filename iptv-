@@ -43,7 +43,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://checalamovie.net/wp-content/uploads/2021/10/CM-logo-box2.png" group-title="Música",Canela MUSIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1747
-#EXTINF:-1 tvg-id="tn23.tv" tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Noticias",TN23
+#EXTINF:-1 tvg-id="tn23.tv" tvg-logo="https://i.imgur.com/UtZD3PA.png" group-title="Noticias",TN23 GT
 https://d4bee8qaav6x0.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
