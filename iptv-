@@ -50,7 +50,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV PE
-https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Variedades",Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Telenovelas",Azteca Corazón
