@@ -127,3 +127,5 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 http://200.115.96.66:4000/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-id="wildearth.tv" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-RETINA.png" group-title="Documentales",Wild Earth
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Dw-1GauCXETZjvFSX1kY
