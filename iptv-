@@ -64,7 +64,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal4_SV.png" group-title="Variedades",Canal 4
 https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal6_HN.png" group-title="Variedades",CBC Canal 6
-https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
+https://live.trn-network.com/memfs/1d6c814e-2141-4b1b-b4ed-ff1a9364ae17.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
