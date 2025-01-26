@@ -99,6 +99,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religioso",JBN HD
 https://mediacp.us:8081/jbntv/index.m3u8
+#EXTINF:-1 tvg-id="la98.hn" tvg-logo="https://d14cft2gbp0rta.cloudfront.net/wp-content/uploads/2020/12/cropped-cropped-cropped-cropped-cropped-cropped-Logo-La98FM-Grupoinvosa-2.png" group-title="Música",La 98.1 TV
+https://59d39900ebfb8.streamlock.net/la98/la98/playlist.m3u8
 #EXTINF:-1 tvg-id="latop.hn/la-top-102-9" tvg-logo="https://d32139y4w3ahij.cloudfront.net/wp-content/uploads/2021/02/LA-TOP-102.9.png" group-title="Música",La Top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:-1 tvg-id="latop.hn/la-top-107-7" tvg-logo="https://www.latop.hn/wp-content/uploads/2021/02/latop-tgu-200x138-1.png" group-title="Música",La Top 107.7
@@ -109,16 +111,14 @@ https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-666e1c83d91d
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Música",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
+https://stream.giostreaming.net:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Novelas",RCN Más+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Romance.png" group-title="Telenovelas",Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="la98.hn" tvg-logo="https://d14cft2gbp0rta.cloudfront.net/wp-content/uploads/2020/12/cropped-cropped-cropped-cropped-cropped-cropped-Logo-La98FM-Grupoinvosa-2.png" group-title="Música",La 98.1 TV
-https://59d39900ebfb8.streamlock.net/la98/la98/playlist.m3u8
-#EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
-https://stream.giostreaming.net:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
