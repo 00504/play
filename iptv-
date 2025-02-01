@@ -21,7 +21,7 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Variedades",Canal 12
+#EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Variedades",Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="CTVInternacional.hn" tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="Variedades",CTV Internacional
 https://mediacp.us:8081/ctvhn/index.m3u8
