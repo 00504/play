@@ -141,5 +141,4 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://200.115.96.66:4000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
-https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&
-
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=zvfraG3KLYdsC6f9bhzz
