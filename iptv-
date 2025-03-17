@@ -42,7 +42,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://checalamovie.net/wp-content/uploads/2021/10/CM-logo-box2.png" group-title="Música",Canela MUSIC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1747
+https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/cb573d1d736c6d8a84cf3d78d1f74782bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616779c86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46ee3375551ac5a3b02618ebc50a46b52c7d45f967e28ddadc03331795d42995f0fe7a158a2ace109428a66868b231cc0691cb4d72d958542ecc5850ccb61b24cc341de98cab1e044dcc2b3509366b26e6232417194940bf7a33f98fbc00553f97227560e5494c0f99f1e66f62d2b55fefef4ab7cef16bced4fe34e16e17ff2259123b57bb800b1e04db9dfcab52d4f2ca8c86474349ff5b283ed3430a43c84c88ac86170eb8e7e0e4fdd79c8317177dffeca1a81cf14d8a235cabf60192b9ae42ff69ca293d0a399458e20f5d2e6944f2624012a23dc33c8f864d85bb512cee732030d0013f7e33fae87c94e0f605a888452d16170d3b28882d10b37cb2e0f4cb22db3380165c8462a16a179a1cd383bd1760cc86068fe5978d410f9e861f7fe88e64b3ae18fc61bfa37bbe65ad6a630a907443183186f4e2527794e92835303396dc641a4e0dee0630c139e8fa79cee7248cabd8a3076e6cce8628f8680081013d35a25610e705df656900157673883eb32ba932c2b54fc9e12ae235c2b65fa26f9e9bc8495dfc945fa5cdbc6fe3828346393dc59350b61c9bf8155fc771e302a1dc8386d4db9084d51aabbfda5c8d0209ec7249d316c42379eb00f175d0933711cc1c13b8110b2da5d9e9ec957c3a0df4214d56cf25141def6d57efdeb8edf005ec3fc194915e2b94df27a23c318c338c88320aad77b325c6d100692f411953894d080ce27962dd73e2577f87dbd93fbf39b2661ee9f4e3c241a17705b57652718b7cadf0556638d5c460e95583533462a7f7e97b7c3389d195a7a1d7f9f95/6/1280x720_3071200/index.m3u8
 #EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Free_TV.png" group-title="Música",FreeTV Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
@@ -70,7 +70,7 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Lat.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="cindie.com" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="Peliculas",C¡ND!E TV
-https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-6685abbe59703916799193a7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Dw-1GauCXETZjvFSX1kY
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-6685abbe59703916799193a7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaFZCVTxyviFnYKk_a9_
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-clasico-latam/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony
@@ -100,7 +100,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religioso",JBN HD
 https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv" tvg-logo="https://i.pinimg.com/originals/15/aa/cd/15aacda7b47201403e2b2f58acf72067.png" group-title="Variedades",Mi Casa TV
-https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Dw-1GauCXETZjvFSX1kY
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaFZCVTxyviFnYKk_a9_
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Música",PMC Royale
@@ -113,8 +113,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="la98.hn" tvg-logo="https://d14cft2gbp0rta.cloudfront.net/wp-content/uploads/2020/12/cropped-cropped-cropped-cropped-cropped-cropped-Logo-La98FM-Grupoinvosa-2.png" group-title="Música",Somos Banda 98.1
-https://59d39900ebfb8.streamlock.net/la98/la98/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
@@ -122,7 +120,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
 #EXTINF:-1 tvg-id="es.tastemade.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Tastemade.png" group-title="Gastronomía",Tastemade en Español
-https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-65cd2cf397fb4731f54ecae7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Dw-1GauCXETZjvFSX1kY
+https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-65cd2cf397fb4731f54ecae7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaFZCVTxyviFnYKk_a9_
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Noticias",Telemundo
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
