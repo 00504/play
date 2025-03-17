@@ -90,7 +90,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Fashion_TV.png" group-title="Entretenimiento",FashionTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="filmrise.com" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Peliculas",FilmRise
-https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-65e9d0ad8fe4ef7053c3c869.m3u8?X-Plex-Session-Identifier=nahgulof75eqn0vygg1exr5w&X-Plex-Product=Plex%20Web&X-Plex-Version=4.143.0&X-Plex-Client-Identifier=otbchj0s1isq2j9fqoausihj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=134.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1536x778%2C1536x864&X-Plex-Token=xk_iuMzdrR7E4n56GX9s&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=dc674a41-4525-4e18-8ccd-09e5e8b68274&X-Plex-Playback-Session-Id=25a787f0-1e8f-43bc-8ea3-5372f7542663
+https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelacinemalatam-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
