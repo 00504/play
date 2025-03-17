@@ -139,3 +139,52 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 http://200.115.96.66:4000/play/a0cr/index.m3u8
+
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6478acb5c83f56da796f1670.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=stozHehY1Z6FV4H8AekS
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c1a95572427bfa1eb7ecb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c1c8f572427bfa1eb7ecd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65257cdf65486aca7aa77716.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65f0e049046e6131ecc31847.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ccb35278822c7edc4b6e01.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yxay4yAHn54fReUFzL9K
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TCS%2B.png" group-title="Variedades",Test
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=_A_YpXqnEMNkcnGUidkH
