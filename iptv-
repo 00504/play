@@ -132,6 +132,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://45.173.229.190:8083/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://45.68.35.218:4001/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://190.217.23.56:1010/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO.png" group-title="Peliculas",HBO
