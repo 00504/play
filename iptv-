@@ -46,7 +46,7 @@ https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-id="freetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Free_TV.png" group-title="Música",FreeTV Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV
