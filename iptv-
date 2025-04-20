@@ -65,6 +65,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c6
 https://live.trn-network.com/memfs/1d6c814e-2141-4b1b-b4ed-ff1a9364ae17.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/wJkbhCu.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_Latina.png" group-title="Música",Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canela_CINEMA.png" group-title="Peliculas",Canela CINEMA
 https://amg00658-amg00658c15-canelatv-international-5009.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelacinemalatam-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
@@ -111,10 +113,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",Stingray '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
 #EXTINF:-1 tvg-id="es.tastemade.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Tastemade.png" group-title="Gastronomía",Tastemade en Español
@@ -134,6 +136,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://45.173.229.190:8083/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Bandamax.png" group-title="Música",BANDAMAX
+http://190.60.33.245:4002/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://190.217.23.56:1010/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO.png" group-title="Peliculas",HBO
