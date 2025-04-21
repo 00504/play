@@ -140,7 +140,7 @@ http://190.109.31.53:9000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
 http://190.109.31.53:9000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://190.217.23.56:1010/play/a0er/index.m3u8
+http://190.171.83.2:4000/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO.png" group-title="Peliculas",HBO
 http://45.173.229.190:8083/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
