@@ -137,7 +137,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Bandamax.png" group-title="Música",BANDAMAX
 http://190.109.31.53:9000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/CinecanalLA.png" group-title="Peliculas",Cinecanal HD
 http://190.109.31.53:9000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://190.171.83.2:4000/play/a0pb/index.m3u8
