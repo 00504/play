@@ -149,6 +149,8 @@ http://45.173.229.190:8083/play/a09c/index.m3u8
 http://45.173.229.190:8083/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Agricultura",TVAgro CO
 http://190.60.42.86:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="tvmas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TV%2B.png" group-title="",TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/USA_Network.png" group-title="Peliculas",USA Network
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Peliculas",Warner Bros
