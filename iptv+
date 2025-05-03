@@ -9,7 +9,7 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal6__SV.png" group-title="Variedades",Canal 6
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal6_SV.png" group-title="Variedades",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
@@ -135,7 +135,7 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="tvm.com.sv" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News",TVM El Salvador
+#EXTINF:-1 tvg-id="tvm.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TVM_SV.png" group-title="News",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="tvmas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TV%2B.png" group-title="",TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
@@ -147,8 +147,8 @@ http://190.109.31.53:9000/play/a07a/index.m3u8
 http://190.171.83.2:4000/play/a0pb/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO.png" group-title="Peliculas",HBO
 http://45.173.229.190:8083/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount_Network.png" group-title="Peliculas",Paramount
-http://181.189.241.114:5050/play/a0q5
+#EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
+http://177.234.230.206:8011/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel
 http://45.173.229.190:8083/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Agricultura",TVAgro CO
