@@ -149,7 +149,7 @@ http://45.5.117.57:8200/play/a0l2/index.m3u8
 http://177.234.230.206:8011/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-id="sonymovies.com/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
 http://45.5.117.57:8200/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Star_Channel.png" group-title="Peliculas",Star Channel
+#EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Star_%2B.png" group-title="Peliculas",Star Channel
 http://45.173.229.190:8083/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Agricultura",TVAgro CO
 http://190.60.42.86:8000/play/a01h/index.m3u8
