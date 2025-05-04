@@ -139,7 +139,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="tvmas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TV%2B.png" group-title="",TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Cinecanal.png" group-title="Peliculas",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/CinecanalLA.png" group-title="Peliculas",Cinecanal HD
 http://190.109.31.53:9000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://45.68.35.218:4001/play/a00f/index.m3u8
