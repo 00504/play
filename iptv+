@@ -124,15 +124,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
 #EXTINF:-1 tvg-id="es.tastemade.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Tastemade.png" group-title="Gastronomía",Tastemade en Español
 https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-65cd2cf397fb4731f54ecae7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eaFZCVTxyviFnYKk_a9_
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Noticias",Telemundo
-http://190.92.10.66:4000/play/a004/index.m3u8
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TeleSUR.png" group-title="Noticias",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tigo.com.hn" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes",tiGO Sports
-http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Agricultura",TVAgro CO
