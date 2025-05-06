@@ -60,7 +60,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Variedades",Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
-http://80.80.91.195:8000/play/a0ej/index.m3u8
+http://45.68.35.218:4001/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal6_HN.png" group-title="Variedades",CBC Canal 6
 https://live.trn-network.com/memfs/1d6c814e-2141-4b1b-b4ed-ff1a9364ae17.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Azteca7.png" group-title="Variedades",Azteca 7
