@@ -148,7 +148,7 @@ http://45.5.117.57:8200/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://177.234.230.206:8011/play/a0j0/index.m3u8
 #EXTINF:-1 tvg-id="sonymovies.com/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
-http://45.5.117.57:8200/play/a03s/index.m3u8
+http://45.186.106.207:8000/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Star_Channel.png" group-title="Peliculas",Star Channel
 http://45.173.229.190:8083/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/USA_Network.png" group-title="Peliculas",USA Network
