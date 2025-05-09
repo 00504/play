@@ -78,7 +78,7 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mntv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Mas_Noticias_TV.png" group-title="Noticias",Más Noticias
 https://amixtv.com:8081/plus39/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://181.189.241.114:5050/play/a0gc
+http://190.217.23.56:1010/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
@@ -132,7 +132,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Agricultura",TVAgro CO
-http://181.189.241.114:5050/play/a029
+http://190.60.42.86:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Star_TVE.png" group-title="Entretenimiento",TVE Star HD
