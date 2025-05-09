@@ -142,18 +142,18 @@ http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Univision.png" group-title="Noticias",UNIVISION
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
-http://190.109.31.53:9000/play/a07a/index.m3u8
+http://200.60.124.19:29000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO.png" group-title="Peliculas",HBO
 http://45.5.117.57:8200/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://181.189.241.114:5050/play/a0q5
 #EXTINF:-1 tvg-id="sonymovies.com/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
-http://190.211.163.19:9999/play/a0fj
+http://200.60.124.19:29000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Star_Channel.png" group-title="Peliculas",Star Channel
-http://181.189.241.114:5050/play/a03i
+http://200.60.124.19:29000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal
 http://200.60.124.19:29000/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/USA_Network.png" group-title="Peliculas",USA Network
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
-http://190.109.31.53:9000/play/a052/index.m3u8
+http://200.60.124.19:29000/play/a0h3/index.m3u8
