@@ -79,6 +79,8 @@ http://190.217.23.56:1010/play/a0er/index.m3u8
 https://amixtv.com:8081/plus39/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://i.imgur.com/IC30j61.png" group-title="Religioso",Ebenezer TV
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2256000.m3u8
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
@@ -109,10 +111,10 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Romance.png" group-title="Telenovelas",Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
-#EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
+#EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",Stingray The Spa
