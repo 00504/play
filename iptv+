@@ -155,3 +155,5 @@ http://200.60.124.19:29000/play/a0g9/index.m3u8
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://200.60.124.19:29000/play/a0h3/index.m3u8
+#EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="Noticias",LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
