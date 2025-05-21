@@ -55,7 +55,7 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Telenovelas",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="Variedades",tv azteca GUATE
+#EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Azteca_GT.png" group-title="Variedades",Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Variedades",Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
