@@ -62,7 +62,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Variedades",La 1 España
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentales",La 2 España
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://45.68.35.218:4001/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal6_HN.png" group-title="Variedades",CBC Canal 6
