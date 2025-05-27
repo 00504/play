@@ -151,3 +151,8 @@ http://200.60.124.19:29000/play/a0g9/index.m3u8
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://200.60.124.19:29000/play/a0h3/index.m3u8
+
+#EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Variedades",2 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.rtve.es/
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
