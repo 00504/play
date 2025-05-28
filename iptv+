@@ -27,8 +27,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="ednhn.com/" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN tv
-https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-id="ednhn.com/" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
+https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDI1IDc6NTE6MzUgUE0maGFzaF92YWx1ZT11ZFZGWVNoK3ZGMlhsWVRoSEpvNDdBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
 #EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/EWTN.png" group-title="Religioso",EWTN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Noticias",HCH
