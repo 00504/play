@@ -77,6 +77,8 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 http://190.217.23.56:1010/play/a0er/index.m3u8
 #EXTINF:-1 tvg-id="mntv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Mas_Noticias_TV.png" group-title="Noticias",Más Noticias
 https://amixtv.com:8081/plus39/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://i.imgur.com/hxGvZ77.png" group-title="Noticias",Globo TV
+https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Ebenezer_TV.png" group-title="Religioso",Ebenezer TV
@@ -117,6 +119,10 @@ https://stream.giostreaming.net:19360/canal57/canal57.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
+https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://i.imgur.com/I7GuToz.png" group-title="Religioso",Suyapa TV
+https://5f2c1b0d880e5.streamlock.net/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Noticias",Telemundo
