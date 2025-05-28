@@ -27,10 +27,10 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Globo_TV.png" group-title="Noticias",Globo TV
-https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 #EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/EWTN.png" group-title="Religioso",EWTN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Globo_TV.png" group-title="Noticias",Globo TV
+https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Noticias",HCH
 http://200.115.96.61:9090/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
