@@ -65,6 +65,8 @@ http://45.68.35.218:4001/play/a009/index.m3u8
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal10_SV.png" group-title="Variedades",Canal 10 TVES
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-clasico-latam/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",Cine Sony
@@ -113,8 +115,6 @@ https://rohls.pmc.live/hls/stream.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="rcv.hn" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="Noticias",RCV TV
-https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Romance.png" group-title="Telenovelas",Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
