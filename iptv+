@@ -56,7 +56,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Telenovelas",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
-https://ch1-tva.duin.dev/hls/stream.m3u8
+https://ch1-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Variedades",Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
