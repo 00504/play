@@ -27,12 +27,12 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/main/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
+https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Globo_TV.png" group-title="Noticias",Globo TV
 https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Noticias",HCH
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(sosP3rKOR2xF5RqsB6AgrUMR_TRcyfAeqzERGZtLU_r7lmvndaB3OYMNQSgMky9EiY_nmKv-brZ_ZZgXGtSTiUB43rMI3adznYsDb7_n11eKdPyhnpD-3EDmSzSZ8TEm)/cloud/3/x81za5c/s/live-720.m3u8
-#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
-https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/UNE_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -41,10 +41,10 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_LA.png" group-title="Música",Bocina Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://checalamovie.net/wp-content/uploads/2021/10/CM-logo-box2.png" group-title="Música",Canela MUSIC
 https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichitsta-canelatvinternational/playlist.m3u8?rights_holder_id=canela-music-hits&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=487d780f-55ea-42e0-b93c-a41a9e8430d0&url=https://canela.tv/player/channel/canela-music-hits&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
+#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
+https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
@@ -65,6 +65,8 @@ http://45.68.35.218:4001/play/a009/index.m3u8
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Bocina_LA.png" group-title="Música",Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal10_SV.png" group-title="Variedades",Canal 10 TVES
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
@@ -73,8 +75,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
-https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="mntv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Mas_Noticias_TV.png" group-title="Noticias",Más Noticias
 https://amixtv.com:8081/plus39/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
