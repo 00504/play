@@ -32,7 +32,7 @@ https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Globo_TV.png" group-title="Noticias",Globo TV
 https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Noticias",HCH
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(sosP3rKOR2xF5RqsB6AgrUMR_TRcyfAeqzERGZtLU_r7lmvndaB3OYMNQSgMky9EiY_nmKv-brZ_ZZgXGtSTiUB43rMI3adznYsDb7_n11eKdPyhnpD-3EDmSzSZ8TEm)/cloud/3/x81za5c/s/live-720.m3u8
+http://200.115.96.61:9090/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/UNE_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
