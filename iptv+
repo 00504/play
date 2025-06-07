@@ -137,8 +137,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TV_Agro.png" group-title="Agricultura",TVAgro CO
 http://181.78.23.26:45000/play/a051
-#EXTINF:-1 tvg-id="tvm.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TVM_SV.png" group-title="Variedades",TVM El Salvador
-http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Univision.png" group-title="Noticias",UNIVISION
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/VEVO.png" group-title="Música",VEVO Music
@@ -153,8 +151,6 @@ http://200.60.124.19:29000/play/a0h0/index.m3u8
 http://177.234.230.206:8011/play/a0c5/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://177.234.230.206:8011/play/a0c9/index.m3u8 
-#EXTINF:-1 tvg-id="sonychannel.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Channel.png" group-title="Peliculas",SONY Channel
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="sonymovies.com/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
