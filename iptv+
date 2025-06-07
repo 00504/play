@@ -140,7 +140,7 @@ http://181.78.23.26:45000/play/a051
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Univision.png" group-title="Noticias",UNIVISION
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/VEVO.png" group-title="Música",VEVO Music
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+https://jmp2.uk/sam-ESBD230000289.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/AMC.png" group-title="Peliculas",AMC
