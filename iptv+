@@ -71,10 +71,6 @@ https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-clasico-latam/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",Cine Sony
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="sonychannel.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Peliculas",Sony Channel
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Música",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
@@ -117,7 +113,7 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="rtvcanal57.com" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="Variedades",RTV Canal 57
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Novelas",RCN Más+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Telenovelas",RCN Más+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Romance.png" group-title="Telenovelas",Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
@@ -157,6 +153,10 @@ http://200.60.124.19:29000/play/a0h0/index.m3u8
 http://177.234.230.206:8011/play/a0c5/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://177.234.230.206:8011/play/a0c9/index.m3u8 
+#EXTINF:-1 tvg-id="sonychannel.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Channel.png" group-title="Peliculas",SONY Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="sonymovies.com/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
 http://200.60.124.19:29000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Star_Channel.png" group-title="Peliculas",Star Channel
