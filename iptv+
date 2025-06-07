@@ -96,9 +96,9 @@ https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false
+https://jmp2.uk/plu-6532e7b290a74c00084a3bb6.m3u8
 #EXTINF:-1 tvg-id="canalhistoria.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Historia_ES.png" group-title="Documentales",Historia
-https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+http://ufvajrn.mexamo.xyz:900/live/637802461/2906339587/1213.m3u8
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religioso",JBN HD
 https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Love_Nature.png" group-title="Documentales",Love Nature
@@ -137,10 +137,12 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/TV_Agro.png" group-title="Agricultura",TVAgro CO
 http://181.78.23.26:45000/play/a051
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Univision.png" group-title="Noticias",UNIVISION
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/VEVO.png" group-title="Música",VEVO Music
-https://jmp2.uk/sam-ESBD230000289.m3u8
+https://jmp2.uk/sam-ESBC2100002LV.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/AMC.png" group-title="Peliculas",AMC
