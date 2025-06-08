@@ -32,7 +32,7 @@ https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Globo_TV.png" group-title="Noticias",Globo TV
 https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="Noticias",HCH
-http://200.115.96.61:9090/play/a04b/index.m3u8
+http://45.68.35.218:4001/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/UNE_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -65,7 +65,7 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 http://45.68.35.218:4001/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
-#EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal_10_TVES.png" group-title="Variedades",Canal 10 TVES
+#EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-clasico-latam/playlist.m3u8
