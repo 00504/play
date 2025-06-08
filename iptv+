@@ -145,7 +145,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Univision.png" group-title="Noticias",UNIVISION
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/VEVO.png" group-title="Música",VEVO Music
-https://jmp2.uk/sam-ESBC2100002LV.m3u8
+https://jmp2.uk/sam-USBB4400015F5.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/AMC.png" group-title="Peliculas",AMC
