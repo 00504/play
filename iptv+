@@ -153,7 +153,7 @@ http://45.235.37.254/amchd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://200.60.124.19:29000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO_40%25.png" group-title="Peliculas",HBO
-http://177.234.230.206:8011/play/a0c5/index.m3u8
+http://190.83.2.172:8080/play/a01l
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://177.234.230.206:8011/play/a0c9/index.m3u8 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
