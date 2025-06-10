@@ -120,8 +120,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentales",RTVE La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Suyapa_TV.png" group-title="Religioso",Suyapa TV
@@ -153,14 +151,14 @@ http://45.235.37.254/amchd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://200.60.124.19:29000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO_40%25.png" group-title="Peliculas",HBO
-http://190.83.2.172:8080/play/a01l
+http://45.186.106.207:8000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
-http://177.234.230.206:8011/play/a0c9/index.m3u8 
+http://45.186.106.207:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Star_Channel.png" group-title="Peliculas",Star Channel
 http://200.60.124.19:29000/play/a0ha/index.m3u8
-#EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/USA_Network.png" group-title="Peliculas",USA Network
-http://190.60.42.86:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal
+http://45.186.106.207:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://200.60.124.19:29000/play/a0h3/index.m3u8
