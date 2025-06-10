@@ -122,8 +122,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
-#EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Suyapa_TV.png" group-title="Religioso",Suyapa TV
-https://5f2c1b0d880e5.streamlock.net/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/main/logos/Telemundo.png" group-title="Noticias",Telemundo
@@ -151,7 +149,7 @@ http://45.235.37.254/amchd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://200.60.124.19:29000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/HBO_40%25.png" group-title="Peliculas",HBO
-http://45.186.106.207:8000/play/a07m/index.m3u8
+http://190.83.2.172:8080/play/a01l
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://45.186.106.207:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
