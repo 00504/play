@@ -159,6 +159,6 @@ http://200.60.124.19:29000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal
 http://181.205.220.43:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/USA_Network.png" group-title="Peliculas",USA Network
-http://103.111.40.242:9999/play/a04b/index.m3u8
+http://181.205.220.43:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/main/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://200.60.124.19:29000/play/a0h3/index.m3u8
