@@ -25,7 +25,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://live.airstream.run/alba-sv-c12-c12/original.m3u8
 #EXTINF:-1 tvg-id="CTVInternacional.hn" tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="Variedades",CTV Internacional
 https://mediacp.us:8081/ctvhn/index.m3u8
-#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/504mn/hn/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
+#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.92.10.66:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
 https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
