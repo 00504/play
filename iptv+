@@ -35,11 +35,11 @@ https://stream.radiosmundiales.com:19360/globotvhonduras/720p.m3u8
 http://45.68.35.218:4001/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/UNE_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Variedades",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
@@ -47,7 +47,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichitsta-canelatvinternational/playlist.m3u8?rights_holder_id=canela-music-hits&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=487d780f-55ea-42e0-b93c-a41a9e8430d0&url=https://canela.tv/player/channel/canela-music-hits&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
+#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
@@ -73,7 +73,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://45.68.35.218:4001/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Euronews.png" group-title="Noticias",Euronews
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Euronews.png" group-title="Noticias",Euronews
 https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c3eda-60089d97f682a3002c34829d/variant.m3u8?x-plex-token=Gt46Ry5Gvihx2nLGvpnN&x-plex-advertising-identifier=&x-plex-client-identifier=0c24ff27-7074-46bc-aa57-fab7efb17797&x-plex-playback-id=p_3cd20493-1e18-45e2-a655-4f664e3a856e&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=139.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1750030323&url=633af64c5f00e987b5e90ecf1d1973c8-b60570473c2acc3d772c20733e40a15ee34889e3b2944fc7909f08741402068676a93d3774a91bb61470914afdad000ac17ef131c866a9c78d91ebdb41df420a0c66a03fb522ecd326ed5b76a672aa2d96b4224f104ba5753e02085321e5b4046c0cfb59f33329e09bca16aac9b96a02c0ac200ba63e5d1138bb34c1fe85203f1612aee7a2688bd7b719c4eab8bdc7465dbf3d6968acfd3dc1f57b30211aece7
 #EXTINF:-1 tvg-id="mntv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Mas_Noticias_TV.png" group-title="Noticias",Más Noticias
 https://amixtv.com:8081/plus39/index.fmp4.m3u8
@@ -85,13 +85,13 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EWTN.png" group-title="Religioso",EWTN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Fashion_TV.png" group-title="Entretenimiento",FashionTV
+#EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",FashionTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5457
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
+#EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false
 https://jmp2.uk/plu-6532e7b290a74c00084a3bb6.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
@@ -122,7 +122,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
