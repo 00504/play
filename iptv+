@@ -142,7 +142,7 @@ http://206.212.244.71:8080/Abxc5k/363887/46692
 https://jmp2.uk/sam-ESBC2100001IU.m3u8
 #EXTINF:-1 tvg-id="vh1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VH1_Channel.png" group-title="Música",VH1 Music
 http://fl5.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-id="pluto.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Accion.png" group-title="Infantiles",Anime Accion
+#EXTINF:-1 tvg-id="pluto.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Accion.png" group-title="Infantiles",Anime Accion Pluto
 https://jmp2.uk/plu-5e6a4d875d7ccf0007cc2cf1.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/d975a308-fc60-4557-9193-76430b857857/3.m3u8
