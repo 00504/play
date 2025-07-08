@@ -140,7 +140,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 http://206.212.244.71:8080/Abxc5k/363887/46692
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://jmp2.uk/sam-ESBC2100001IU.m3u8
-#EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Agricultura",AgroTV
+#EXTINF:-1 tvg-id="agrotv.pe" tvg-logo="https://i.imgur.com/rCLjvGj.jpg" group-title="Agricultura",AgroTV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="pluto.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Accion.png" group-title="Infantiles",Anime Accion Pluto
 https://jmp2.uk/plu-5e6a4d875d7ccf0007cc2cf1.m3u8
