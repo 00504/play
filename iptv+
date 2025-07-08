@@ -144,6 +144,8 @@ https://jmp2.uk/sam-ESBC2100001IU.m3u8
 https://jmp2.uk/plu-5e6a4d875d7ccf0007cc2cf1.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/d975a308-fc60-4557-9193-76430b857857/3.m3u8
+#EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
+http://190.11.225.124:5000/live/bandamax/playlist.m3u8
 #EXTINF:-1 tvg-id="curiositystream.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Curiosity.png" group-title="Documentales",Curiosity
 https://jmp2.uk/sam-US2200001IY.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
