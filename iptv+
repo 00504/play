@@ -148,14 +148,14 @@ https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb4
 https://jmp2.uk/sam-US2200001IY.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://45.235.37.254/discoveryhd/index.m3u8
+#EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
+http://45.235.37.254/disneyhd/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
 http://200.60.124.19:29000/play/a0lg/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 http://45.235.37.254/espn2hd/index.m3u8
-#EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
-http://45.235.37.254/disneyhd/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentales",La 2 España
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
