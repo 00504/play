@@ -137,7 +137,7 @@ http://152.200.150.150:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
-http://206.212.244.71:8080/Abxc5k/363887/46692
+http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://jmp2.uk/sam-ESBC2100001IU.m3u8
 #EXTINF:-1 tvg-id="pluto.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Accion.png" group-title="Infantiles",Anime Accion Pluto
@@ -155,7 +155,7 @@ http://45.235.37.254/disneyhd/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN+
-http://200.60.124.19:29000/play/a0lg/index.m3u8
+http://45.235.37.254/espnhd/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 http://45.235.37.254/espn2hd/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentales",La 2 España
@@ -166,6 +166,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 http://45.235.37.254/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://45.235.37.254/nickhd/index.m3u8
+#EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",Sky Sports
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="tigo.com.hn" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes",tigo SPORTS
+http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://45.235.37.254/amchd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
