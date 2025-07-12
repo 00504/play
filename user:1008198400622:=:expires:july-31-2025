@@ -166,10 +166,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://45.235.37.254/nickhd/index.m3u8
-#EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",Sky Sports
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="tigo.com.hn" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Deportes",tigo SPORTS
-http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://45.235.37.254/amchd/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
