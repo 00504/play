@@ -158,7 +158,7 @@ http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 http://45.235.37.254/espnhd/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
 http://45.235.37.254/espn2hd/index.m3u8
-#EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="Variedades",ETB
+#EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB.png" group-title="Variedades",ETB
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentales",La 2 España
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
