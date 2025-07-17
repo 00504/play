@@ -182,7 +182,7 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 http://185.189.225.150:85/AMC/index.m3u8 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="televisa-networks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_HD.png" group-title="Peliculas",Golden HD
+#EXTINF:-1 tvg-id="televisa-networks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden HD
 http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://103.111.40.242:9999/play/a03a/index.m3u8
