@@ -49,6 +49,8 @@ https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/p
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/d975a308-fc60-4557-9193-76430b857857/3.m3u8
+#EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
+http://200.60.124.19:29000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
@@ -102,8 +104,6 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 http://103.111.40.242:9999/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religioso",JBN HD
 https://mediacp.us:8081/jbntv/index.m3u8
-#EXTINF:-1 tvg-id="plex.tv" tvg-logo="https://i.pinimg.com/originals/15/aa/cd/15aacda7b47201403e2b2f58acf72067.png" group-title="Variedades",Mi Casa TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=gmkh97Zcc-Dk4zAxrCjD
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
@@ -140,8 +140,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
-#EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
-http://200.60.124.19:29000/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="cnnespanol.cnn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CNN_Esp.png" group-title="Noticias",CNN en Español
@@ -168,6 +166,8 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+#EXTINF:-1 tvg-id="plex.tv" tvg-logo="https://i.pinimg.com/originals/15/aa/cd/15aacda7b47201403e2b2f58acf72067.png" group-title="Variedades",Mi Casa TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-666e1c83d91d13cb4c8cbb71.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=gmkh97Zcc-Dk4zAxrCjD
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://103.111.40.242:9999/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
