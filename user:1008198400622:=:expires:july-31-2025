@@ -159,8 +159,6 @@ http://190.60.55.141:9083/play/a0fm/index.m3u8
 http://190.60.55.141:9083/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/etb.png" group-title="Variedades",etb
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
-https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=eDEabkphJteIzz9mDZd8xZdjn2ZLl5QPb6hmVNu4TqXAbSq6S81IbW1Yp3_7NBVtWfwCCftv3XkRLyesxcX-5Z8uFwiSkSdlbq5u8qh0gu7wmM2lLOIfudfamNDfIVMc&dmTs=345333&dmV1st=52951483-4e21-2188-39f6-42070b813c59
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/baa0457a-727e-4a07-8b5e-ef6b707a6632/2.m3u8
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
