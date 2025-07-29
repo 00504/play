@@ -163,8 +163,6 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
 https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=eDEabkphJteIzz9mDZd8xZdjn2ZLl5QPb6hmVNu4TqXAbSq6S81IbW1Yp3_7NBVtWfwCCftv3XkRLyesxcX-5Z8uFwiSkSdlbq5u8qh0gu7wmM2lLOIfudfamNDfIVMc&dmTs=345333&dmV1st=52951483-4e21-2188-39f6-42070b813c59
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/baa0457a-727e-4a07-8b5e-ef6b707a6632/2.m3u8
-#EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
