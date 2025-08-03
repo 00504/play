@@ -42,7 +42,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
-http://tv.masterplaytv.club:8080/usuariocanales117/c4036a742663/8307
+http://190.11.225.124:5000/live/bandamax/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://checalamovie.net/wp-content/uploads/2021/10/CM-logo-box2.png" group-title="Música",Canela MUSIC
 https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichitsta-canelatvinternational/playlist.m3u8?rights_holder_id=canela-music-hits&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=487d780f-55ea-42e0-b93c-a41a9e8430d0&url=https://canela.tv/player/channel/canela-music-hits&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
@@ -68,7 +68,7 @@ http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="General",Canal 4
 http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://tv.masterplaytv.club:8080/usuariocanales117/c4036a742663/87598
+http://104.238.205.28:8989/158620_.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
@@ -130,13 +130,13 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://190.92.10.66:4000/play/a002/index.m3u8
+http://cord-cutter.net:8080/Rme2Fg/183926/11885
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://181.118.156.46:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
-http://190.92.10.66:4000/play/a005/index.m3u8
+http://cord-cutter.net:8080/Rme2Fg/183926/108248
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="cnnespanol.cnn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CNN_Esp.png" group-title="Noticias",CNN en Español
@@ -150,7 +150,7 @@ http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://190.60.55.141:9083/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://tv.masterplaytv.club:8080/usuariocanales117/c4036a742663/9645
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.60.55.141:9083/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
@@ -180,9 +180,9 @@ http://185.189.225.150:85/AMC/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemax.com/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://tv.masterplaytv.club:8080/usuariocanales117/c4036a742663/9635
+http://tvdirecto.pro:8080/live/b918095075/7polibre/3501.ts
 #EXTINF:-1 tvg-id="televisa-networks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden HD
-http://tv.masterplaytv.club:8080/usuariocanales117/c4036a742663/9657
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.149.62.46:8004/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Paramount.png" group-title="Peliculas",Paramount Network
