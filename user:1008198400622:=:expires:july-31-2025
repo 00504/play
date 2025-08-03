@@ -101,8 +101,6 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 http://181.176.153.104:8090/play/a1ci/index.m3u8
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religioso",JBN HD
 https://mediacp.us:8081/jbntv/index.m3u8
-#EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
