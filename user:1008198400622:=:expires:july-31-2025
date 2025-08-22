@@ -66,7 +66,7 @@ https://ch1-tva.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Variedades",Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://190.92.10.66:4000/play/a007/index.m3u8
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://104.238.205.28:8989/158620_.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
@@ -100,7 +100,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
-http://131.100.49.73:8003/play/a02l/index.m3u8
+http://181.176.153.104:8090/play/a1ci/index.m3u8
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://www.jbntv.org/img/logo@2x.png" group-title="Religioso",JBN HD
 https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
@@ -165,7 +165,7 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
-http://45.184.87.142:8000/play/a03z
+http://181.176.153.104:8090/play/a1cj/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://190.60.55.141:9083/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
@@ -181,7 +181,7 @@ http://190.60.55.141:9083/play/a0et/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://tv.masterplaytv.club:8080/WWre1iLlli09384ks34/vhaGbZ4RXY/94822
+http://181.176.153.104:8090/play/a1l8/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden Premier
@@ -199,4 +199,4 @@ http://190.11.225.124:5000/live/studio_universal_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png",Universal Channel
 http://181.176.153.104:8090/play/a1co/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
-http://131.100.49.73:8003/play/a02r/index.m3u8
+http://181.176.153.104:8090/play/a1k5/index.m3u8
