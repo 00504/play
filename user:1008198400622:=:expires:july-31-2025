@@ -177,7 +177,7 @@ http://190.60.55.141:9083/play/a0et/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
 http://190.11.225.124:5000/live/cine_canal_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://imskinny.online:8080/live/hatch/Hatch123/161155.m3u8
+http://190.217.23.56:1010/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden Premier
