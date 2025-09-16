@@ -162,6 +162,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 http://179.63.6.15:8000/play/a00x
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",Nat Geo Wild
+https://fl4.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://190.60.55.141:9083/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Party_Tyme.png" group-title="Música",Party Tyme
