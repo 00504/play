@@ -115,8 +115,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
+#EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
+#EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",Telesur
@@ -164,8 +166,6 @@ http://190.108.89.228:8000/play/a0du/index.m3u8
 https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://190.60.55.141:9083/play/a0dk/index.m3u8
-#EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Party_Tyme.png" group-title="Música",Party Tyme
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
