@@ -194,6 +194,6 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png",Studio Universal 
 http://190.60.55.141:9083/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png",Universal Channel
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
+http://190.60.55.141:9083/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://190.108.89.228:8000/play/a0e3/index.m3u8
