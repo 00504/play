@@ -148,9 +148,9 @@ http://190.108.89.228:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
-http://190.60.55.141:9083/play/a0fm/index.m3u8
+http://190.60.55.141:9083/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
-http://190.60.55.141:9083/play/a0fn/index.m3u8
+http://190.60.55.141:9083/play/a0gc/index.m3u8
 #EXTINF:-1 tvg-id="https://f1tv.formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/F1tv.png" group-title="Deportes",Formula 1
 http://199.127.63.143:8989/278826_.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
@@ -162,7 +162,7 @@ http://179.63.6.15:8000/play/a00x
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
-http://190.60.55.141:9083/play/a0dk/index.m3u8
+http://190.108.89.228:8000/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
