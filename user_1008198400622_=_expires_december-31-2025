@@ -158,7 +158,7 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
-http://179.63.6.15:8000/play/a00x
+https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
@@ -185,8 +185,6 @@ http://45.184.87.142:8000/play/a038
 http://190.108.89.228:8000/play/a0b2/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://181.78.117.219:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="playboy.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Playboy.png" group-title="Peliculas",Playboy
-http://190.52.105.146:8000/play/a0fx/index.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
@@ -199,3 +197,5 @@ http://190.60.55.141:9083/play/a0fh/index.m3u8
 http://181.78.117.219:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://190.108.89.228:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="playboy.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Playboy.png" group-title="Peliculas",Playboy
+http://190.52.105.146:8000/play/a0fx/index.m3u8
