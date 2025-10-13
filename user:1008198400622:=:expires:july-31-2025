@@ -51,8 +51,6 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 http://181.78.117.219:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
@@ -147,6 +145,8 @@ http://181.78.117.219:8000/play/a002/index.m3u8
 http://190.108.89.228:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://190.108.89.228:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://181.78.117.219:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
