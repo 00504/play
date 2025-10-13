@@ -197,3 +197,5 @@ http://181.78.117.219:8000/play/a007/index.m3u8
 http://181.78.117.219:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://190.108.89.228:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="playboy.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Playboy.png" group-title="Peliculas",Playboy
+http://200.121.20.250:8093/play/PlayboyHD/index.m3u8
