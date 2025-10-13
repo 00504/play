@@ -158,7 +158,7 @@ https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
-https://fl7.moveonjoy.com/LOVE_NATURE/index.m3u8
+http://104.238.222.251:8989/296574_.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
