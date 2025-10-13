@@ -51,10 +51,10 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 http://201.230.121.101:5060/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="	cartoonitola.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoonito.png" group-title="Infantiles",Cartoonito
+http://201.230.121.101:5060/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
-http://181.118.156.46:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Telenovelas",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
