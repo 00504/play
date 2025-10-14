@@ -52,7 +52,6 @@ http://201.230.121.101:5060/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="	cartoonitola.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoonito.png" group-title="Infantiles",Cartoonito
-http://201.230.121.101:5060/play/a0ay/index.m3u8
 http://181.78.117.219:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
