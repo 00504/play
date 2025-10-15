@@ -51,11 +51,11 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 http://201.230.121.101:5060/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="	cartoonitola.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoonito.png" group-title="Infantiles",Cartoonito
+#EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
 http://181.78.117.219:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-1 tvg-id="mtv.com" tvg-logo="https://es.wikipedia.org/wiki/MTV_00s#/media/Archivo:MTV_00s_remaster.png" group-title="Música",MTV 00s
+#EXTINF:-1 tvg-id="mtv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MTV_00s.png" group-title="Música",MTV 00s
 http://201.230.121.101:5060/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="Telenovelas",Azteca Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
@@ -122,7 +122,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
 http://190.60.42.86:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-http://181.78.117.219:8000/play/a006/index.m3u8
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
