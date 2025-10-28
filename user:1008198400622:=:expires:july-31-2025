@@ -26,7 +26,7 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="CTVInternacional.hn" tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="Variedades",CTV Internacional
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.m3u8
+http://170.231.55.178:9001/play/a005
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
 https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Globo_TV.png" group-title="Noticias",Globo TV
