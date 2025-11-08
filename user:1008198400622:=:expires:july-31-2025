@@ -180,7 +180,7 @@ http://181.78.117.219:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 http://190.171.83.2:4000/play/a0qi/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal_DHE.png" group-title="Peliculas",DHE
-http://190.60.42.86:8000/play/a00o/index.m3u8
+http://190.92.10.66:4000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://181.78.117.219:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
