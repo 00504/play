@@ -195,6 +195,8 @@ http://103.111.40.242:9999/play/a01t/index.m3u8
 http://181.78.117.219:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="paramountpluswithshowtime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Show_Time.png" group-title="Peliculas",Showtime
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.m3u8
+#EXTINF:-1 tvg-id="paramountpluswithshowtime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Show_Time.png" group-title="Peliculas",Showtime 2
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
