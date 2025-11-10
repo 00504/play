@@ -60,7 +60,7 @@ http://181.118.156.46:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://38.49.128.38:8000/play/a0la/index.m3u8
+http://181.78.106.127:9000/play/ca023/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://104.238.205.28:8989/278328_.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
@@ -128,7 +128,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tudn" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://190.14.10.19:16000/play/a09v/index.m3u8
+http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://38.44.109.41:8003/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
@@ -194,9 +194,9 @@ http://103.111.40.242:9999/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://181.78.117.219:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="paramountpluswithshowtime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Show_Time.png" group-title="Peliculas",Showtime
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.m3u8
-#EXTINF:-1 tvg-id="paramountpluswithshowtime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Show_Time.png" group-title="Peliculas",Showtime 2
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.m3u8
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.m3u8
+#EXTINF:-1 tvg-id="paramountpluswithshowtime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Showtime_2.png" group-title="Peliculas",Showtime 2
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
