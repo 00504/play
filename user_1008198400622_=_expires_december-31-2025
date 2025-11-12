@@ -152,7 +152,7 @@ http://181.78.117.219:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Variedades",etb basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="https://f1tv.formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/F1tv.png" group-title="Deportes",Formula 1
-http://199.127.63.143:8989/278826_.m3u8
+http://38gb.pro/live/1100788991/14811/197937.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/las-estrellas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
@@ -175,6 +175,8 @@ https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://181.78.117.219:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="fox.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Infantiles",The Simpsons
+http://104.243.40.13:8989/279044_.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
