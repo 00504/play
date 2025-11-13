@@ -138,7 +138,7 @@ http://104.238.205.28:8989/278728_.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
 http://45.186.106.220:5550/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_Miami.png" group-title="Noticias",UNIVISION Miami
-http://104.238.205.28:8989/278692_.m3u8
+http://104.238.205.28:8989/278699_.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal_Cocina.png" group-title="Gastronomía",Canal Cocina
