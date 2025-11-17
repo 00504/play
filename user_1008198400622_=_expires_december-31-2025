@@ -249,3 +249,7 @@ http://201.230.121.101:5060/play/a065/index.m3u8
 http://199.127.63.105:8989/168521_.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Test
 http://199.127.63.105:8989/168520_.m3u8
+#EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Test
+http://199.127.63.105:8989/165193_.m3u8
+#EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Test
+http://199.127.63.105:8989/165182_.m3u8
