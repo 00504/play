@@ -61,6 +61,9 @@ http://181.118.156.46:8000/play/a04v/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://199.127.63.105:8989/166558_.m3u8
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+https://tmp-sv8.teleon.live/play/a00i/index.m3u8
+https://teleon.tv/stream/cG5wODQ2NjAxN3BucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://104.238.205.28:8989/278329_.m3u8
 http://199.127.63.105:8989/158620_.m3u8
@@ -75,8 +78,6 @@ https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
 http://181.78.117.219:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
-http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://181.78.117.219:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
@@ -155,6 +156,8 @@ http://181.78.117.219:8000/play/a002/index.m3u8
 http://190.61.55.34:2401/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://190.61.55.34:2401/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
+http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://181.78.117.219:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
