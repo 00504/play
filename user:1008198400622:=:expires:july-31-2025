@@ -78,6 +78,7 @@ https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/playlist.m3u8
 #EXTINF:-1 tvg-id="cnnespanol.cnn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CNN_Esp.png" group-title="Noticias",CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
 http://181.78.117.219:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
@@ -98,8 +99,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",Fashion TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5458
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
-https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
@@ -125,8 +126,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="televisa-networks.com/telehit" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
-http://199.127.63.105:8989/278613_.m3u8
 http://190.60.42.86:8000/play/a03k/index.m3u8
+http://199.127.63.105:8989/278613_.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://104.238.205.28:8989/278685_.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",Teleritmo
