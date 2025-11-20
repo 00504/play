@@ -41,7 +41,7 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="canal22.org.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal22_MX.png" group-title="Documentales",Canal 22 MX
+#EXTINF:-1 tvg-id="canal22.org.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal_22_MX.png" group-title="Documentales",Canal 22 MX
 http://199.127.63.105:8989/278324_.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
