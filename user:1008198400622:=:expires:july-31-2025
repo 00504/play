@@ -155,8 +155,6 @@ http://199.127.63.105:8989/167118_.m3u8
 http://104.238.205.28:8989/278693_.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_New_York.png" group-title="Noticias",UNIVISION 41 New York
 http://104.238.205.28:8989/278692_.m3u8
-#EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_Houston.png" group-title="Noticias",UNIVISION 45 Houston
-http://104.238.205.28:8989/278697_.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
 http://190.60.42.86:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
