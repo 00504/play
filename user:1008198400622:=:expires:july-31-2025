@@ -157,8 +157,6 @@ http://45.186.106.220:5550/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_Miami.png" group-title="Noticias",UNIVISION 23 Miami
 http://104.238.205.28:8989/278699_.m3u8
 http://199.127.63.105:8989/167118_.m3u8
-#EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_Atlanta.png" group-title="Noticias",UNIVISION 37 Atlanta
-http://104.238.205.28:8989/278693_.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_New_York.png" group-title="Noticias",UNIVISION 41 New York
 http://104.238.205.28:8989/278692_.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
@@ -217,9 +215,9 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="fox.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Infantiles",The Simpsons
-https://zonamovie.pro:443/play/VyEEgZ2yTxB0M_zz3UVSkN92liyGtg95yMw6t5UFClcqbeJa-Utxq2VreTSYJWah/ts
 http://104.243.40.13:8989/279044_.m3u8
 http://199.127.63.105:8989/168740_.m3u8
+https://zonamovie.pro:443/play/VyEEgZ2yTxB0M_zz3UVSkN92liyGtg95yMw6t5UFClcqbeJa-Utxq2VreTSYJWah/ts
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
