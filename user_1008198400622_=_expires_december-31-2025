@@ -65,10 +65,10 @@ https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://199.127.63.105:8989/166558_.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
-http://200.115.120.1:8000/play/ca100/index.m3u8
-http://201.174.175.3:8000/play/a0wn/index.m3u8
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
+http://201.174.175.3:8000/play/a0wn/index.m3u8
+http://200.115.120.1:8000/play/ca100/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://104.238.205.28:8989/278329_.m3u8
 http://199.127.63.105:8989/158620_.m3u8
