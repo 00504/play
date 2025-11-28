@@ -171,8 +171,10 @@ http://181.78.117.219:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery Home & Healt
 http://181.78.117.219:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery Theater
+http://201.230.121.101:5060/play/a08h/index.m3u8
 http://190.61.55.34:2401/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
+http://201.230.121.101:5060/play/a073/index.m3u8
 http://190.61.55.34:2401/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://38.172.160.232:9000/demotlc/demo/59
@@ -196,9 +198,11 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="mtv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MTV_00s.png" group-title="Música",MTV 00s
-http://201.230.121.101:5060/play/a099/index.m3u8
+http://201.230.121.101:5060/play/a0cg/index.m3u8
+http://104.238.205.28:8989/278607_.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
+http://201.230.121.101:5060/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://181.78.117.219:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
