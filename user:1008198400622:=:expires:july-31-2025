@@ -110,6 +110,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=dVeljzEdCIVZDkw-3oCBZ8XC1Lv03AS5uUt8yrMx0O8AQALqGCdEPRig5sXnQnLNA3v_S9BNzTEQjNey8WeUM_PywcRURXShuOwj-FOCb8k&dmTs=913555&dmV1st=6e11e55d-a2e1-595b-13ea-83274b8b0335
 https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=NIXQ2TJWU3uKAu8JEoXh_NovJq5wW8uOW2obf_lMcgL_cM9x1Te3BgTXFtUAkVdWugfP6xUn6nLpZa3tcmTOHd-7b4ucct6xQBv3NGUuCODWV0y39kg60E6I-fBgP17y&dmTs=913555&dmV1st=6e11e55d-a2e1-595b-13ea-83274b8b0335
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
