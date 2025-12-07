@@ -52,6 +52,7 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
 http://201.230.121.101:5060/play/a02k/index.m3u8
+http://190.119.112.28:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
@@ -65,9 +66,8 @@ http://38.172.160.232:9000/demotlc/demo/61
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://45.167.255.254:8010/play/a04j/index.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
-http://199.127.63.105:8989/278317_.m3u8
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
@@ -140,6 +140,7 @@ http://190.60.42.86:8000/play/a03k/index.m3u8
 http://199.127.63.105:8989/278613_.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://200.188.121.42:8083/play/a0mg/index.m3u8
+http://181.119.86.68:8000/play/b023/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/57
 http://104.238.205.28:8989/278685_.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",Teleritmo
@@ -149,10 +150,10 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tudn" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://104.238.222.251:8989/311109_.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://38.172.160.232:9000/demotlc/demo/28
+http://181.119.86.68:8000/play/b052/index.m3u8
 http://38.44.109.41:8003/play/a02c/index.m3u8
 http://148.113.207.98:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",TVE Internacional
@@ -161,9 +162,11 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 http://104.238.205.28:8989/278728_.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
 http://38.172.160.232:9000/demotlc/demo/66
+http://190.119.247.205:8000/play/a00x
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.186.106.220:5550/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision_Miami.png" group-title="Noticias",UNIVISION 23 Miami
+http://38.188.186.47:4000/play/a001
 http://104.238.205.28:8989/278699_.m3u8
 http://199.127.63.105:8989/167118_.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
@@ -213,10 +216,9 @@ http://201.230.121.101:5060/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://181.78.117.219:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
+http://190.119.247.205:8000/play/a00q
 http://190.119.112.28:8000/play/a05y/index.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
-http://190.119.43.180:8000/play/a0yi/index.m3u8
-http://205.235.6.29:8000/play/a0pl/index.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
@@ -225,12 +227,11 @@ http://38.183.182.166:8000/play/a0vg/index.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
+http://38.172.160.232:9000/demotlc/demo/67
 http://186.148.180.35:45000/play/a05g
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="fox.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Infantiles",The Simpsons
 https://zonamovie.pro:443/play/VyEEgZ2yTxB0M_zz3UVSkN92liyGtg95yMw6t5UFClcqbeJa-Utxq2VreTSYJWah/ts
-http://104.243.40.13:8989/279044_.m3u8
-http://199.127.63.105:8989/168740_.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
@@ -252,10 +253,10 @@ http://38.172.160.232:9000/demotlc/demo/44
 http://148.113.207.98:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.119.247.205:8000/play/a004
-http://199.127.63.105:8989/278490_.m3u8
+http://190.119.43.180:8000/play/a0y6/index.m3u8
 http://201.230.121.101:5060/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
-http://104.238.205.28:8989/278510_.m3u8
+http://181.119.86.68:8000/play/b044/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://181.78.117.219:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="paramountpluswithshowtime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Show_Time.png" group-title="Peliculas",Showtime
@@ -279,9 +280,8 @@ http://181.78.117.219:8000/play/a007/index.m3u8
 http://181.78.117.219:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png" group-title="Series",Universal Channel
 http://181.78.117.219:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_Premiere.png" group-title="Series",Universal Premiere
-http://199.127.63.105:8989/278476_.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
 http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
+http://190.119.247.205:8000/play/a002
 http://190.171.83.2:4000/play/a0pu/index.m3u8
