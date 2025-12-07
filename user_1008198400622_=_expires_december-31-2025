@@ -276,15 +276,14 @@ http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://190.171.83.2:4000/play/a0pu/index.m3u8
 #EXTINF:-1 tvg-id="playboy.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Playboy_TV.png" group-title="Peliculas",Playboy TV
-http://199.127.63.105:8989/165182_.m3u8
 http://201.230.121.101:5060/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="sextreme.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sextreme_TV.png" group-title="Peliculas",Sextreme
 http://201.230.121.101:5060/play/a0c5/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Venus_Channel.png" group-title="Peliculas",Venus
 http://201.230.121.101:5060/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
-http://199.127.63.105:8989/168521_.m3u8
+http://xxip9.top:8080/Abxc5k/363887/159954
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
-http://199.127.63.105:8989/168520_.m3u8
+http://xxip9.top:8080/Abxc5k/363887/159958 
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
-http://199.127.63.105:8989/165193_.m3u8
+http://xxip9.top:8080/Abxc5k/363887/159959
