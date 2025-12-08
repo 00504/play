@@ -26,7 +26,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://190.11.225.124:5000/live/deportes_tvc_hd/playlist.m3u8
-http://170.231.55.178:9001/play/a005
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
 https://5fe2654d6127d.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Globo_TV.png" group-title="Noticias",Globo TV
@@ -49,7 +48,6 @@ http://45.167.255.254:8010/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
 http://190.60.42.86:8000/play/a03i/index.m3u8
 http://186.148.180.35:45000/play/a04m
-http://190.11.225.124:5000/live/bandamax/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
@@ -71,7 +69,6 @@ https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 http://199.127.63.105:8989/278317_.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
 http://138.94.253.182:12121/play/a0f4/index.m3u8
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
@@ -88,11 +85,11 @@ https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-id="cnnespanol.cnn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CNN_Esp.png" group-title="Noticias",CNN en Español
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
+#EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
+http://190.171.83.2:4000/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
-http://201.77.61.226:8001/play/a0g9/index.m3u8
 http://181.78.117.219:8000/play/a00a/index.m3u8
-http://15.204.146.163:8001/play/a008/index.m3u8
-http://147.135.114.221:8001/play/a008/index.m3u8
+http://201.77.61.226:8001/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://181.78.117.219:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
@@ -119,11 +116,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
-https://cdndirector.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=wdDpledqEtrEkr8uqAa4RskQb26__czA4YSeC_gmuGXkwge52NIJCujqkszdTfUTIpK_hRIEoQmn4utDqFuOIR2eu6OWMGnnmuvpUL6b-awfg2pCxgYRiG4V_hwZoT69&dmTs=913555&dmV1st=6e11e55d-a2e1-595b-13ea-83274b8b0335
+http://190.11.225.124:5000/live/hch_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
-http://190.108.89.228:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Telenovelas",RCN Más+
@@ -196,6 +191,8 @@ http://199.127.63.105:8989/278827_.m3u8
 #EXTINF:-1 tvg-id="univision.com/galavision" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/GALA_vision.png" group-title="Entretenimiento",GALAvision
 http://104.238.205.28:8989/278710_.m3u8
 http://38.188.186.47:4000/play/a007
+#EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://190.108.89.228:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/las-estrellas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
@@ -223,7 +220,6 @@ http://38.183.182.166:8000/play/a0vg/index.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="fox.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Infantiles",The Simpsons
 http://104.243.40.13:8989/279044_.m3u8
@@ -245,7 +241,6 @@ http://190.92.10.66:4000/play/a00e/index.m3u8
 http://181.78.117.219:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden
 http://201.77.61.226:8001/play/a0ge/index.m3u8
-http://38.172.160.232:9000/demotlc/demo/44
 http://148.113.207.98:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
@@ -262,13 +257,14 @@ http://181.78.117.219:8000/play/a00h/index.m3u8
 http://45.167.255.254:8010/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
 http://181.78.117.219:8000/play/a003/index.m3u8
-http://38.172.160.232:9000/demotlc/demo/36
+http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal 
 http://38.172.160.232:9000/demotlc/demo/35
 http://190.60.55.141:9083/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
+http://181.119.86.68:8000/play/c022/index.m3u8
 http://181.78.117.219:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT_Series.png" group-title="Series",TNT Series
 http://181.78.117.219:8000/play/a00f/index.m3u8
