@@ -146,6 +146,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tudn" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+http://190.14.10.19:16000/play/a09v/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://200.115.120.1:8000/play/ca049/index.m3u8
@@ -264,14 +265,15 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 http://38.172.160.232:9000/demotlc/demo/35
 http://190.60.55.141:9083/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
-http://181.119.86.68:8000/play/c022/index.m3u8
+http://181.78.106.127:9000/play/ca077/index.m3u8
 http://181.78.117.219:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT_Series.png" group-title="Series",TNT Series
 http://181.78.117.219:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png" group-title="Series",Universal Channel
 http://181.78.117.219:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_Premiere.png" group-title="Series",Universal Premiere
-http://45.186.107.173:8000/play/a04a/index.m3u8
+http://45.184.87.142:8000/play/a058
+http://181.78.106.127:9000/play/a0qu/index.m3u8
 http://45.5.117.57:8999/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
 http://181.119.86.68:8000/play/b041/index.m3u8
