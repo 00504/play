@@ -184,6 +184,8 @@ http://181.78.117.219:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Variedades",etb basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="https://f1tv.formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/F1tv.png" group-title="Deportes",Formula 1 DAZN
+http://177.10.184.60:8002/play/a01h/index.m3u8
+http://131.161.83.249:8031/play/a06h/index.m3u8
 http://199.127.63.105:8989/278827_.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
@@ -240,6 +242,7 @@ http://148.113.207.98:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
+http://181.78.209.126:18000/play/a077
 http://181.119.86.68:8000/play/b044/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Paramount.png" group-title="Peliculas",Paramount Network
 http://181.78.117.219:8000/play/a00l/index.m3u8
