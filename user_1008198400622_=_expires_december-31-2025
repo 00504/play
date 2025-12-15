@@ -62,17 +62,14 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-https://zonamovie.pro:443/play/aMKQuohD9gK_XbggQsdAPDJozlQQP1sTFnn3SmIZw78pb-JBkIJBZAv1bUMsnIy9/ts
 http://190.92.10.66:4000/play/a007/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
-http://200.92.227.238:8000/play/a0uw/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-https://zonamovie.pro:443/play/aMKQuohD9gK_XbggQsdAPDJozlQQP1sTFnn3SmIZw7-3howYuA7h4dXKWCmESaUi/ts
 http://190.83.9.222:8000/play/ca069/index.m3u8
 http://45.167.255.254:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
@@ -88,7 +85,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
 http://190.171.83.2:4000/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
-http://200.37.241.109:8000/play/a0gt/index.m3u8
+http://200.37.241.109:8000/play/a0gs/index.m3u8
 http://201.77.61.226:8001/play/a0g9/index.m3u8
 http://45.5.119.43:4000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
@@ -226,7 +223,6 @@ http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://181.78.117.219:8000/play/a001/index.m3u8
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="fox.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Infantiles",The Simpsons
-https://zonamovie.pro:443/play/3PvahQ4VAvOeOeZbaIjnovAJo7KoOvyenDPe2bdDwCOVx-D07Wj4DADFo37dTYOT/ts
 https://zonamovie.pro:443/play/aMKQuohD9gK_XbggQsdAPDJozlQQP1sTFnn3SmIZw7_1OemEmiOpnay2nHimuCSz/ts
 https://zonamovie.pro:443/play/3PvahQ4VAvOeOeZbaIjnovAJo7KoOvyenDPe2bdDwCPPMFtG2Z-5SzN_nt1FqdWf/ts
 https://zonamovie.pro:443/play/LnwTaFybfn9OruH3Y3M2C8Rpi9L4Pco9kYLl-3Yjp5cNrdUGKwEfSiwX4TrvRHAa
