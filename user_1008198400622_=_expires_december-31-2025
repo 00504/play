@@ -62,14 +62,18 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
+https://zonamovie.pro:443/play/aMKQuohD9gK_XbggQsdAPDJozlQQP1sTFnn3SmIZw78pb-JBkIJBZAv1bUMsnIy9/ts
+http://190.92.10.66:4000/play/a007/index.m3u8
+http://45.5.119.43:4000/play/a026/index.m3u8
 http://200.92.227.238:8000/play/a0uw/index.m3u8
-http://45.5.117.57:8999/play/a0fz/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+https://zonamovie.pro:443/play/aMKQuohD9gK_XbggQsdAPDJozlQQP1sTFnn3SmIZw7-3howYuA7h4dXKWCmESaUi/ts
+http://190.83.9.222:8000/play/ca069/index.m3u8
 http://45.167.255.254:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
@@ -84,8 +88,9 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
 http://190.171.83.2:4000/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
+http://200.37.241.109:8000/play/a0gt/index.m3u8
 http://201.77.61.226:8001/play/a0g9/index.m3u8
-http://181.78.117.219:8000/play/a00a/index.m3u8
+http://45.5.119.43:4000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://181.78.117.219:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
@@ -149,6 +154,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://190.14.10.19:16000/play/a09v/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
+http://177.53.153.207:8000/play/a01i/index.m3u8
 http://200.37.241.109:8000/play/a0ju/index.m3u8
 http://200.115.120.1:8000/play/ca049/index.m3u8
 http://181.119.86.68:8000/play/b052/index.m3u8
@@ -156,8 +162,10 @@ http://181.119.86.68:8000/play/b052/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
 http://168.228.44.241:9997/play/a09e/index.m3u8
+http://190.83.9.222:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
 http://45.186.106.220:5550/play/a04p/index.m3u8
+http://200.37.241.109:8000/play/a0jz/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
@@ -217,6 +225,11 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://181.78.117.219:8000/play/a001/index.m3u8
 http://104.238.205.28:8989/278368_.m3u8
+#EXTINF:-1 tvg-id="fox.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Infantiles",The Simpsons
+https://zonamovie.pro:443/play/3PvahQ4VAvOeOeZbaIjnovAJo7KoOvyenDPe2bdDwCOVx-D07Wj4DADFo37dTYOT/ts
+https://zonamovie.pro:443/play/aMKQuohD9gK_XbggQsdAPDJozlQQP1sTFnn3SmIZw7_1OemEmiOpnay2nHimuCSz/ts
+https://zonamovie.pro:443/play/3PvahQ4VAvOeOeZbaIjnovAJo7KoOvyenDPe2bdDwCPPMFtG2Z-5SzN_nt1FqdWf/ts
+https://zonamovie.pro:443/play/LnwTaFybfn9OruH3Y3M2C8Rpi9L4Pco9kYLl-3Yjp5cNrdUGKwEfSiwX4TrvRHAa
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://181.118.156.46:8000/play/a04v/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/61
@@ -242,6 +255,7 @@ http://148.113.207.98:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
+http://190.60.42.86:8000/play/a016/index.m3u8
 http://181.78.209.126:18000/play/a077
 http://181.119.86.68:8000/play/b044/index.m3u8
 #EXTINF:-1 tvg-id="paramountplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Paramount.png" group-title="Peliculas",Paramount Network
@@ -279,15 +293,12 @@ http://181.119.86.68:8000/play/b041/index.m3u8
 http://190.171.83.2:4000/play/a0pu/index.m3u8
 http://190.119.247.205:8000/play/a002
 #EXTINF:-1 tvg-id="playboy.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Playboy_TV.png" group-title="Peliculas",Playboy TV
-http://201.230.121.101:5060/play/a0at/index.m3u8
 http://200.106.13.204:8000/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="sextreme.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sextreme_TV.png" group-title="Peliculas",Sextreme
-http://201.230.121.101:5060/play/a0c5/index.m3u8
+http://200.106.13.204:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Venus_Channel.png" group-title="Peliculas",Venus
-http://201.230.121.101:5060/play/a065/index.m3u8
+http://200.106.13.204:8000/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
 http://xxip9.top:8080/Abxc5k/363887/159954
-#EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
-http://xxip9.top:8080/Abxc5k/363887/159958 
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
 http://xxip9.top:8080/Abxc5k/363887/159959
