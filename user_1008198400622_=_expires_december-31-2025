@@ -73,7 +73,6 @@ http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://181.78.106.127:9000/play/ca012/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
@@ -168,6 +167,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
 http://168.228.44.241:9997/play/a09e/index.m3u8
 http://190.83.9.222:8000/play/a00g/index.m3u8
+http://38.188.186.47:4000/play/a00i
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
 http://45.186.106.220:5550/play/a04p/index.m3u8
 http://200.37.241.109:8000/play/a0jz/index.m3u8
@@ -196,11 +196,6 @@ http://181.78.117.219:8000/play/a00g/index.m3u8
 http://181.78.117.219:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Variedades",etb basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="https://f1tv.formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/F1tv.png" group-title="Deportes",Formula 1 DAZN
-http://45.190.185.204:8990/play/a08l/index.m3u8
-http://177.10.184.60:8002/play/a01h/index.m3u8
-http://131.161.83.249:8031/play/a06h/index.m3u8
-http://199.127.63.105:8989/278827_.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/las-estrellas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
@@ -220,6 +215,10 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
+http://38.188.186.47:4000/play/a007
+http://45.190.185.204:8990/play/a08l/index.m3u8
+http://190.83.2.179:9014/play/a0qr/index.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
