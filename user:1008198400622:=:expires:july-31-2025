@@ -231,8 +231,6 @@ http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://181.78.117.219:8000/play/a001/index.m3u8
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
-http://8.242.178.29:13000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://179.1.202.41:45000/play/a0l8/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
