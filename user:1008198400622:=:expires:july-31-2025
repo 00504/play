@@ -63,6 +63,11 @@ http://190.119.247.205:8000/play/a00d
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
+#EXTINF:-1 tvg-id="aztecahonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Honduras.png" group-title="Variedades",Azteca Honduras
+https://cdndirector.dailymotion.com/cdn/live/video/x9saemc.m3u8?sec=tKLdax5TBo82UAbqR9Ajq4QpB5ue_Rp063hCJS-wNc2yb2223aG4lw3C_WSxcHHhQSewOr_eIVaJPbJrD26VLlFVdBIstnxNW1KmxMm9ZnJAoUemgREWoSx8K32SYAbO&dmTs=487192&dmV1st=4a094aec-6cb6-32d1-a6dd-ee4bfc16583e
+https://cdndirector.dailymotion.com/cdn/live/video/x9saemc.m3u8?sec=SR_-5pU7TtJfiFLx9xE-URW-n88IekR6stvzndNSCaEz40nmFXLucRgMm2zXiDMeok3QX0n7JQEfULQsFclwkOq85wKg0xJCVK66XsBF2PIz1bIdbXBTtWfeDJWq0Ij_&dmTs=487192&dmV1st=4a094aec-6cb6-32d1-a6dd-ee4bfc16583e
+https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
+https://dvrfl03.bozztv.com/hondu-azteca/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://45.190.185.204:8990/play/a0hc/index.m3u8
 http://45.167.255.254:8010/play/a04j/index.m3u8
@@ -102,9 +107,6 @@ http://45.167.255.254:8010/play/a02n/index.m3u8
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Ebenezer_TV.png" group-title="Religioso",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2256000.m3u8
-#EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
-http://190.171.83.2:4000/play/a0l4/index.m3u8
-http://199.127.63.105:8989/278421_.m3u8
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Euronews.png" group-title="Noticias",Euronews
@@ -190,6 +192,8 @@ http://45.5.117.57:5550/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
+http://190.171.83.2:4000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://181.78.117.219:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
