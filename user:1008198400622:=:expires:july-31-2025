@@ -82,7 +82,6 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
 http://190.83.2.179:9014/play/a0ps/index.m3u8
-#EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
 http://45.182.21.33:8891/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://168.228.44.241:9998/play/a00n/index.m3u8
