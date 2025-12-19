@@ -45,7 +45,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="canal22.org.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal22_MX.png" group-title="Documentales",Canal 22 MX
-http://45.167.255.254:8010/play/a01c/index.m3u8
+http://38.49.128.38:8000/play/a0d7/index.m3u8
+http://38.49.128.38:8000/play/a0nu/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
 http://190.60.42.86:8000/play/a03i/index.m3u8
 http://45.181.123.123:8000/play/a00y/index.m3u8
@@ -53,6 +54,8 @@ http://45.181.123.123:8000/play/a00y/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
 http://177.53.153.207:8000/play/a011/index.m3u8
+http://45.190.185.204:8990/play/a04s/index.m3u8
+http://131.161.83.249:8031/play/a11m/index.m3u8
 http://190.104.67.4:234/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
@@ -70,22 +73,30 @@ https://dvrfl03.bozztv.com/hondu-azteca/tracks-v1a1/mono.ts.m3u8
 http://45.190.185.204:8990/play/a0hc/index.m3u8
 http://45.167.255.254:8010/play/a04j/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://181.78.109.48:9998/play/a06h/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://45.190.185.204:8990/play/a043/index.m3u8
 http://45.190.185.204:8990/play/a0g2/index.m3u8
+http://181.78.109.48:9998/play/a00p/index.m3u8
+http://200.115.120.1:8000/play/ca100/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://181.78.106.127:9000/play/ca012/index.m3u8
+http://45.190.185.204:8990/play/a0hs/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
 http://45.182.21.33:8891/play/Uh5vNWNknJk/index.m3u8
+http://45.190.185.204:8990/play/a08f/index.m3u8
+http://131.161.83.249:8031/play/a061/index.m3u8
+http://181.224.255.210:8001/play/a0q8/index.m3u8
 http://190.83.2.179:9014/play/a0ps/index.m3u8
 http://45.182.21.33:8891/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://168.228.44.241:9998/play/a00n/index.m3u8
+http://181.78.109.48:9998/play/a00o/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 http://45.190.185.204:8990/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
@@ -163,6 +174,7 @@ http://190.14.10.19:16000/play/a09v/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://177.53.153.207:8000/play/a01i/index.m3u8
+http://45.190.185.204:8990/play/a08t/index.m3u8
 http://200.37.241.109:8000/play/a0ju/index.m3u8
 http://200.115.120.1:8000/play/ca049/index.m3u8
 http://181.119.86.68:8000/play/b052/index.m3u8
@@ -174,6 +186,7 @@ http://190.83.9.222:8000/play/a00g/index.m3u8
 http://38.188.186.47:4000/play/a00i
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
 http://45.186.106.220:5550/play/a04p/index.m3u8
+http://181.78.109.48:9998/play/a068/index.m3u8
 http://200.37.241.109:8000/play/a0jz/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
@@ -210,6 +223,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="mtv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MTV_00s.png" group-title="Música",MTV 00s
 http://200.92.227.238:8000/play/a0op/index.m3u8
+http://45.190.185.204:8990/play/a0ex/index.m3u8
+http://186.96.71.204:8000/play/a00t/index.m3u8
 http://168.228.44.241:9998/play/a053/index.m3u8
 http://38.199.4.160:93/play/a0bg
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
