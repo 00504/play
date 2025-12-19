@@ -64,8 +64,6 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="aztecahonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Honduras.png" group-title="Variedades",Azteca Honduras
-https://cdndirector.dailymotion.com/cdn/live/video/x9saemc.m3u8?sec=tKLdax5TBo82UAbqR9Ajq4QpB5ue_Rp063hCJS-wNc2yb2223aG4lw3C_WSxcHHhQSewOr_eIVaJPbJrD26VLlFVdBIstnxNW1KmxMm9ZnJAoUemgREWoSx8K32SYAbO&dmTs=487192&dmV1st=4a094aec-6cb6-32d1-a6dd-ee4bfc16583e
-https://cdndirector.dailymotion.com/cdn/live/video/x9saemc.m3u8?sec=SR_-5pU7TtJfiFLx9xE-URW-n88IekR6stvzndNSCaEz40nmFXLucRgMm2zXiDMeok3QX0n7JQEfULQsFclwkOq85wKg0xJCVK66XsBF2PIz1bIdbXBTtWfeDJWq0Ij_&dmTs=487192&dmV1st=4a094aec-6cb6-32d1-a6dd-ee4bfc16583e
 https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
 https://dvrfl03.bozztv.com/hondu-azteca/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
@@ -83,11 +81,9 @@ http://45.190.185.204:8990/play/a043/index.m3u8
 http://181.78.106.127:9000/play/ca012/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
-http://131.161.83.249:8031/play/a061/index.m3u8
-https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
+http://190.83.2.179:9014/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
-http://131.161.83.249:8031/play/a061/index.m3u8
-https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
+http://45.182.21.33:8891/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://168.228.44.241:9998/play/a00n/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
