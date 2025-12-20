@@ -45,6 +45,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="canal22.org.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal22_MX.png" group-title="Documentales",Canal 22 MX
+http://45.167.255.254:8010/play/a01c/index.m3u8
 http://38.49.128.38:8000/play/a0d7/index.m3u8
 http://38.49.128.38:8000/play/a0nu/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
