@@ -137,6 +137,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c&serverSideAds=false
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=UgOxUbTy4zGPbyyJuhC996bwesaK8WRSdBW0JJS89tz3ofvQOVsD5Z284fyItyWgWfV8Ft__oNrS-df9Xo_2T1q9XCnrICL3TXzzteTYD4Q&dmTs=80436&dmV1st=369146e6-ba44-b34b-85bb-90153a11c160
 http://190.83.2.179:9014/play/a0pc/index.m3u8
 http://190.11.225.124:5000/live/hch_hd/playlist.m3u8
 http://200.229.147.142:8000/play/a00y/index.m3u8
@@ -207,6 +208,8 @@ http://45.5.117.57:5550/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://181.78.117.219:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
@@ -228,6 +231,8 @@ http://45.190.185.204:8990/play/a0ex/index.m3u8
 http://186.96.71.204:8000/play/a00t/index.m3u8
 http://168.228.44.241:9998/play/a053/index.m3u8
 http://38.199.4.160:93/play/a0bg
+#EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
 http://200.37.241.109:8000/play/a0j3/index.m3u8
@@ -255,12 +260,13 @@ http://181.78.117.219:8000/play/a001/index.m3u8
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://179.1.202.41:45000/play/a0l8/index.m3u8
+#EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
 http://181.13.252.102:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
-http://45.235.0.78/AMC_HD/playlist.m3u8
 http://181.78.117.219:8000/play/a018/index.m3u8
 http://200.37.241.109:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
@@ -276,7 +282,6 @@ http://181.78.117.219:8000/play/a015/index.m3u8
 http://201.77.61.226:8001/play/a0ge/index.m3u8
 http://148.113.207.98:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
-http://45.235.0.78/HBO_HD/playlist.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
 http://190.60.42.86:8000/play/a016/index.m3u8
