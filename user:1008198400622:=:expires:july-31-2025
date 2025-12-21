@@ -231,6 +231,8 @@ http://45.190.185.204:8990/play/a0ex/index.m3u8
 http://186.96.71.204:8000/play/a00t/index.m3u8
 http://168.228.44.241:9998/play/a053/index.m3u8
 http://38.199.4.160:93/play/a0bg
+#EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://190.108.89.228:8000/play/a0du/index.m3u8
 http://200.37.241.109:8000/play/a0j3/index.m3u8
@@ -258,6 +260,8 @@ http://181.78.117.219:8000/play/a001/index.m3u8
 http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://179.1.202.41:45000/play/a0l8/index.m3u8
+#EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
