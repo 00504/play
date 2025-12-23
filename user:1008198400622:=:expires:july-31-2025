@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TCS%2B.png" group-title="Variedades",TCS+
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/SV_Plus.png" group-title="Variedades",TCS+
 https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/kN9zB3eN/live.isml/.mpd
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2
