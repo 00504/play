@@ -12,6 +12,7 @@ https://lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6
+https://cdn.jwplayer.com/manifests/WFvQ7sTq.m3u8?exp=1766521800&sig=76d306a114d39e8b04740fb5b1780889
 http://168.228.44.241:9998/play/a02x/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
@@ -78,6 +79,7 @@ http://181.78.109.48:9998/play/a06h/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.mpd?exp=1766520600&sig=3a1e90665f4a895d75231737d1f43abf
 http://45.190.185.204:8990/play/a043/index.m3u8
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://181.78.109.48:9998/play/a00p/index.m3u8
@@ -332,5 +334,3 @@ http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://190.171.83.2:4000/play/a0pu/index.m3u8
 http://190.119.247.205:8000/play/a002
-#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TCS%2B.png" group-title="Variedades",TCS+
-https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.mpd?exp=1766520600&sig=3a1e90665f4a895d75231737d1f43abf
