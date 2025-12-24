@@ -85,7 +85,7 @@ http://181.78.109.48:9998/play/a06h/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
-https://cdn.jwplayer.com/manifests/Ffm6TaCz.m3u8?exp=1766527800&sig=7ebbee2ac87ee370f7bc8576a14f2686
+https://cdn.jwplayer.com/manifests/Ffm6TaCz.m3u8
 https://videos-cloudfront-usp.jwpsrv.com/694b840a_5134fee7e3af195cc44c5523ce47e77f20c3b4e5/sites/2TG5q0qV/media/Ffm6TaCz/versions/S0gaHR1D/manifest.ism/manifest-audio_0_mAEUtJsp_KnE7Fb5p=112001-video_0_mAEUtJsp_mBUr1cct=3796573-10.ts
 http://168.228.44.241:9998/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
@@ -93,7 +93,7 @@ http://45.190.185.204:8990/play/a0hs/index.m3u8
 http://181.78.106.127:9000/play/ca012/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
-https://cdn.jwplayer.com/manifests/WFvQ7sTq.m3u8?exp=1766521800&sig=76d306a114d39e8b04740fb5b1780889
+https://cdn.jwplayer.com/manifests/9DMEdY1z.m3u8
 http://168.228.44.241:9998/play/a02x/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
