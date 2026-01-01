@@ -87,7 +87,6 @@ http://181.78.109.48:9998/play/a06h/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
-https://cdn.jwplayer.com/manifests/Q3mp0MdB.m3u8
 http://168.228.44.241:9998/play/a045/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 https://videos-cloudfront-usp.jwpsrv.com/694b840a_5134fee7e3af195cc44c5523ce47e77f20c3b4e5/sites/2TG5q0qV/media/Ffm6TaCz/versions/S0gaHR1D/manifest.ism/manifest-audio_0_mAEUtJsp_KnE7Fb5p=112001-video_0_mAEUtJsp_mBUr1cct=3796573-10.ts
@@ -97,7 +96,6 @@ http://45.190.185.204:8990/play/a0hs/index.m3u8
 http://181.78.106.127:9000/play/ca012/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
-https://cdn.jwplayer.com/manifests/9DMEdY1z.m3u8
 http://168.228.44.241:9998/play/a02x/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
@@ -245,9 +243,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="mtv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MTV_00s.png" group-title="Música",MTV 00s
-http://200.92.227.238:8000/play/a0op/index.m3u8
-http://190.119.112.28:8000/play/a058/index.m3u8
-http://45.190.185.204:8990/play/a0ex/index.m3u8
 http://186.96.71.204:8000/play/a00t/index.m3u8
 http://168.228.44.241:9998/play/a053/index.m3u8
 http://38.199.4.160:93/play/a0bg
@@ -358,5 +353,3 @@ http://200.106.13.204:8000/play/a0ke/index.m3u8
 http://200.106.13.204:8000/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
 http://185.53.90.98:8080/cht0620/ykt.231223/397529 
-#EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
-http://185.53.90.98:8080/cht0620/ykt.231223/397525 
