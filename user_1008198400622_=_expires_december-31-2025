@@ -185,11 +185,11 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://190.14.10.19:16000/play/a09v/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
-http://177.53.153.207:8000/play/a01i/index.m3u8
-http://45.190.185.204:8990/play/a08t/index.m3u8
 http://200.37.241.109:8000/play/a0ju/index.m3u8
+http://45.190.185.204:8990/play/a08t/index.m3u8
 http://200.115.120.1:8000/play/ca049/index.m3u8
 http://181.119.86.68:8000/play/b052/index.m3u8
+http://177.53.153.207:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
@@ -242,10 +242,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
-#EXTINF:-1 tvg-id="mtv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MTV_00s.png" group-title="Música",MTV 00s
-http://186.96.71.204:8000/play/a00t/index.m3u8
-http://168.228.44.241:9998/play/a053/index.m3u8
-http://38.199.4.160:93/play/a0bg
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
