@@ -167,6 +167,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="televisa-networks.com/telehit" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
+http://200.37.241.109:8000/play/a0k1/index.m3u8
 http://45.167.255.254:8010/play/a062/index.m3u8
 http://45.167.255.254:8010/play/a02t/index.m3u8
 http://45.5.117.57:5550/play/a05a/index.m3u8
@@ -197,8 +198,8 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 http://190.83.9.222:8000/play/a00g/index.m3u8
 http://38.188.186.47:4000/play/a00i
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
-http://181.78.109.48:9998/play/a068/index.m3u8
 http://200.37.241.109:8000/play/a0jz/index.m3u8
+http://181.78.109.48:9998/play/a068/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
 http://45.186.106.220:5550/play/a04p/index.m3u8
@@ -291,6 +292,7 @@ http://190.171.83.2:4000/play/a0le/index.m3u8
 http://181.78.117.219:8000/play/a018/index.m3u8
 http://200.37.241.109:8000/play/a0bw/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
+http://200.37.241.109:8000/play/a0i9/index.m3u8
 http://190.171.83.2:4000/play/a0pr/index.m3u8
 http://181.78.117.219:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
