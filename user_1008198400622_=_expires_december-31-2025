@@ -356,3 +356,5 @@ http://200.106.13.204:8000/play/a0ke/index.m3u8
 http://200.106.13.204:8000/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
 http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9643 
+#EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9649
