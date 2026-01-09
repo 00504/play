@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TCS_Plus.png" group-title="Variedades",TCS+
+https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.m3u8
 https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.mpd
 https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/kN9zB3eN/live.isml/.mpd
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
@@ -136,10 +137,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
-https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=UgOxUbTy4zGPbyyJuhC996bwesaK8WRSdBW0JJS89tz3ofvQOVsD5Z284fyItyWgWfV8Ft__oNrS-df9Xo_2T1q9XCnrICL3TXzzteTYD4Q&dmTs=80436&dmV1st=369146e6-ba44-b34b-85bb-90153a11c160
 http://190.83.2.179:9014/play/a0pc/index.m3u8
 http://190.11.225.124:5000/live/hch_hd/playlist.m3u8
 http://45.190.185.204:8990/play/a0ig/index.m3u8
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=UgOxUbTy4zGPbyyJuhC996bwesaK8WRSdBW0JJS89tz3ofvQOVsD5Z284fyItyWgWfV8Ft__oNrS-df9Xo_2T1q9XCnrICL3TXzzteTYD4Q&dmTs=80436&dmV1st=369146e6-ba44-b34b-85bb-90153a11c160
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="jbntv.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/JBN_Internacional.png" group-title="Religioso",JBN Internacional
@@ -204,8 +205,6 @@ http://45.186.106.220:5550/play/a04p/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="thedesignnetwork.com" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Entretenimiento",design NETWORK
-https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch15.playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery Home & Healt
@@ -231,7 +230,7 @@ http://181.78.117.219:8000/play/a00g/index.m3u8
 http://190.171.83.2:4000/play/a0qe/index.m3u8
 http://181.78.117.219:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Variedades",etb basque
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_4.m3u8
+https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://190.108.89.228:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="intravel.fi" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/In_Travel.png" group-title="Variedades",Intravel
@@ -243,7 +242,6 @@ http://205.235.6.29:8000/play/a0n3/index.m3u8
 http://181.78.106.127:9000/play/ca011/index.m3u8
 http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
@@ -268,8 +266,7 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="rakuten.tv" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Peliculas",Rakuten TV
-https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://38.183.182.166:8000/play/a0vg/index.m3u8
@@ -278,7 +275,6 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://181.78.117.219:8000/play/a001/index.m3u8
-http://104.238.205.28:8989/278368_.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://207.248.2.105:3200/play/a143/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
@@ -286,7 +282,6 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="tvcopan.com" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="Variedades",TV Copán
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
-https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/720p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
@@ -348,6 +343,7 @@ http://200.80.230.124:8000/play/a0af/index.m3u8
 http://45.5.117.57:5550/play/a03i/index.m3u8
 http://181.78.106.127:9000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://200.114.68.133:8999/play/a0cx/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
 http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
