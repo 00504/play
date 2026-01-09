@@ -180,7 +180,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tudn" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://190.14.10.19:16000/play/a09v/index.m3u8
+http://190.83.9.222:8000/play/ca099/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://201.182.248.76:8000/play/a05d/index.m3u8
@@ -282,7 +282,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="tvcopan.com" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="Variedades",TV Copán
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/720p/index.m3u8
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="aetv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/A%26E_Network.png" group-title="Peliculas",A&E Network
 http://190.171.83.2:4000/play/a0q9/index.m3u8
