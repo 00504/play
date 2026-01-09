@@ -77,6 +77,13 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
+#EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
+http://45.190.185.204:8990/play/a0hc/index.m3u8
+http://45.167.255.254:8010/play/a04j/index.m3u8
+http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://181.78.109.48:9998/play/a06h/index.m3u8
+http://45.5.119.43:4000/play/a026/index.m3u8
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
 http://168.228.44.241:9998/play/a045/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
@@ -87,13 +94,6 @@ http://45.167.255.254:8010/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
 http://168.228.44.241:9998/play/a02x/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://45.190.185.204:8990/play/a0hc/index.m3u8
-http://45.167.255.254:8010/play/a04j/index.m3u8
-http://168.228.44.241:9998/play/a0cx/index.m3u8
-http://181.78.109.48:9998/play/a06h/index.m3u8
-http://45.5.119.43:4000/play/a026/index.m3u8
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://181.78.109.48:9998/play/a00o/index.m3u8
 http://168.228.44.241:9998/play/a00n/index.m3u8
@@ -229,8 +229,6 @@ http://181.78.117.219:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
 http://190.171.83.2:4000/play/a0qe/index.m3u8
 http://181.78.117.219:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Variedades",etb basque
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://190.108.89.228:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="intravel.fi" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/In_Travel.png" group-title="Variedades",Intravel
@@ -274,7 +272,7 @@ http://38.183.182.166:8000/play/a0vg/index.m3u8
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://200.37.241.109:8000/play/a0gp/index.m3u8
-http://181.78.117.219:8000/play/a001/index.m3u8
+http://181.78.117.219:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://207.248.2.105:3200/play/a143/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
@@ -323,7 +321,6 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://190.171.83.2:4000/play/a0px/index.m3u8
 http://45.167.255.254:8010/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
-http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch21.playlist.m3u8
 http://190.171.83.2:4000/play/a0q2/index.m3u8
 http://200.37.241.109:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
@@ -358,4 +355,4 @@ http://200.106.13.204:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Venus_Channel.png" group-title="Peliculas",Venus
 http://200.106.13.204:8000/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-id="hotgo.tv" tvg-logo="https://devblog.blackberry.com/content/dam/devblog-blackberry-com/images/blogs/2015/04/push-button.png" group-title="Peliculas",Push
-http://185.53.90.98:8080/cht0620/ykt.231223/397529 
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9643 
