@@ -40,6 +40,7 @@ http://45.190.185.204:8990/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
 https://streamingcws30.com/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Globo_TV.png" group-title="Noticias",Globo TV
+http://157.143.44.195/play/a0a9
 https://stream.radiosmundiales.com:19360/globotvhonduras/globotvhonduras.m3u8
 #EXTINF:-1 tvg-id="icndigital.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ICN_Digital.png" group-title="Noticias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
@@ -204,6 +205,10 @@ http://45.5.117.57:5550/play/a04q/index.m3u8
 http://45.186.106.220:5550/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Noticias",CCTV-4 América
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+http://190.122.96.187:8000/play/a038/index.m3u8
+http://157.143.44.195/play/a04t
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
