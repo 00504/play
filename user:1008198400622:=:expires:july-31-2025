@@ -238,6 +238,8 @@ http://181.78.117.219:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
 http://190.171.83.2:4000/play/a0qe/index.m3u8
 http://181.78.117.219:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="univision.com/galavision" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/GALA_vision.png" group-title="Entretenimiento",GALAvision
+https://d162h6qqsk8wvl.cloudfront.net/8964b6d7-b638-454e-9959-b5fe98c53cc6/video_5.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://190.108.89.228:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="intravel.fi" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/In_Travel.png" group-title="Variedades",Intravel
