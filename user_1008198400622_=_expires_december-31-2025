@@ -40,6 +40,7 @@ http://45.190.185.204:8990/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
 https://streamingcws30.com/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Globo_TV.png" group-title="Noticias",Globo TV
+http://157.143.44.195/play/a0a9
 https://stream.radiosmundiales.com:19360/globotvhonduras/globotvhonduras.m3u8
 #EXTINF:-1 tvg-id="icndigital.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ICN_Digital.png" group-title="Noticias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
@@ -132,7 +133,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5458
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
+https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark Channel
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -192,6 +195,7 @@ http://177.53.153.207:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
+https://d162h6qqsk8wvl.cloudfront.net/9958ba17-71e7-4677-aa44-48d468c73d47/manifest.m3u8
 http://168.228.44.241:9997/play/a09e/index.m3u8
 http://190.83.9.222:8000/play/a00g/index.m3u8
 http://38.188.186.47:4000/play/a00i
@@ -201,10 +205,18 @@ http://181.78.109.48:9998/play/a068/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
 http://45.186.106.220:5550/play/a04p/index.m3u8
+http://restream-live.realiptv.to:8080/live/33741215/82527298/4473.ts
+https://d162h6qqsk8wvl.cloudfront.net/26f19622-d240-4b2a-935a-658ac9cb071b/manifest.m3u8
+https://d162h6qqsk8wvl.cloudfront.net/332f0863-839a-4ecb-a160-c941de700aa4/manifest.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CCTV_4.png" group-title="Variedades",CCTV 4 América
+http://190.122.96.187:8000/play/a038/index.m3u8
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+http://157.143.44.195/play/a04t
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch15.playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery Home & Healt
@@ -229,6 +241,8 @@ http://181.78.117.219:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
 http://190.171.83.2:4000/play/a0qe/index.m3u8
 http://181.78.117.219:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="univision.com/galavision" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/GALA_vision.png" group-title="Entretenimiento",GALAvision
+https://d162h6qqsk8wvl.cloudfront.net/8964b6d7-b638-454e-9959-b5fe98c53cc6/manifest.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://190.108.89.228:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="intravel.fi" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/In_Travel.png" group-title="Variedades",Intravel
@@ -277,8 +291,6 @@ http://181.78.117.219:8000/play/a01p/index.m3u8
 http://207.248.2.105:3200/play/a143/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="tvcopan.com" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="Variedades",TV Copán
-https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
