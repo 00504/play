@@ -5,6 +5,7 @@ https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.mpd
 https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/kN9zB3eN/live.isml/.mpd
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="lencatelevision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Lenca_TV.png" group-title="Variedades",Lenca TV
+https://www.lencatelevision.com/hls/0/stream.m3u8
 https://lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
