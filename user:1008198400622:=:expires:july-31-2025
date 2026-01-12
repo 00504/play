@@ -82,20 +82,20 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://45.5.119.43:4000/play/a026/index.m3u8
 http://45.190.185.204:8990/play/a0hc/index.m3u8
 http://45.167.255.254:8010/play/a04j/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://181.78.109.48:9998/play/a06h/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
+http://45.5.119.43:4000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
 http://168.228.44.241:9998/play/a045/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://45.5.119.43:4000/play/a05o/index.m3u8
 http://45.190.185.204:8990/play/a0hs/index.m3u8
 http://181.78.106.127:9000/play/ca012/index.m3u8
 http://45.167.255.254:8010/play/a02k/index.m3u8
+http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
 http://168.228.44.241:9998/play/a02x/index.m3u8
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
