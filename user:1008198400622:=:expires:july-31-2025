@@ -31,7 +31,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/011cc7e2-0578-4d05-b38b-7f9d8885fe51/
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Variedades",Canal 12 SV
+#EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal12_SV.png" group-title="Variedades",Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://200.229.147.142:8000/play/a05g/index.m3u8
