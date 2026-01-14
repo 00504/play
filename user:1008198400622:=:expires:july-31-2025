@@ -272,6 +272,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://190.108.89.228:8000/play/a0du/index.m3u8
 http://200.37.241.109:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
+http://200.115.120.1:8000/play/ca008/index.m3u8
 http://181.78.117.219:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
@@ -367,6 +368,6 @@ http://200.114.68.133:8999/play/a0cx/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
 http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
-http://201.182.248.76:8000/play/a16y/index.m3u8
+http://45.5.119.43:4000/play/a0ho/index.m3u8
 http://190.171.83.2:4000/play/a0pu/index.m3u8
 http://190.119.247.205:8000/play/a002
