@@ -111,7 +111,7 @@ http://200.37.241.109:8000/play/a0gt/index.m3u8
 http://45.167.255.254:8010/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Arte_FR.png" group-title="Entertainment",arte HD
+#EXTINF:-1 tvg-id="arte.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Arte_FR.png" group-title="Variedades",arte tv
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 http://157.143.44.195/play/a0a9
