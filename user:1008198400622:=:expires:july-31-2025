@@ -239,8 +239,6 @@ http://45.5.117.57:5550/play/a04o/index.m3u8
 http://190.108.89.228:8000/play/a0dt/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae@SD" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Deportes",Dubai Sports
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.171.83.2:4000/play/a0pz/index.m3u8
 http://181.78.117.219:8000/play/a00b/index.m3u8
