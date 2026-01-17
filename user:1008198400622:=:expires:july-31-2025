@@ -236,6 +236,7 @@ http://45.5.117.57:5550/play/a03d/index.m3u8
 http://200.37.241.109:8000/play/a0h4/index.m3u8
 http://45.5.117.57:5550/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
+http://190.108.89.228:8000/play/a0dt/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="DubaiSports1.ae@SD" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Deportes",Dubai Sports
