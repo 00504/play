@@ -266,8 +266,9 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="MasNorteTV.co@SD" tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="Variedades",Mas Norte TV
 https://live.arnoproducciones.com/hls/norte.m3u8
-#EXTINF:-1 tvg-id="MCITelevision.co@SD" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Peliculas",MCI Televisión
+#EXTINF:-1 tvg-id="canalmci.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MCI_TV.png" group-title="Peliculas",MCI Televisión
 https://video.ejeserver.com/live/mcitelevision.m3u8
+https://movil.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
