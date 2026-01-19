@@ -277,7 +277,7 @@ http://200.115.120.1:8000/play/ca008/index.m3u8
 http://181.78.117.219:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
-#EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Parranda_Vallenata.png" group-title="Música",Parranda Vallenata
+#EXTINF:-1 tvg-id="hvmultiplay.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Parranda_Vallenata.png" group-title="Música",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
 http://190.119.160.100:8000/play/a0aw/index.m3u8
