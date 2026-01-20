@@ -263,9 +263,6 @@ http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
-#EXTINF:-1 tvg-id="canalmci.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/MCI_TV.png" group-title="Peliculas",MCI Televisión
-https://video.ejeserver.com/live/mcitelevision.m3u8
-https://movil.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
@@ -319,6 +316,7 @@ http://207.248.2.105:3200/play/a143/index.m3u8
 https://v2.tustreaming.cl/chilechannel/mono.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="venevision.com" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/images/logo-venevision-bk-light_326x50.png" group-title="General",Venevisión
+https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
