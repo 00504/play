@@ -285,6 +285,8 @@ http://45.190.185.204:8990/play/a08l/index.m3u8
 http://38.188.186.47:4000/play/a007/index.m3u8
 http://200.106.13.204:8000/play/a0h1/index.m3u8
 http://200.115.98.26:9000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Lifestyle",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Music",Power Dance
@@ -316,6 +318,8 @@ http://207.248.2.105:3200/play/a143/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/mono.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="venevision.com" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/images/logo-venevision-bk-light_326x50.png" group-title="General",Venevisión
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
