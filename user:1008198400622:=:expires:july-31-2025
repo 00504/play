@@ -223,7 +223,7 @@ http://157.143.44.195/play/a04t
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="CucutaRetroTV.co@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Retro_TV.png" group-title="Peliculas",Cúcuta Retro TV
+#EXTINF:-1 tvg-id="CucutaRetroTV.co@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Retro_TV.png" group-title="Variedades",Cúcuta Retro TV
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -282,18 +282,18 @@ http://45.190.185.204:8990/play/a08l/index.m3u8
 http://38.188.186.47:4000/play/a007/index.m3u8
 http://200.106.13.204:8000/play/a0h1/index.m3u8
 http://200.115.98.26:9000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Lifestyle",Plous TV
+#EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Music",Power Dance
+#EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Música",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="m2o.it/m2o-tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Radio_m2o.png" group-title="Música",radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="rakuten.tv" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Peliculas",Rakuten TV
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Noticias",Señal Colombia
+#EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -315,7 +315,7 @@ http://207.248.2.105:3200/play/a143/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/mono.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="venevision.com" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/images/logo-venevision-bk-light_326x50.png" group-title="General",Venevisión
+#EXTINF:-1 tvg-id="venevision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Vene_Vision.png" group-title="General",Venevisión
 https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
