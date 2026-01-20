@@ -328,7 +328,7 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="vmlatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VM_Latino.png" group-title="Música",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://vibravibrator.com.my/wp-content/uploads/2025/01/Logo_white-01-1024x279.png" group-title="Música",Vibra tv
+#EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Vibra_TV.png" group-title="Música",Vibra tv
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://190.171.83.2:4000/play/a0le/index.m3u8
