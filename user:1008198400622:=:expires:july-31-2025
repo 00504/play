@@ -302,7 +302,7 @@ https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 http://38.183.182.166:8000/play/a0vg/index.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperCable.cr@SD" tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entertainment",Super 5tv
+#EXTINF:-1 tvg-id="SuperCable.cr@SD" tvg-logo="https://assets.cdn.filesafe.space/1HFpVXBlwVkm6RE3MAgy/media/68a36f87eb6e092ee06dcf6f.png" group-title="Entertainment",Super 5tv
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://200.37.241.109:8000/play/a0gp/index.m3u8
@@ -326,9 +326,9 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
-#EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Música",VM Latino
+#EXTINF:-1 tvg-id="vmlatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VM_Latino.png" group-title="Música",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="Música",GAMTVibra tv
+#EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://vibravibrator.com.my/wp-content/uploads/2025/01/Logo_white-01-1024x279.png" group-title="Música",Vibra tv
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://190.171.83.2:4000/play/a0le/index.m3u8
