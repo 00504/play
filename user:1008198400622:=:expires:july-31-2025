@@ -351,6 +351,7 @@ http://190.92.10.66:4000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://190.171.83.2:4000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden
+http://192.187.102.26:80/playlistfinder/playlistfinder/27.m3u8
 http://190.171.83.2:4000/play/a0pi/index.m3u8
 http://201.77.61.226:8001/play/a0ge/index.m3u8
 http://148.113.207.98:8000/play/a007/index.m3u8
@@ -368,6 +369,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://190.171.83.2:4000/play/a0px/index.m3u8
 http://45.167.255.254:8010/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
+http://192.187.102.26:80/playlistfinder/playlistfinder/10.m3u8
 http://190.171.83.2:4000/play/a0q2/index.m3u8
 http://200.37.241.109:8000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
@@ -387,10 +389,12 @@ http://200.80.230.124:8000/play/a0af/index.m3u8
 http://45.5.117.57:5550/play/a03i/index.m3u8
 http://181.78.106.127:9000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://192.187.102.26:80/playlistfinder/playlistfinder/11.m3u8
 http://200.114.68.133:8999/play/a0cx/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
 http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
+http://192.187.102.26:80/playlistfinder/playlistfinder/12.m3u8
 http://45.5.119.43:4000/play/a0ho/index.m3u8
 http://190.171.83.2:4000/play/a0pu/index.m3u8
 http://190.119.247.205:8000/play/a002
