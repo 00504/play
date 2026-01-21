@@ -252,7 +252,7 @@ http://190.171.83.2:4000/play/a0qe/index.m3u8
 http://181.78.117.219:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="univision.com/galavision" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/GALA_vision.png" group-title="Entretenimiento",GALAvision
 https://d162h6qqsk8wvl.cloudfront.net/eb4ef379-0625-4af4-8ba7-406180cefbaa/manifest.m3u8
-#EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",Gex TV
+#EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",gex•tv
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://190.108.89.228:8000/play/a0ea/index.m3u8
@@ -309,7 +309,7 @@ http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://181.78.117.219:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
-#EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",Tele+
+#EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",Tele Más
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
