@@ -272,8 +272,6 @@ http://200.37.241.109:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://200.115.120.1:8000/play/ca008/index.m3u8
 http://181.78.117.219:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="numberone.com.tr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/NR1_Dance.png" group-title="Música",Number 1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://github.com/00504/play/blob/tv/logos/Once_M%C3%A9xico.png?raw=true" group-title="Variedades",Once Internacional
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
