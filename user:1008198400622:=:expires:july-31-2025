@@ -44,8 +44,8 @@ https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
 https://stream.radiosmundiales.com:19360/globotvhonduras/globotvhonduras.m3u8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="icndigital.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ICN_Digital.png" group-title="Noticias",ICN Digital
-https://streaming.icndigital.com/live_output/icn_live_stream.m3u8
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+https://streaming.icndigital.com/live_output/icn_live_stream.m3u8
 #EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_Tribuna.png" group-title="Noticias",La Tribuna TV
 https://amixtv.com:8081/ltvhn/index.m3u8
 #EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
