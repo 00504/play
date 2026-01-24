@@ -129,7 +129,9 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Euronews.png" group-title="Noticias",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/c99219d6-380e-43f3-a540-5547bbf0c40c/5.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=094f199a-ec10-11f0-bad3-ead9ca97366d
 #EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EWTN.png" group-title="Religioso",EWTN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",Fashion TV
