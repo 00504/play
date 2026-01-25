@@ -322,6 +322,7 @@ http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://181.78.117.219:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
+http://190.109.29.163:9000/play/12sa2/index.m3u8
 #EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",TeleMás
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
