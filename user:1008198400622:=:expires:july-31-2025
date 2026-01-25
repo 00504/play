@@ -393,9 +393,12 @@ http://190.171.83.2:4000/play/a0qa/index.m3u8
 http://179.63.6.12:9000/play/a04s
 http://200.80.230.124:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_Premiere.png" group-title="Series",Universal Premiere
+http://168.228.44.241:9998/play/a054/index.m3u8
 http://45.5.117.57:5550/play/a03i/index.m3u8
 http://181.78.106.127:9000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://209.14.102.16:8000/play/a0g8/index.m3u8
+http://168.228.44.241:9998/play/a095/index.m3u8
 http://190.0.247.38:8000/play/a01f
 http://200.114.68.133:8999/play/a0cx/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
