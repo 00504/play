@@ -80,12 +80,12 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
+http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://168.228.44.241:9998/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://168.228.44.241:9998/play/a00n/index.m3u8
 http://45.190.185.204:8990/play/a0ks/index.m3u8
@@ -142,7 +142,6 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
-https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=UgOxUbTy4zGPbyyJuhC996bwesaK8WRSdBW0JJS89tz3ofvQOVsD5Z284fyItyWgWfV8Ft__oNrS-df9Xo_2T1q9XCnrICL3TXzzteTYD4Q&dmTs=80436&dmV1st=369146e6-ba44-b34b-85bb-90153a11c160
 http://177.10.184.60:8002/play/a00j/index.m3u8
 http://168.228.44.241:9997/play/a05x/index.m3u8
 http://190.11.225.124:5000/live/hch_hd/playlist.m3u8
@@ -208,7 +207,6 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 http://190.83.9.222:8000/play/a00g/index.m3u8
 http://38.188.186.47:4000/play/a00i
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
-http://45.190.185.204:8990/play/a0dc/index.m3u8
 http://200.37.241.109:8000/play/a0jz/index.m3u8
 http://181.78.109.48:9998/play/a068/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
