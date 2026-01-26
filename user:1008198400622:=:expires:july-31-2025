@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TCS_Plus.png" group-title="Variedades",TCS+
+https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-es24ta-canelatvinternational/playlist.m3u8
 https://stream.mux.com/aW7rT8w1o4001lQTGQV0201u8gXHyb28Zy00dlcqupA01vGI.m3u8
 https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.m3u8
 https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.mpd
@@ -117,10 +118,10 @@ http://176.65.146.240:7001/play/a083/index.m3u8
 http://176.65.146.189:7001/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Ebenezer_TV.png" group-title="Religioso",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2256000.m3u8
+#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="hemispheretv.com/es24" tvg-logo="https://i.imgur.com/sbPA16Z.png" group-title="Variedades",ES24 El Salvador
-https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-es24ta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Euronews.png" group-title="Noticias",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/c99219d6-380e-43f3-a540-5547bbf0c40c/5.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
@@ -246,8 +247,6 @@ http://45.5.117.57:5550/play/a04o/index.m3u8
 http://190.108.89.228:8000/play/a0dt/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.171.83.2:4000/play/a0pz/index.m3u8
 http://181.78.117.219:8000/play/a00b/index.m3u8
