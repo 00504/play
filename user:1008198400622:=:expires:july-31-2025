@@ -141,6 +141,7 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=UgOxUbTy4zGPbyyJuhC996bwesaK8WRSdBW0JJS89tz3ofvQOVsD5Z284fyItyWgWfV8Ft__oNrS-df9Xo_2T1q9XCnrICL3TXzzteTYD4Q&dmTs=80436&dmV1st=369146e6-ba44-b34b-85bb-90153a11c160
 http://168.228.44.241:9997/play/a05x/index.m3u8
 http://190.61.34.164:8000/play/a04c/index.m3u8
 http://177.10.184.60:8002/play/a00j/index.m3u8
@@ -241,6 +242,8 @@ http://45.5.117.57:5550/play/a04o/index.m3u8
 http://190.108.89.228:8000/play/a0dt/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="hemispheretv.com/es24" tvg-logo="https://i.imgur.com/sbPA16Z.png" group-title="Variedades",ES24 El Salvador
+https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-es24ta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.171.83.2:4000/play/a0pz/index.m3u8
 http://181.78.117.219:8000/play/a00b/index.m3u8
