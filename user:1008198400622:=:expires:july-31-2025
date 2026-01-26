@@ -14,9 +14,9 @@ http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 http://186.33.25.103:8000/play/a00l/index.m3u8
 http://190.61.34.164:8000/play/a00k/index.m3u8
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 http://200.106.13.204:8000/play/a0fv/index.m3u8
 http://168.228.44.241:9998/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
@@ -78,10 +78,13 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
+http://190.92.10.66:4000/play/a007/index.m3u8
+http://45.5.119.43:4000/play/a026/index.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://45.5.119.43:4000/play/a05o/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
@@ -325,6 +328,7 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 http://181.78.8.199:8000/play/a09g/index.m3u8
 http://38.190.101.128:2233/play/a1h0/index.m3u8
 http://207.248.2.105:3200/play/a143/index.m3u8
+http://186.194.160.110:9002/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/mono.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
