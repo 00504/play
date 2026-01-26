@@ -14,12 +14,10 @@ http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="canal6.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 CBC
-http://45.190.185.204:8990/play/a08f/index.m3u8
-http://131.161.83.249:8031/play/a061/index.m3u8
-http://181.224.255.210:8001/play/a0q8/index.m3u8
-http://190.83.2.179:9014/play/a0ps/index.m3u8
-http://45.182.21.33:8891/play/a004/index.m3u8
-http://45.182.21.33:8891/play/Uh5vNWNknJk/index.m3u8
+http://190.61.34.164:8000/play/a00k/index.m3u8
+http://186.33.25.103:8000/play/a00l/index.m3u8
+http://168.228.44.241:9998/play/a09j/index.m3u8
+http://200.106.13.204:8000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TelePais.png" group-title="Variedades",TelePaís
@@ -87,6 +85,7 @@ http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://168.228.44.241:9998/play/a00n/index.m3u8
+http://190.61.34.164:8000/play/a00o/index.m3u8
 http://45.190.185.204:8990/play/a0ks/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
