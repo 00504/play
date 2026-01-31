@@ -18,7 +18,6 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="multimediostv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 http://190.61.34.164:8000/play/a00k/index.m3u8
 http://186.33.25.103:8000/play/a00l/index.m3u8
 http://200.106.13.204:8000/play/a0fv/index.m3u8
@@ -80,9 +79,11 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://38.49.128.38:8000/play/a0la/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://38.49.128.38:8000/play/a0la/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
+https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
@@ -90,7 +91,6 @@ http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://168.228.44.241:9998/play/a00n/index.m3u8
 http://190.61.34.164:8000/play/a00o/index.m3u8
 http://45.190.185.204:8990/play/a0ks/index.m3u8
-https://teleon.tv/stream/cG5wODQ3ODg2M3BucDg0.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvclasicoeurope-freetvus/playlist.m3u8
@@ -110,12 +110,6 @@ http://200.37.241.109:8000/play/a0gt/index.m3u8
 http://45.167.255.254:8010/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Arte_FR.png" group-title="Variedades",arte tv
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-http://176.65.146.138:8047/play/a07k/index.m3u8
-http://176.65.146.240:7001/play/a083/index.m3u8
-http://176.65.146.189:7001/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Ebenezer_TV.png" group-title="Religioso",Ebenezer TV
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2256000.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
@@ -219,9 +213,14 @@ http://45.186.106.220:5550/play/a04p/index.m3u8
 http://restream-live.realiptv.to:8080/live/33741215/82527298/4473.ts
 https://d162h6qqsk8wvl.cloudfront.net/26f19622-d240-4b2a-935a-658ac9cb071b/manifest.m3u8
 https://d162h6qqsk8wvl.cloudfront.net/332f0863-839a-4ecb-a160-c941de700aa4/manifest.m3u8
+#EXTINF:-1 tvg-id="arte.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Arte_FR.png" group-title="Variedades",arte tv
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+http://176.65.146.138:8047/play/a07k/index.m3u8
+http://176.65.146.240:7001/play/a083/index.m3u8
+http://176.65.146.189:7001/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/ad4b4b12-c5a5-434c-93e9-df6c05b173a4/2.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/79a82c23-c58d-459c-99a7-b10be131b0bd/2.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CCTV_4.png" group-title="Variedades",CCTV China
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -284,8 +283,8 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
-http://177.10.184.60:8002/play/a00f/index.m3u8
 http://38.188.186.47:4000/play/a007/index.m3u8
+http://177.10.184.60:8002/play/a00f/index.m3u8
 http://200.106.13.204:8000/play/a0h1/index.m3u8
 http://200.115.98.26:9000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
@@ -327,8 +326,6 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
-#EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Vibra_TV.png" group-title="Música",Vibratv
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://190.171.83.2:4000/play/a0le/index.m3u8
 http://200.37.241.109:8000/play/a0bw/index.m3u8
