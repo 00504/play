@@ -32,6 +32,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal12_SV.png" group-title="Variedades",Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
+http://177.10.184.193:8000/play/a0dt/index.m3u8
 http://168.228.44.241:9997/play/a00j/index.m3u8
 http://168.228.44.241:9998/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
@@ -112,6 +113,7 @@ http://45.5.119.43:4000/play/a05n/index.m3u8
 http://200.37.241.109:8000/play/a0gs/index.m3u8
 http://201.77.61.226:8001/play/a0g9/index.m3u8
 http://45.167.255.254:8010/play/a02r/index.m3u8
+http://190.11.225.124:5000/live/depelicula/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 http://200.37.241.109:8000/play/a0gt/index.m3u8
