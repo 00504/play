@@ -54,7 +54,7 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="televisa-networks.com/bandamax" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
+#EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
 http://181.78.109.48:9998/play/a06l/index.m3u8
 http://190.60.42.86:8000/play/a03i/index.m3u8
 http://45.181.123.123:8000/play/a00y/index.m3u8
@@ -89,7 +89,7 @@ https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 http://181.78.109.48:9998/play/a00p/index.m3u8
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="televisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+#EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://177.10.184.60:8002/play/a01n/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
@@ -114,7 +114,7 @@ http://200.37.241.109:8000/play/a0gs/index.m3u8
 http://201.77.61.226:8001/play/a0g9/index.m3u8
 http://45.167.255.254:8010/play/a02r/index.m3u8
 http://190.11.225.124:5000/live/depelicula/playlist.m3u8
-#EXTINF:-1 tvg-id="televisa-networks.com/distrito-comedia" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
+#EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 http://200.37.241.109:8000/play/a0gt/index.m3u8
 http://45.167.255.254:8010/play/a02n/index.m3u8
@@ -175,7 +175,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
-#EXTINF:-1 tvg-id="televisa-networks.com/telehit" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
+#EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
 http://200.37.241.109:8000/play/a0k1/index.m3u8
 http://45.167.255.254:8010/play/a062/index.m3u8
 http://45.167.255.254:8010/play/a02t/index.m3u8
@@ -194,7 +194,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="televisa-networks.com/tudn" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 https://d162h6qqsk8wvl.cloudfront.net/c84794a7-80f2-4598-a92d-f8641cc684f4/manifest.m3u8
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
