@@ -82,7 +82,6 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://190.61.90.17:9999/play/a004/index.m3u8
 http://177.10.184.60:8002/play/a00o/index.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
@@ -93,7 +92,6 @@ http://181.78.109.48:9998/play/a00p/index.m3u8
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://190.61.90.17:9999/play/a00l/index.m3u8
 http://177.10.184.60:8002/play/a01n/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
@@ -200,7 +198,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-https://d162h6qqsk8wvl.cloudfront.net/c84794a7-80f2-4598-a92d-f8641cc684f4/manifest.m3u8
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
@@ -319,10 +316,10 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",Super Cable 5
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
+http://200.37.241.109:8000/play/a0gp/index.m3u8
 http://205.235.6.29:8000/play/a0vb/index.m3u8
 http://181.78.109.48:9998/play/a06f/index.m3u8
 http://181.78.17.52:8000/play/a05n/index.m3u8
-http://200.37.241.109:8000/play/a0gp/index.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 http://190.109.29.163:9000/play/12sa2/index.m3u8
