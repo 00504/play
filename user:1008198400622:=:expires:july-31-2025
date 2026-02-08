@@ -64,6 +64,7 @@ http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
+http://179.49.163.34:45000/play/a04p/index.m3u8
 http://201.230.121.186:8000/play/a0o6/index.m3u8
 http://205.235.6.29:8000/play/a0qt/index.m3u8
 http://168.228.44.241:9998/play/a0bn/index.m3u8
@@ -201,6 +202,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
+http://45.5.117.57:8999/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://200.115.120.1:8000/play/ca049/index.m3u8
 http://201.182.248.76:8000/play/a05d/index.m3u8
@@ -230,8 +232,6 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 http://176.65.146.138:8047/play/a07k/index.m3u8
 http://176.65.146.240:7001/play/a083/index.m3u8
 http://176.65.146.189:7001/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="labocinalatina.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bocina_LA.png" group-title="Música",Bocina Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/79a82c23-c58d-459c-99a7-b10be131b0bd/2.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CCTV_4.png" group-title="Variedades",CCTV China
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -296,9 +296,9 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
-http://200.106.13.204:8000/play/a0h1/index.m3u8
 http://177.10.184.60:8002/play/a00f/index.m3u8
 http://38.188.186.47:4000/play/a007/index.m3u8
+http://200.106.13.204:8000/play/a0h1/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Música",Power Dance
@@ -376,6 +376,7 @@ http://45.167.255.254:8010/play/a03r/index.m3u8
 http://200.37.241.109:8000/play/a0j1/index.m3u8
 http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
+http://200.115.96.66:4000/play/a0hf/index.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal 
 http://200.37.241.109:8000/play/a0hm/index.m3u8
