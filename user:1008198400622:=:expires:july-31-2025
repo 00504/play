@@ -184,6 +184,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
 http://200.37.241.109:8000/play/a0k1/index.m3u8
+http://190.60.42.86:8000/play/a03k/index.m3u8
 http://45.167.255.254:8010/play/a062/index.m3u8
 http://45.167.255.254:8010/play/a02t/index.m3u8
 http://45.5.117.57:5550/play/a05a/index.m3u8
@@ -288,6 +289,7 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
+http://190.60.42.86:8000/play/a017/index.m3u8
 http://190.108.89.228:8000/play/a0du/index.m3u8
 http://200.37.241.109:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
@@ -298,6 +300,7 @@ http://181.78.117.219:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
+http://181.119.97.124:8080/play/a00u/index.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
@@ -356,6 +359,7 @@ http://200.37.241.109:8000/play/a0i9/index.m3u8
 http://190.171.83.2:4000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch19.playlist.m3u8
+http://190.60.42.86:8000/play/a03n/index.m3u8
 http://201.182.248.76:8000/play/a15f/index.m3u8
 http://138.36.253.13:8008/play/a015/index.m3u8
 http://190.119.247.205:8000/play/a005
@@ -370,6 +374,8 @@ http://201.77.61.226:8001/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
+http://181.119.97.124:8080/play/a00b/index.m3u8
+http://190.60.42.86:8000/play/a016/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 http://190.60.42.86:8000/play/a016/index.m3u8
 http://181.78.209.126:18000/play/a077
@@ -386,6 +392,7 @@ http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal 
+http://190.60.42.86:8000/play/a007/index.m3u8
 http://200.37.241.109:8000/play/a0lx/index.m3u8
 http://190.60.55.141:9083/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
