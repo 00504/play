@@ -374,7 +374,6 @@ http://201.77.61.226:8001/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
-http://181.119.97.124:8080/play/a00b/index.m3u8
 http://190.60.42.86:8000/play/a016/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 http://190.60.42.86:8000/play/a016/index.m3u8
@@ -392,9 +391,8 @@ http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal 
-http://190.60.42.86:8000/play/a007/index.m3u8
 http://200.37.241.109:8000/play/a0lx/index.m3u8
-http://190.60.55.141:9083/play/a0fh/index.m3u8
+http://190.60.42.86:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
 http://190.171.83.2:4000/play/a0bn/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT_Series.png" group-title="Series",TNT Series
