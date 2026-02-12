@@ -184,7 +184,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
-http://200.37.241.109:8000/play/a0k1/index.m3u8
 http://190.60.42.86:8000/play/a03k/index.m3u8
 http://45.167.255.254:8010/play/a062/index.m3u8
 http://45.167.255.254:8010/play/a02t/index.m3u8
