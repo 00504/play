@@ -64,6 +64,7 @@ http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
+http://190.119.195.114:8060/play/a0mo/index.m3u8
 http://168.228.44.241:9998/play/a0bn/index.m3u8
 http://201.230.121.186:8000/play/a0o6/index.m3u8
 http://179.49.163.34:45000/play/a04p/index.m3u8
@@ -73,6 +74,7 @@ http://177.53.153.207:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
+http://190.119.195.114:8060/play/a0m3/index.m3u8
 http://190.109.29.163:9000/play/a07v/index.m3u8
 http://138.121.114.86:8000/play/a083/index.m3u8
 http://201.230.121.186:8000/play/a0nj/index.m3u8
