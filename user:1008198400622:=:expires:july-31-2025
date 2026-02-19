@@ -319,6 +319,7 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
+http://179.63.6.12:9000/play/a01i
 http://200.92.227.238:8000/play/a0oc/index.m3u8
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
