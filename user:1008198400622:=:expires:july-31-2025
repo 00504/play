@@ -306,12 +306,6 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
-http://190.92.10.66:4000/play/a006/index.m3u8
-http://190.92.10.66:4000/play/a001/index.m3u8
-http://177.10.184.60:8002/play/a01d/index.m3u8
-http://38.188.186.47:4000/play/a007
-http://38.188.186.47:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
@@ -324,6 +318,12 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",SKY Sports
+http://190.92.10.66:4000/play/a006/index.m3u8
+http://190.92.10.66:4000/play/a001/index.m3u8
+http://177.10.184.60:8002/play/a01d/index.m3u8
+http://38.188.186.47:4000/play/a007
+http://38.188.186.47:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
 http://177.10.184.193:8000/play/a058/index.m3u8
 http://200.92.227.238:8000/play/a0oc/index.m3u8
