@@ -146,6 +146,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5458
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
 http://190.171.83.2:4000/play/a0l4/index.m3u8
+http://186.5.77.99:8000/play/a06c/index.m3u8
 http://200.37.241.109:8000/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
@@ -208,6 +209,7 @@ http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://148.113.207.98:8000/play/a002/index.m3u8
 http://45.5.117.57:8999/play/a04t/index.m3u8
+https://wf6kt.envivoslatam.org/hotflix/tudn_usa/index.m3u8?token=e1024d27dab0f31b93eb792047625926c66fbb14-0b-1771677454-1771623454&ip=216.234.223.120
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://200.115.120.1:8000/play/ca049/index.m3u8
 http://201.182.248.76:8000/play/a05d/index.m3u8
@@ -248,15 +250,17 @@ https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
-http://177.222.114.78:2025/play/a0de/index.m3u8
+http://200.37.241.109:8000/play/a0ij/index.m3u8
+http://190.108.89.228:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery Home & Healt
-http://177.222.114.78:2025/play/a0ef/index.m3u8
+http://200.37.241.109:8000/play/a0hn/index.m3u8
+http://190.108.89.228:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery Theater
 http://200.37.241.109:8000/play/a0hf/index.m3u8
-http://45.5.117.57:5550/play/a03d/index.m3u8
+http://190.108.89.228:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://200.37.241.109:8000/play/a0h4/index.m3u8
-http://45.5.117.57:5550/play/a04o/index.m3u8
+http://190.108.89.228:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://200.37.241.109:8000/play/a0ik/index.m3u8
 http://190.108.89.228:8000/play/a0dt/index.m3u8
@@ -303,9 +307,11 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
+http://190.92.10.66:4000/play/a006/index.m3u8
+http://190.92.10.66:4000/play/a001/index.m3u8
+http://177.10.184.60:8002/play/a01d/index.m3u8
 http://38.188.186.47:4000/play/a007
 http://38.188.186.47:4000/play/a007/index.m3u8
-http://177.10.184.60:8002/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
