@@ -312,8 +312,6 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 http://177.10.184.60:8002/play/a01d/index.m3u8
 http://38.188.186.47:4000/play/a007
 http://38.188.186.47:4000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
-http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
@@ -420,10 +418,6 @@ http://190.0.247.38:8000/play/a01f
 http://168.228.44.241:9998/play/a095/index.m3u8
 http://200.114.68.133:8999/play/a0cx/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
-#EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
-http://45.5.119.43:4000/play/a0ho/index.m3u8
-http://190.171.83.2:4000/play/a0pu/index.m3u8
-http://190.119.247.205:8000/play/a002
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://45.5.119.43:4000/play/a0ho/index.m3u8
 http://190.171.83.2:4000/play/a0pu/index.m3u8
