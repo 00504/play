@@ -87,8 +87,9 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
+http://45.5.119.43:4000/play/a026/index.m3u8
+http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://181.78.109.48:9998/play/a00p/index.m3u8
@@ -248,16 +249,14 @@ https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
-http://200.37.241.109:8000/play/a0ij/index.m3u8
+http://190.171.83.2:4000/play/a0pn/index.m3u8
 http://190.108.89.228:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery Home & Healt
-http://200.37.241.109:8000/play/a0hn/index.m3u8
+http://190.171.83.2:4000/play/a0dj/index.m3u8
 http://190.108.89.228:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery Theater
-http://200.37.241.109:8000/play/a0hf/index.m3u8
 http://190.108.89.228:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
-http://200.37.241.109:8000/play/a0h4/index.m3u8
 http://190.108.89.228:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://200.37.241.109:8000/play/a0ik/index.m3u8
