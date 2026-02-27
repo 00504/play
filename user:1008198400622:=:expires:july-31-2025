@@ -96,6 +96,7 @@ http://181.78.109.48:9998/play/a00p/index.m3u8
 http://45.190.185.204:8990/play/a0g2/index.m3u8
 http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://181.119.111.25:4000/play/a06n/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
@@ -317,6 +318,7 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",SKY Sports
+http://181.119.111.25:4000/play/a04e/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 http://177.10.184.60:8002/play/a01d/index.m3u8
 http://38.188.186.47:4000/play/a007
@@ -338,6 +340,7 @@ http://181.78.109.48:9998/play/a06f/index.m3u8
 http://181.78.17.52:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
+http://181.78.7.90:12500/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",TeleMás
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
@@ -373,7 +376,7 @@ http://190.92.10.66:4000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://190.171.83.2:4000/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden
-http://200.37.241.109:8000/play/a0gr/index.m3u8
+http://181.78.7.90:12500/play/a0mg/index.m3u8
 http://148.113.207.98:8000/play/a007/index.m3u8
 http://201.77.61.226:8001/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
@@ -390,13 +393,14 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://190.171.83.2:4000/play/a0px/index.m3u8
 http://45.167.255.254:8010/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
-http://200.37.241.109:8000/play/a0j1/index.m3u8
+http://181.119.111.25:4000/play/a0g8/index.m3u8
 http://200.115.96.66:4000/play/a0hf/index.m3u8
 http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal 
-http://200.37.241.109:8000/play/a0lx/index.m3u8
+http://181.119.111.25:4000/play/a0by/index.m3u8
+http://24.152.54.30:8085/play/a0qs/index.m3u8 
 http://190.60.42.86:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
 http://190.171.83.2:4000/play/a0bn/index.m3u8
