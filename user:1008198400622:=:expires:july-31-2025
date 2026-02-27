@@ -280,6 +280,7 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",gex•tv
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
@@ -316,12 +317,12 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",SKY Sports
-http://190.92.10.66:4000/play/a006/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 http://177.10.184.60:8002/play/a01d/index.m3u8
 http://38.188.186.47:4000/play/a007
 http://38.188.186.47:4000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Entretenimiento",SONY Channel
+http://24.152.54.30:8085/play/a005/index.m3u8
 http://177.10.184.193:8000/play/a058/index.m3u8
 http://200.92.227.238:8000/play/a0oc/index.m3u8
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
