@@ -260,7 +260,6 @@ http://190.108.89.228:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://190.108.89.228:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
-http://200.37.241.109:8000/play/a0ik/index.m3u8
 http://190.108.89.228:8000/play/a0dt/index.m3u8
 http://38.172.160.232:9000/demotlc/demo/59
 http://191.97.49.82:8001/play/a00e/index.m3u8
@@ -281,6 +280,7 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",gex•tv
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
+http://190.92.10.66:4000/play/a0h7/index.m3u8
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",Las Estrellas
@@ -296,10 +296,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://190.108.89.228:8000/play/a0du/index.m3u8
 http://200.37.241.109:8000/play/a0j3/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",Nickelodeon
-http://201.230.121.186:8000/play/a0oi/index.m3u8
-http://148.113.207.98:8000/play/a00v/index.m3u8
 http://200.115.120.1:8000/play/ca008/index.m3u8
-http://181.78.117.219:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
