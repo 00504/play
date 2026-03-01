@@ -323,7 +323,6 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",Super Cable 5
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
-http://181.78.17.52:8000/play/a0sv/index.m3u8
 http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
