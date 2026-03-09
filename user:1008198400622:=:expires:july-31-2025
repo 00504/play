@@ -176,12 +176,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
-http://190.60.42.86:8000/play/a03k/index.m3u8
-http://45.167.255.254:8010/play/a062/index.m3u8
-http://45.167.255.254:8010/play/a02t/index.m3u8
-http://45.5.117.57:5550/play/a05a/index.m3u8
+http://190.61.47.54:8000/play/a029/index.m3u8
 http://38.188.186.47:4000/play/a1j6/index.m3u8
-http://38.172.160.232:9000/demotlc/demo/26
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://45.5.119.43:4000/play/a0gv/index.m3u8
 http://38.49.128.38:8000/play/a0mg/index.m3u8
@@ -230,7 +226,7 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 http://176.65.146.138:8047/play/a07k/index.m3u8
 http://176.65.146.240:7001/play/a083/index.m3u8
 http://176.65.146.189:7001/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CCTV_4.png" group-title="Variedades",CCTV China
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CCTV_4.png" group-title="Variedades",CCTV 4 China
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 http://157.143.44.195/play/a04t
@@ -293,6 +289,7 @@ https://rad-net.com/PaisTv/123/playlist.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
+http://38.190.4.195:8000/play/a03z
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
@@ -364,11 +361,9 @@ http://201.77.61.226:8001/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
-http://190.60.42.86:8000/play/a016/index.m3u8
-http://179.49.163.34:45000/play/a016/index.m3u8
-http://190.60.42.86:8000/play/a016/index.m3u8
+http://181.78.211.244:8000/play/a01h/index.m3u8
+
 http://181.78.209.126:18000/play/a077
-http://181.119.86.68:8000/play/b044/index.m3u8
 #EXTINF:-1 tvg-id="la.sonymovies.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
 http://24.152.54.30:8085/play/a005/index.m3u8
 http://177.10.184.193:8000/play/a058/index.m3u8
