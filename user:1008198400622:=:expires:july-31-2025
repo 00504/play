@@ -293,7 +293,9 @@ http://200.115.120.1:8000/play/ca008/index.m3u8
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
 http://190.119.160.100:8000/play/a0aw/index.m3u8
+http://148.230.25.148:8500/play/a0og/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
+http://181.78.7.90:12500/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 http://38.190.4.195:8000/play/a03z
 http://190.92.10.66:4000/play/a0h7/index.m3u8
@@ -322,7 +324,9 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",Super Cable 5
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
+http://168.228.44.241:9997/play/a076/index.m3u8
+http://190.119.160.100:8000/play/a0aw/index.m3u8
+http://181.78.98.214:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 http://181.78.7.90:12500/play/a0pr/index.m3u8
