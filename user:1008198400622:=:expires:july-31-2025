@@ -255,8 +255,6 @@ http://191.97.49.82:8001/play/a00e/index.m3u8
 https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-es24ta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Documentales" ,ETB Basque
 #EXTVLCOPT:http-referrer=https://www.eitb.eus/
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Documentales" ,ETB Basque
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
