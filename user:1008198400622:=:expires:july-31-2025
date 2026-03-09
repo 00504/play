@@ -259,8 +259,6 @@ https://amg00658-amg00658c98-canelatv-international-6698.playouts.now.amagi.tv/p
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Documentales" ,ETB Basque
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8|referer=https://www.eitb.eus/&user-agent=Mozilla/5.0&timeout=10
-#EXTINF:-1 tvg-id="eitb.eus" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ETB_Basque.png" group-title="Documentales" ,ETB Basque
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/bitrate_4.m3u8|referer=https://www.eitb.eus/&user-agent=Mozilla/5.0&timeout=10&reconnect=true
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.61.42.218:9000/play/a05t/index.m3u8
 http://190.60.42.86:8000/play/a01q/index.m3u8
