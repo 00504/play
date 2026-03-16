@@ -270,7 +270,7 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",gex•tv
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
-#EXTVLCOPT:http-referrer=https://www.rtve.es/
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/649
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 https://ztnr.rtve.es/ztnr/3987218.m3u8
