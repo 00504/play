@@ -293,6 +293,7 @@ http://200.115.120.1:8000/play/ca008/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
+http://45.5.119.43:4000/play/a0kq/index.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://148.230.25.148:8500/play/a0og/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
@@ -314,6 +315,7 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://181.119.111.25:4000/play/a04e/index.m3u8
+http://45.5.119.43:4000/play/a05r/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
 http://177.10.184.60:8002/play/a01d/index.m3u8
 http://38.188.186.47:4000/play/a007
@@ -325,6 +327,7 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",Super Cable 5
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
+http://45.5.119.43:4000/play/a05k/index.m3u8
 http://168.228.44.241:9997/play/a076/index.m3u8
 http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://181.78.98.214:8000/play/a01g/index.m3u8
@@ -368,8 +371,7 @@ http://181.78.7.90:12500/play/a0mg/index.m3u8
 http://148.113.207.98:8000/play/a007/index.m3u8
 http://201.77.61.226:8001/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
-http://cdn-content-cf2-us.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.m3u8
-http://cdn-content-cf2-us.latamlive.net/HBO_HD_AR_ENC_LIVE/video.m3u8
+http://45.5.119.43:4000/play/a0l2/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="multipremier.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Multi_Premier.png" group-title="Peliculas",Multipremier
 http://181.78.211.244:8000/play/a01h/index.m3u8
@@ -402,8 +404,8 @@ http://190.171.83.2:4000/play/a0qa/index.m3u8
 http://179.63.6.12:9000/play/a04s
 http://200.80.230.124:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_Premiere.png" group-title="Series",Universal Premiere
-http://168.228.44.241:9998/play/a054/index.m3u8
 http://45.5.119.43:4000/play/a0i2/index.m3u8
+http://168.228.44.241:9998/play/a054/index.m3u8
 http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
 http://103.23.62.238:8000/play/a04a
