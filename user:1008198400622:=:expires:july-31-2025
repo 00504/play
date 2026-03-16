@@ -354,9 +354,9 @@ http://190.171.83.2:4000/play/a0pr/index.m3u8
 http://200.37.241.109:8000/play/a0i9/index.m3u8
 http://190.171.83.2:4000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch19.playlist.m3u8
 http://201.182.248.76:8000/play/a15f/index.m3u8
 http://190.119.247.205:8000/play/a005
+http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch19.playlist.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.92.10.66:4000/play/a00e/index.m3u8
 https://cdn-content-cf2-us.latamlive.net/DHE_ENC_LIVE/index.m3u8
@@ -388,6 +388,7 @@ http://190.171.83.2:4000/play/a0q2/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",Starz
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",Studio Universal 
+http://168.228.44.241:9998/play/a0am/index.m3u8
 http://181.119.111.25:4000/play/a0by/index.m3u8
 http://24.152.54.30:8085/play/a0qs/index.m3u8 
 http://190.60.42.86:8000/play/a007/index.m3u8
@@ -400,11 +401,9 @@ http://190.171.83.2:4000/play/a0qa/index.m3u8
 http://179.63.6.12:9000/play/a04s
 http://200.80.230.124:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_Premiere.png" group-title="Series",Universal Premiere
-http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 http://168.228.44.241:9998/play/a054/index.m3u8
 http://45.5.119.43:4000/play/a0i2/index.m3u8
-http://45.5.117.57:5550/play/a03i/index.m3u8
-http://181.78.106.127:9000/play/a0qu/index.m3u8
+http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
 http://103.23.62.238:8000/play/a04a
 http://190.0.247.38:8000/play/a01f
