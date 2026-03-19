@@ -225,7 +225,7 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 http://176.65.146.138:8047/play/a07k/index.m3u8
 http://176.65.146.240:7001/play/a083/index.m3u8
 http://176.65.146.189:7001/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="ilce.edu.mx" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Entretenimiento",Canal IberoAmericano
+#EXTINF:-1 tvg-id="ilce.edu.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal_Iberoamericano.png" group-title="Entretenimiento",Canal IberoAmericano
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CCTV_4.png" group-title="Variedades",CCTV 4 China
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
