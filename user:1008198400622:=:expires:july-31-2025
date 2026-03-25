@@ -353,7 +353,10 @@ http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch19.playlis
 http://190.92.10.66:4000/play/a00e/index.m3u8
 https://cdn-content-cf2-us.latamlive.net/DHE_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
-http://190.171.83.2:4000/play/a0q1/index.m3u8
+http://45.5.119.43:4000/play/a0gw/index.m3u8
+http://168.228.44.241:9998/play/a02m/index.m3u8
+http://201.182.248.76:8000/play/a11y/index.m3u8
+http://200.229.147.210:9999/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",Golden
 http://181.78.7.90:12500/play/a0mg/index.m3u8
 http://148.113.207.98:8000/play/a007/index.m3u8
@@ -397,7 +400,6 @@ http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 http://103.23.62.238:8000/play/a04a
 http://190.0.247.38:8000/play/a01f
 http://168.228.44.241:9998/play/a095/index.m3u8
-http://200.114.68.133:8999/play/a0cx/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://45.5.119.43:4000/play/a0ho/index.m3u8
