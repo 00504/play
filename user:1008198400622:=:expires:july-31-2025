@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades",--:--:--
+https://cdn.phototourl.com/uploads/2026-03-20-29360384-5e49-4a8a-aa26-40d6d6865eb8.jpg
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/SV_Plus.png" group-title="Variedades",SV+ Plus
 https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.m3u8
