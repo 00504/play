@@ -65,7 +65,11 @@ http://205.235.6.29:8000/play/a0qt/index.m3u8
 http://190.119.112.28:8000/play/a08e/index.m3u8
 http://177.53.153.207:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
-https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
