@@ -85,9 +85,9 @@ http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 http://190.61.114.186:8000/play/a03n/index.m3u8
 http://190.61.34.164:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+http://190.61.114.186:8000/play/a03o/index.m3u8
+http://190.61.34.164:8000/play/a00i/index.m3u8
 http://170.244.209.30:8000/play/a00g/index.m3u8
-http://45.190.185.204:8990/play/a0g2/index.m3u8
-http://45.190.185.204:8990/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://185.56.109.253/Canal5/playlist.m3u8
 http://181.119.111.25:4000/play/a06n/index.m3u8
@@ -216,12 +216,6 @@ http://45.186.106.220:5550/play/a04p/index.m3u8
 http://restream-live.realiptv.to:8080/live/33741215/82527298/4473.ts
 https://d162h6qqsk8wvl.cloudfront.net/26f19622-d240-4b2a-935a-658ac9cb071b/manifest.m3u8
 https://d162h6qqsk8wvl.cloudfront.net/332f0863-839a-4ecb-a160-c941de700aa4/manifest.m3u8
-#EXTINF:-1 tvg-id="arte.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Arte_FR.png" group-title="Variedades",arte tv
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-http://176.65.146.138:8047/play/a07k/index.m3u8
-http://176.65.146.240:7001/play/a083/index.m3u8
-http://176.65.146.189:7001/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 http://45.5.117.179:9999/play/a004/index.m3u8
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
@@ -301,9 +295,6 @@ http://181.78.7.90:12500/play/a0p3/index.m3u8
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 https://vcp.myplaytv.com/glowtv/glowtv/chunklist.m3u8
 http://190.92.10.66:4000/play/a0h7/index.m3u8
-#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
-https://pmcrohls.wns.live/hls/stream.m3u8
-https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Power_TV.png" group-title="Música",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
