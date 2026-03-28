@@ -59,6 +59,7 @@ http://45.167.253.246:8010/play/a00h/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
 http://177.53.153.207:8000/play/a011/index.m3u8
+http://181.66.253.124:8000/play/a1id/index.m3u8
 http://168.228.44.241:9998/play/a0bn/index.m3u8
 http://205.235.6.29:8000/play/a0qt/index.m3u8
 http://190.119.112.28:8000/play/a08e/index.m3u8
@@ -86,6 +87,7 @@ http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 http://190.61.114.186:8000/play/a03n/index.m3u8
 http://190.61.34.164:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+http://148.230.28.85:8002/play/004
 http://190.61.114.186:8000/play/a03o/index.m3u8
 http://190.61.34.164:8000/play/a00i/index.m3u8
 http://170.244.209.30:8000/play/a00g/index.m3u8
@@ -170,6 +172,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
+http://148.230.28.85:8002/play/028
 http://185.56.109.253/Telehit/playlist.m3u8
 http://190.108.80.138:8000/play/a0gc/index.m3u8
 http://190.14.248.42:8000/play/a02h/index.m3u8
@@ -203,6 +206,7 @@ http://148.113.207.98:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
+http://148.230.28.85:8002/play/034
 http://168.228.44.241:9997/play/a09e/index.m3u8
 http://190.83.9.222:8000/play/a00g/index.m3u8
 http://38.188.186.47:4000/play/a00i
@@ -332,6 +336,7 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://186.194.160.110:9002/play/a0mf/index.m3u8
+http://181.66.253.124:8000/play/a1ia/index.m3u8
 http://181.78.8.199:8000/play/a09g/index.m3u8
 http://38.190.101.128:2233/play/a1h0/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
@@ -368,10 +373,10 @@ http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 http://181.78.211.244:8000/play/a01h/index.m3u8
 http://181.78.209.126:18000/play/a077
 #EXTINF:-1 tvg-id="la.sonymovies.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Movies.png" group-title="Peliculas",SONY Movies
+http://177.53.153.207:8000/play/a00n/index.m3u8
 http://200.229.147.210:9999/play/a0an/index.m3u8
 http://24.152.54.30:8085/play/a005/index.m3u8
 http://177.10.184.193:8000/play/a058/index.m3u8
-http://200.92.227.238:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",Space
 http://190.66.7.162:2112/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",Star Channel
