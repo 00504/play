@@ -346,12 +346,14 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
-http://200.37.241.109:8000/play/a0bw/index.m3u8
+http://190.66.7.162:2112/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
+http://190.66.7.162:2112/play/a04s/index.m3u8
+http://45.5.119.43:4000/play/a0hq/index.m3u8
 http://200.37.241.109:8000/play/a0i9/index.m3u8
 http://190.171.83.2:4000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://201.182.248.76:8000/play/a15f/index.m3u8
+http://103.23.62.238:8000/play/a07m
 http://190.119.247.205:8000/play/a005
 http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch19.playlist.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
@@ -408,5 +410,4 @@ http://168.228.44.241:9998/play/a095/index.m3u8
 http://201.182.248.76:8000/play/a13h/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://45.5.119.43:4000/play/a0ho/index.m3u8
-http://190.171.83.2:4000/play/a0pu/index.m3u8
 http://190.119.247.205:8000/play/a002
