@@ -84,6 +84,7 @@ http://45.5.117.179:9999/play/a003/index.m3u8
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://38.49.128.38:8000/play/a0la/index.m3u8
+http://200.229.147.142:8000/play/a06s/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
@@ -93,6 +94,7 @@ http://190.61.34.164:8000/play/a00i/index.m3u8
 http://45.167.2.138:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://181.119.111.25:4000/play/a06n/index.m3u8
+http://200.229.147.142:8000/play/a06t/index.m3u8
 http://45.189.62.33:8002/play/a0ll/index.m3u8
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
@@ -353,8 +355,10 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
+http://200.229.147.142:8000/play/a01y/index.m3u8
 http://190.66.7.162:2112/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",Cinecanal HD
+http://200.229.147.142:8000/play/a03g/index.m3u8
 http://190.66.7.162:2112/play/a04s/index.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
 http://200.37.241.109:8000/play/a0i9/index.m3u8
@@ -411,6 +415,7 @@ http://45.5.119.43:4000/play/a0i2/index.m3u8
 http://168.228.44.241:9998/play/a054/index.m3u8
 http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://200.229.147.142:8000/play/a097/index.m3u8
 http://103.23.62.238:8000/play/a04a
 http://190.0.247.38:8000/play/a01f
 http://168.228.44.241:9998/play/a095/index.m3u8
