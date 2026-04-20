@@ -119,6 +119,7 @@ https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 #EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
+http://8.243.126.131:8000/play/a060/index.m3u8
 http://170.244.209.30:8000/play/a0gu/index.m3u8
 http://45.189.151.7:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
@@ -176,6 +177,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
+#EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Suyapa_Medios.png" group-title="Religioso",Suyapa Medios
+https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TeleHit
 http://45.167.2.138:8000/play/a0sf/index.m3u8
 http://148.230.28.85:8002/play/028
