@@ -338,6 +338,9 @@ http://185.56.109.253/TlNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 http://181.78.7.90:12500/play/a0pr/index.m3u8
+#EXTINF:-1 tvg-id="https://telecafe.gov.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Caf%C3%A9.png" group-title="Variedades",telecafé
+#EXTVLCOPT:http-referrer=https://telecafe.gov.co/
+https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",TeleMás
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
