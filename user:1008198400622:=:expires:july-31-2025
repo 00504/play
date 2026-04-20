@@ -68,6 +68,7 @@ http://168.228.44.241:9998/play/a0bn/index.m3u8
 http://205.235.6.29:8000/play/a0qt/index.m3u8
 http://190.119.112.28:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
+http://138.94.3.106:8000/play/a06w/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
@@ -76,6 +77,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
+http://138.94.3.106:8000/play/a00j/index.m3u8
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 http://181.78.12.164:9000/play/a049
 http://190.109.29.163:9000/play/a07v/index.m3u8
@@ -201,6 +203,7 @@ http://148.113.207.98:8000/play/a002/index.m3u8
 http://45.5.117.57:8999/play/a04t/index.m3u8
 https://wf6kt.envivoslatam.org/hotflix/tudn_usa/index.m3u8?token=e1024d27dab0f31b93eb792047625926c66fbb14-0b-1771677454-1771623454&ip=216.234.223.120
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
+http://138.94.3.106:8000/play/a04q/index.m3u8
 http://200.115.120.1:8000/play/ca049/index.m3u8
 http://201.182.248.76:8000/play/a05d/index.m3u8
 http://200.37.241.109:8000/play/a0ju/index.m3u8
@@ -311,6 +314,7 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="raitalia.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Rai_Italia_20%25.png" group-title="Variedades",Rai Italia
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -416,6 +420,7 @@ http://45.5.119.43:4000/play/a0i2/index.m3u8
 http://168.228.44.241:9998/play/a054/index.m3u8
 http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://138.94.3.106:8000/play/a00g/index.m3u8
 http://200.115.120.1:8000/play/ca151/index.m3u8
 http://200.229.147.142:8000/play/a097/index.m3u8
 http://103.23.62.238:8000/play/a04a
