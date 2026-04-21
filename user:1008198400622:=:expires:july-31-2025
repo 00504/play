@@ -43,7 +43,7 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_Tribuna.png" group-title="Noticias",La Tribuna TV
 https://amixtv.com:8081/ltvhn/index.m3u8
-#EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",une tv
+#EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",une TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
@@ -149,7 +149,7 @@ http://200.37.241.109:8000/play/a0cx/index.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH
+#EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH Noticias
 https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://200.39.57.254:8008/play/a076/index.m3u8
