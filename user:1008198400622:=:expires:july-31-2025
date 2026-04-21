@@ -43,8 +43,9 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_Tribuna.png" group-title="Noticias",La Tribuna TV
 https://amixtv.com:8081/ltvhn/index.m3u8
-#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
-https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
+#EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Variedades",une tv
+https://amixtv.com:8081/unetvhn/index.m3u8
+https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN en Español
@@ -303,6 +304,8 @@ http://38.188.186.47:4000/play/a007/index.m3u8
 http://38.188.186.47:4000/play/a007
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
+https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",Super Cable
