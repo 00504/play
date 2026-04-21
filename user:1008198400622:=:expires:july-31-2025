@@ -321,8 +321,8 @@ https://liveingesta118.cdnmedia.tv/telecafelive/rtmp01-1500/chunklist.m3u8
 #EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",TeleMás
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
 http://190.83.9.222:8000/play/a00r/index.m3u8
 http://181.78.8.199:8000/play/a09g/index.m3u8
