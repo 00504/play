@@ -158,6 +158,9 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://live.streamhch.com/live/streams/hch1.m3u8
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://181.224.255.210:8001/play/a0m1/index.m3u8
+http://45.5.119.43:4000/play/a0gk/index.m3u8
+http://187.245.231.226:8000/play/a0ml/index.m3u8
 http://170.244.209.30:8000/play/a03e/index.m3u8
 http://45.173.75.4:2061/play/a05u
 http://45.171.64.30:8800/play/a04h
@@ -200,8 +203,8 @@ http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://45.5.117.57:8999/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
-http://138.94.3.106:8000/play/a04q/index.m3u8
 http://200.115.120.1:8000/play/ca049/index.m3u8
+
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
@@ -235,6 +238,7 @@ http://148.222.230.201:8000/play/a0ly/index.m3u8
 http://181.209.105.115:2525/play/discoveryworld/index.m3u8
 http://148.222.230.201:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
+http://191.97.49.82:8001/play/a00e/index.m3u8
 http://147.135.114.221:8001/play/a01a/index.m3u8
 http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
@@ -271,6 +275,9 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
+http://181.224.255.210:8001/play/a0m2/index.m3u8
+http://45.5.119.43:4000/play/a0kk/index.m3u8
+http://187.245.231.226:8000/play/a0px/index.m3u8
 http://170.244.209.30:8000/play/a044/index.m3u8
 http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
@@ -327,10 +334,9 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",Tooncast
-http://190.83.9.222:8000/play/a00r/index.m3u8
-http://181.78.8.199:8000/play/a09g/index.m3u8
 http://38.190.101.128:2233/play/a1h0/index.m3u8
-http://186.194.160.110:9002/play/a0mf/index.m3u8
+http://181.224.255.210:8001/play/a0ou/index.m3u8
+http://190.83.9.222:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
