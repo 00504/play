@@ -162,6 +162,7 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://live.streamhch.com/live/streams/hch1.m3u8
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://179.60.51.134:8888/HISTORY/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://187.245.231.226:8000/play/a0ml/index.m3u8
@@ -279,6 +280,7 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
+http://179.60.51.134:8888/NATGEO/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 http://187.245.231.226:8000/play/a0px/index.m3u8
@@ -358,7 +360,7 @@ http://190.171.83.2:4000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 http://103.23.62.238:8000/play/a07m
 http://190.119.247.205:8000/play/a005
-http://45.225.68.1:8532/Live/68fec4a7a5e80422f01f8f7a2a1fbaff/local-ch19.playlist.m3u8
+http://179.60.51.134:8888/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.92.10.66:4000/play/a00e/index.m3u8
 https://cdn-content-cf2-us.latamlive.net/DHE_ENC_LIVE/index.m3u8
