@@ -129,14 +129,12 @@ http://170.244.209.30:8000/play/a0gu/index.m3u8
 http://8.243.126.131:8000/play/a060/index.m3u8
 http://38.137.192.250:8000/play/a07o
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
-http://38.49.128.38:8000/play/a0nn/index.m3u8
-http://45.228.233.222:8000/play/a050
 http://181.78.109.48:9998/play/a06j/index.m3u8
+http://45.228.233.222:8000/play/a050
 http://45.5.119.43:4000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://38.49.128.38:8000/play/a0ou/index.m3u8
-http://45.228.233.222:8000/play/a04z
 http://181.78.109.48:9998/play/a06k/index.m3u8
+http://45.228.233.222:8000/play/a04z
 http://170.244.209.30:8000/play/a163/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
