@@ -164,6 +164,7 @@ https://live.streamhch.com/live/streams/hch1.m3u8
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://179.60.51.134:8888/HISTORY/index.m3u8
+http://179.60.51.134:8888/HISTORY2/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://187.245.231.226:8000/play/a0ml/index.m3u8
@@ -194,7 +195,7 @@ http://45.167.2.138:8000/play/a0sf/index.m3u8
 http://185.56.109.253/Telehit/playlist.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-http://38.225.117.1:9005/play/a01b/index.m3u8
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://45.5.119.43:4000/play/a0gv/index.m3u8
 http://38.49.128.38:8000/play/a0mg/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",Teleritmo
@@ -218,8 +219,7 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 http://38.188.186.47:4000/play/a00i
 http://148.230.28.85:8002/play/034
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
-http://38.225.117.1:9005/play/a016/index.m3u8
-http://168.228.44.241:9997/play/a01n/index.m3u8
+http://179.60.51.134:8888/UNIVISION/index.m3u8
 http://181.78.109.48:9998/play/a068/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
@@ -411,6 +411,7 @@ http://45.5.119.43:4000/play/a0i2/index.m3u8
 http://168.228.44.241:9998/play/a054/index.m3u8
 http://cdn-content-cf2-us.latamlive.net/UPREMIERE_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://179.60.51.134:8888/SYFY/index.m3u8
 http://138.94.3.106:8000/play/a00g/index.m3u8
 http://200.115.120.1:8000/play/ca151/index.m3u8
 http://200.229.147.142:8000/play/a097/index.m3u8
