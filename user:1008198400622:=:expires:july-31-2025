@@ -123,7 +123,8 @@ https://amg01024-amg01024c29-freetv-us-6970.playouts.now.amagi.tv/playlist/amg01
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 #EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
-http://200.115.120.1:8000/play/ca108/index.m3u8
+http://45.167.2.138:8000/play/a0rd/index.m3u8
+http://181.78.73.153:8000/play/a0e5/index.m3u8
 http://170.244.209.30:8000/play/a0gu/index.m3u8
 http://8.243.126.131:8000/play/a060/index.m3u8
 http://38.137.192.250:8000/play/a07o
