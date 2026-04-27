@@ -39,10 +39,10 @@ https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_Tribuna.png" group-title="Noticias",La Tribuna TV
 https://amixtv.com:8081/ltvhn/index.m3u8
-#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
-https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Suyapa_Medios.png" group-title="Religioso",Suyapa Medios
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
+#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
+https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN China ES
@@ -217,6 +217,30 @@ http://179.60.51.134:8888/UNIVISION/index.m3u8
 http://181.78.109.48:9998/play/a068/index.m3u8
 http://186.151.95.60:8000/play/c04/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="beinsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bein_Sports.png" group-title="Deportes",bein sports
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
+http://177.10.184.193:8000/play/a0dt/index.m3u8
+http://168.228.44.241:9998/play/a09m/index.m3u8
+#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
+http://190.61.42.218:9000/play/a05t/index.m3u8
+http://190.60.42.86:8000/play/a01q/index.m3u8
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
+http://190.61.42.218:9000/play/a05n/index.m3u8
+http://190.60.42.86:8000/play/a00m/index.m3u8
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
+http://190.61.42.218:9000/play/a061/index.m3u8
+http://190.60.42.86:8000/play/a00n/index.m3u8
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
+http://200.58.64.244:9000/play/a01h/index.m3u8
+http://181.119.111.25:4000/play/a04e/index.m3u8
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+http://181.78.109.48:9998/play/a06i/index.m3u8
+http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://190.83.9.222:8000/play/ca097/index.m3u8
@@ -324,30 +348,6 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
-#EXTINF:-1 tvg-id="beinsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bein_Sports.png" group-title="Deportes",bein sports
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
-http://177.10.184.193:8000/play/a0dt/index.m3u8
-http://168.228.44.241:9998/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
-http://190.61.42.218:9000/play/a05t/index.m3u8
-http://190.60.42.86:8000/play/a01q/index.m3u8
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
-http://190.61.42.218:9000/play/a05n/index.m3u8
-http://190.60.42.86:8000/play/a00m/index.m3u8
-http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
-http://190.61.42.218:9000/play/a061/index.m3u8
-http://190.60.42.86:8000/play/a00n/index.m3u8
-http://45.5.119.43:4000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
-http://200.58.64.244:9000/play/a01h/index.m3u8
-http://181.119.111.25:4000/play/a04e/index.m3u8
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://181.78.109.48:9998/play/a06i/index.m3u8
-http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://200.229.147.142:8000/play/a01y/index.m3u8
 http://190.66.7.162:2112/play/a01i/index.m3u8
