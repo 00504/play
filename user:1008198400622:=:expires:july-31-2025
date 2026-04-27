@@ -95,14 +95,13 @@ http://190.61.114.186:8000/play/a03o/index.m3u8
 http://190.61.34.164:8000/play/a00i/index.m3u8
 http://45.167.2.138:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 http://181.119.111.25:4000/play/a06n/index.m3u8
 http://200.229.147.142:8000/play/a06t/index.m3u8
-http://45.189.62.33:8002/play/a0ll/index.m3u8
-http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
+http://45.189.62.33:8002/play/a0ll/index.m3u8
+http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
 #EXTVLCOPT:http-referrer=https://canal6hn.com/
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
@@ -164,11 +163,11 @@ http://190.92.10.66:4000/play/a0h7/index.m3u8
 http://179.60.51.134:8888/HISTORY/index.m3u8
 http://179.60.51.134:8888/HISTORY2/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
-http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://187.245.231.226:8000/play/a0ml/index.m3u8
 http://170.244.209.30:8000/play/a03e/index.m3u8
-http://45.173.75.4:2061/play/a05u
+http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://45.171.64.30:8800/play/a04h
+http://45.173.75.4:2061/play/a05u
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",Hispan TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
