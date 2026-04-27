@@ -209,6 +209,7 @@ http://200.115.120.1:8000/play/ca049/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
+http://peaky.techcoder40.workers.dev/5957.m3u8
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION Latam
 http://179.60.51.134:8888/UNIVISION/index.m3u8
