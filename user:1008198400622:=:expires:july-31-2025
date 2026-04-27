@@ -226,6 +226,8 @@ http://45.5.117.57:5550/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://190.83.9.222:8000/play/ca097/index.m3u8
+#EXTINF:-1 tvg-id="beinsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bein_Sports.png" group-title="Deportes",bein sports
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
@@ -300,7 +302,7 @@ http://190.119.160.100:8000/play/a0aw/index.m3u8
 http://148.230.25.148:8500/play/a0og/index.m3u8
 http://190.119.112.28:8000/play/a05y/index.m3u8
 http://181.78.7.90:12500/play/a0p3/index.m3u8
-#EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picossa_TV.png" group-title="Música",Picosa TV
+#EXTINF:-1 tvg-id="picosa.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Picosa_TV.png" group-title="Música",Picosa TV
 http://200.58.64.244:9000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
@@ -318,11 +320,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://200.58.64.244:9000/play/a01h/index.m3u8
 http://181.119.111.25:4000/play/a04e/index.m3u8
-http://45.5.119.43:4000/play/a05r/index.m3u8
 http://190.92.10.66:4000/play/a001/index.m3u8
-http://177.10.184.60:8002/play/a01d/index.m3u8
-http://38.188.186.47:4000/play/a007/index.m3u8
-http://38.188.186.47:4000/play/a007
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",Sula TV
