@@ -24,7 +24,6 @@ https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/011cc7e2-0578-4d05-b38b-7f9d8885fe51/ts:abr.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DW_Espa%C3%B1ol.png" group-title="Documentales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal12_SV.png" group-title="Variedades",Canal 12 SV
@@ -146,9 +145,7 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Euronews.png" group-title="Noticias",Euronews
-https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.dpname=distrotv&ads.rnd=e0mt&ads.env_i=5ed70f44-1685-4e8a-8977-00dbf62c6d82&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1385&ads.height=779&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=216.234.223.156&ads.geo=US&ads.lat=35.13490&ads.long=-106.64020&ads.dma=790&ads.geoType=2&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=45144&ads.show_id=1245&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News%2CGlobal%20News%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Euronews%20Espa%C3%B1ol&ads.episodetitle=Euronews%20Espa%C3%B1ol&ads.keywords=euronews%2Cspanish%2Cespa%C3%B1ol&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=igR1t81DWB8
-https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=094f199a-ec10-11f0-bad3-ead9ca97366d
 #EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EWTN.png" group-title="Religioso",EWTN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Español.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24 Español
@@ -350,7 +347,6 @@ http://190.83.9.222:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",TV Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://200.229.147.142:8000/play/a01y/index.m3u8
