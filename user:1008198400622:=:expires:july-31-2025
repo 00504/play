@@ -154,6 +154,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
+http://38.187.2.124:8000/play/a01a/index.m3u8
 http://38.224.231.47:8000/play/a030/index.m3u8
 http://179.60.224.196:8000/play/a0ht/index.m3u8
 http://181.119.108.43:9001/play/a0d7/index.m3u8
