@@ -266,6 +266,7 @@ http://190.60.48.151:8010/play/a08z/index.m3u8
 http://181.209.105.115:2525/play/discoverytheater/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Turbo.png" group-title="Documentales",Discovery Turbo
 http://190.60.48.151:8010/play/a02m/index.m3u8
+http://38.224.175.2:8000/play/a0u9/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://190.60.48.151:8010/play/a03n/index.m3u8
 http://181.209.105.115:2525/play/discoveryworld/index.m3u8
