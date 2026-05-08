@@ -253,17 +253,17 @@ https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
+http://190.60.48.151:8010/play/a03r/index.m3u8
 http://181.209.105.115:2525/play/discoverychannel/index.m3u8
-http://148.222.230.201:8000/play/a0nb/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery Home & Healt
+http://190.60.48.151:8010/play/a08o/index.m3u8
 http://181.209.105.115:2525/play/discoveryhh/index.m3u8
-http://148.222.230.201:8000/play/a0ur/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery Theater
+http://190.60.48.151:8010/play/a08z/index.m3u8
 http://181.209.105.115:2525/play/discoverytheater/index.m3u8
-http://148.222.230.201:8000/play/a0ly/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
+http://190.60.48.151:8010/play/a03n/index.m3u8
 http://181.209.105.115:2525/play/discoveryworld/index.m3u8
-http://148.222.230.201:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
 http://191.97.49.82:8001/play/a00e/index.m3u8
 http://147.135.114.221:8001/play/a01a/index.m3u8
@@ -363,6 +363,7 @@ http://190.171.83.2:4000/play/a0pr/index.m3u8
 http://103.23.62.238:8000/play/a07m
 http://190.119.247.205:8000/play/a005
 http://179.60.51.134:8888/CINEMAX/index.m3u8
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.92.10.66:4000/play/a00e/index.m3u8
 https://cdn-content-cf2-us.latamlive.net/DHE_ENC_LIVE/index.m3u8
