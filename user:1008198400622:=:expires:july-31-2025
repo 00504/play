@@ -211,7 +211,7 @@ http://190.105.128.198:5800/play/a07w/index.m3u8
 http://190.60.37.118:4000/play/a021
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",UNE TV
+#EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",une TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
