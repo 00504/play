@@ -249,8 +249,11 @@ http://168.228.44.241:9997/play/a09f/index.m3u8
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
+http://181.119.108.43:9001/play/a043/index.m3u8?hls
 http://200.115.96.61:9090/play/a0jb/index.m3u8
-http://190.83.9.222:8000/play/ca097/index.m3u8
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
@@ -310,9 +313,6 @@ http://45.171.64.30:8800/play/a057
 http://147.135.114.221:8001/play/a00v/index.m3u8
 http://190.108.89.228:8000/play/a09z/index.m3u8
 http://200.115.120.1:8000/play/ca008/index.m3u8
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",País TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
