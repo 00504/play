@@ -176,7 +176,7 @@ http://170.244.209.30:8000/play/a03e/index.m3u8
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://45.171.64.30:8800/play/a04h
 http://45.173.75.4:2061/play/a05u
-#EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",Hispan TV
+#EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",HiSPANTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
