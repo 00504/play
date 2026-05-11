@@ -85,6 +85,9 @@ http://190.109.29.163:9000/play/a07v/index.m3u8
 http://45.5.117.179:9999/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
+http://181.119.108.43:9001/play/a043/index.m3u8?hls
+http://200.115.96.61:9090/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://38.49.128.38:8000/play/a0la/index.m3u8
 http://200.229.147.142:8000/play/a06s/index.m3u8
@@ -152,8 +155,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
 http://190.60.48.151:8010/play/a03j/index.m3u8
 http://38.187.2.124:8000/play/a01a/index.m3u8
@@ -250,9 +251,6 @@ http://185.56.109.251/Tudn/playlist.m3u8
 http://168.228.44.241:9997/play/a09f/index.m3u8
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
-#EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
-http://181.119.108.43:9001/play/a043/index.m3u8?hls
-http://200.115.96.61:9090/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 http://45.167.253.246:8010/play/a00h/index.m3u8
@@ -282,6 +280,8 @@ http://147.135.114.221:8001/play/a01a/index.m3u8
 http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Jr.png" group-title="Infantiles",DisneyJr.
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",EcuaVISA
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="neotv.energeek.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energeek_FAN.png" group-title="Entretenimiento",EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
