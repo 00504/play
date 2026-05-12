@@ -50,12 +50,9 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
-http://45.167.2.138:8000/play/a0sg/index.m3u8
-http://185.56.109.253/Bandamax/playlist.m3u8
-http://181.78.109.48:9998/play/a06l/index.m3u8
-http://190.60.42.86:8000/play/a03i/index.m3u8
-http://45.181.123.123:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
@@ -251,9 +248,12 @@ http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",Azteca GUATE
 http://181.119.108.43:9001/play/a043/index.m3u8?hls
 http://200.115.96.61:9090/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-http://45.167.253.246:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",Bandamax
+http://45.167.2.138:8000/play/a0sg/index.m3u8
+http://185.56.109.253/Bandamax/playlist.m3u8
+http://181.78.109.48:9998/play/a06l/index.m3u8
+http://190.60.42.86:8000/play/a03i/index.m3u8
+http://45.181.123.123:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:2000/conectatvx/conectatvx.m3u8
