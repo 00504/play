@@ -326,6 +326,7 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="pridetvlatam.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pride_TV.png" group-title="Música",Pride TV
 https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="m2o.it/m2o-tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Radio_m2o.png" group-title="Música",radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
