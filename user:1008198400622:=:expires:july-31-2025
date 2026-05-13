@@ -201,7 +201,7 @@ http://181.78.109.48:9998/play/a02m/index.m3u8
 http://45.5.119.43:4000/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",telesur
+#EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",teleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://astra.fibernetisp.com.co/play/a0lk/index.m3u8
