@@ -49,9 +49,9 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="canal22.org.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal22_MX.png" group-title="Variedades",Canal 22 MX
-http://189.183.10.219:9981/stream/channelid/921364734?profile=pass
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
@@ -77,10 +77,10 @@ http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://45.167.253.246:8010/play/a00e/index.m3u8
 http://45.189.62.33:8002/play/a0ll/index.m3u8
 http://185.56.109.253/Canal5/playlist.m3u8
 http://181.119.111.25:4000/play/a06n/index.m3u8
-http://45.167.253.246:8010/play/a00e/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
