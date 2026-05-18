@@ -106,12 +106,10 @@ http://181.224.255.210:8001/play/a0ew/index.m3u8
 http://45.173.75.4:2061/play/a09h
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
-http://181.78.109.48:9998/play/a06j/index.m3u8
 http://185.56.109.253/DePelicula/playlist.m3u8
 http://45.228.233.222:8000/play/a050
 http://45.5.119.43:4000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://181.78.109.48:9998/play/a06k/index.m3u8
 http://185.56.109.253/DistritoComedia/playlist.m3u8
 http://45.228.233.222:8000/play/a04z
 http://170.244.209.30:8000/play/a163/index.m3u8
