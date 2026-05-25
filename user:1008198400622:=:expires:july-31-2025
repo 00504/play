@@ -186,7 +186,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://168.228.44.241:9998/play/a09m/index.m3u8
-http://177.10.184.193:8000/play/a0dt/index.m3u8
+http://45.190.185.204:9000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.61.42.218:9000/play/a05t/index.m3u8
 http://190.60.42.86:8000/play/a01q/index.m3u8
