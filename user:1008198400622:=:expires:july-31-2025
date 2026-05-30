@@ -64,7 +64,6 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
 http://168.228.44.241:9998/play/a0bn/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
-https://video-gua1-1.xx.fbcdn.net/hvideo-prn-ncg/_nc_cat-103/_nc_sr_t-4/v/rAScTW6U0-qT3O17XZKYqH4eqo-NhkUMsqZNG2Bjna4QnAw/_nc_ohc-cs3Kh32KiqsQ7kNvwE7li-d/live-dash/dash-abr-ibr-audio/979225514737325.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_Af7AI9TNFIElLzVlJNXDYnlDX85XgBP0y35cb_ONCMFqmg&oe=6A1BAF33
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
