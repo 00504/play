@@ -56,7 +56,7 @@ http://45.167.253.246:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
-https://stream.mux.com/R3suZUx2FS01H9LSF00yvqeGdDXhnIue702bO7wx8hOPro.m3u8
+https://stream.mux.com/J1qcHbsdujTozQ54EOHJzyDrbY62lzR7fUiFIjLntws.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
@@ -134,7 +134,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH Digital
 https://live.streamhch.com/live/streams/hch1.m3u8
-https://stream.mux.com/R3suZUx2FS01H9LSF00yvqeGdDXhnIue702bO7wx8hOPro.m3u8
+https://stream.mux.com/J1qcHbsdujTozQ54EOHJzyDrbY62lzR7fUiFIjLntws.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://45.171.64.30:8800/play/a04h
