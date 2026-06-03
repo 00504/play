@@ -51,6 +51,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
+https://stream.mux.com/gjpsCTcfZvwVk6xfS5h02Zor8et02202100i802k4t022ZyeE.m3u8
 https://stream.mux.com/R3suZUx2FS01H9LSF00yvqeGdDXhnIue702bO7wx8hOPro.m3u8
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 http://45.167.253.246:8010/play/a00h/index.m3u8
