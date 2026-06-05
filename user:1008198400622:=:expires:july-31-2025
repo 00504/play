@@ -135,8 +135,6 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH Digital
 https://live.streamhch.com/live/streams/hch1.m3u8
 https://stream.mux.com/jV4HUislNiNpqmsPHBRorpM1TvHegNy5YlbjtOIxVN8.m3u8
-#EXTINF:-1 tvg-id="cn51hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal51_HN.png" group-title="Variedades",Canal 51
-https://live.cn51hn.com/live/cn51.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://45.171.64.30:8800/play/a04h
@@ -145,6 +143,8 @@ http://45.173.75.4:2061/play/a05u
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Telenovelas",RCN Más+
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Romance.png" group-title="Telenovelas",ROMANCE Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8?ads.dpname=distrotv&ads.rnd=4ikm&ads.env_i=d86de5e3-fc44-43f0-a585-720a382e62b7&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1385&ads.height=779&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=216.234.223.6&ads.geo=US&ads.lat=35.13490&ads.long=-106.64020&ads.dma=790&ads.geoType=2&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=119200&ads.show_id=4914&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=Romance%20Channel&ads.episodetitle=Romance%20Channel&ads.keywords=romance%2Cdrama%2Clove%2Cdestiny%2Cdream%2Cmovies%2Cseries%2Cnovel%2CTV%2Ccinemaromance%2Cdrama%2Camor%2Cdestino%2Censue%C3%B1o%2Cpel%C3%ADculas%2Cseries%2Cespa%C3%B1ol%2Cnovela%2CTV%2Ccine&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=3UUCUxF5T4O
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/RT_Espa%C3%B1ol.png" group-title="Noticias",RT en Español
@@ -282,8 +282,6 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 tvg-id="raitalia.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Rai_Italia.png" group-title="Variedades",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Telenovelas",RCN Más+
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY cine
