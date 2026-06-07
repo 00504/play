@@ -213,6 +213,7 @@ http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://185.56.109.251/Tudn/playlist.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Azteca_Deportes.png" group-title="Deportes",tv azteca deportes
+http://186.148.175.138:8000/play/a057
 https://stream.mux.com/jV4HUislNiNpqmsPHBRorpM1TvHegNy5YlbjtOIxVN8.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
