@@ -50,9 +50,8 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Once_M%C3%A9xico.png" group-title="Variedades",Canal Once MX
-https://stream.mux.com/jV4HUislNiNpqmsPHBRorpM1TvHegNy5YlbjtOIxVN8.m3u8
-http://45.167.253.246:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",PAÍS TV
+https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",UNE TV
 https://amixtv.com:8081/unetvhn/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.ts.m3u8
@@ -213,6 +212,9 @@ https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://185.56.109.251/Tudn/playlist.m3u8
+#EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Azteca_Deportes.png" group-title="Deportes",tv azteca deportes
+https://mdstrm.com/live-stream-playlist/6994be4d5caab0723aaab37c.m3u8?uid=APvm0UruXUAHJOeBQZqHJ4Z5nY4H0mBB&sid=3i9prX4Kzr8AhekDyZa5WtNVlEQFFAn9&pid=IjPkFLDFkLEnWk14JLO6nxg2SvnyZ76I&pid_dvr=oP0DycjRSUDXe9B60A828mmXH1bLBZFd&an=tv-azteca-en-vivo-app-web&at=web-app&av=v7.0.56&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=1120x630&without_cookies=false&listenerid=&dnt=true&access_token=rwJKFGpseWT3GpBNIFQyCFRWTi4A57vtrHjpMJShkJjypimrAIus9pAFAUD1lpMuTGKkuca7Lcy&adInsertionGoogleStreamId=54009648-4358-4800-8d20-a3fbf5cc57a7:DLS&CMCD=cid%3D%226994be4d5caab0723aaab37c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22IjPkFLDFkLEnWk14JLO6nxg2SvnyZ76I%22%2Csu
+https://stream.mux.com/jV4HUislNiNpqmsPHBRorpM1TvHegNy5YlbjtOIxVN8.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
@@ -266,8 +268,6 @@ http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
 http://147.135.114.221:8001/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://tvpaishonduras.com/wp-content/uploads/2024/02/pais-logo.png" group-title="Música",PAÍS TV
-https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
 http://168.228.44.241:9997/play/a01m/index.m3u8
 http://45.5.119.43:4000/play/a0kq/index.m3u8
