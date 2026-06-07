@@ -213,7 +213,6 @@ http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 http://185.56.109.251/Tudn/playlist.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Azteca_Deportes.png" group-title="Deportes",tv azteca deportes
-https://mdstrm.com/live-stream-playlist/6994be4d5caab0723aaab37c.m3u8?uid=APvm0UruXUAHJOeBQZqHJ4Z5nY4H0mBB&sid=3i9prX4Kzr8AhekDyZa5WtNVlEQFFAn9&pid=IjPkFLDFkLEnWk14JLO6nxg2SvnyZ76I&pid_dvr=oP0DycjRSUDXe9B60A828mmXH1bLBZFd&an=tv-azteca-en-vivo-app-web&at=web-app&av=v7.0.56&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=1120x630&without_cookies=false&listenerid=&dnt=true&access_token=rwJKFGpseWT3GpBNIFQyCFRWTi4A57vtrHjpMJShkJjypimrAIus9pAFAUD1lpMuTGKkuca7Lcy&adInsertionGoogleStreamId=54009648-4358-4800-8d20-a3fbf5cc57a7:DLS&CMCD=cid%3D%226994be4d5caab0723aaab37c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22IjPkFLDFkLEnWk14JLO6nxg2SvnyZ76I%22%2Csu
 https://stream.mux.com/jV4HUislNiNpqmsPHBRorpM1TvHegNy5YlbjtOIxVN8.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
