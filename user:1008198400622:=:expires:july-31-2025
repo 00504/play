@@ -3,6 +3,8 @@
 https://cdn.jwplayer.com/live/broadcast/kN9zB3eN.m3u8
 https://livecdn.use1-0004.jwplive.com/live/sites/2TG5q0qV/media/kN9zB3eN/live.isml/.mpd
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
+https://signal.teleon.live/stream/canal2sv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 http://168.228.44.241:9999/play/a042/index.m3u8
 http://45.167.2.138:8000/play/a0qp/index.m3u8
 http://190.61.34.164:8000/play/a00f/index.m3u8
@@ -14,6 +16,8 @@ https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
+https://signal.teleon.live/stream/canal6sv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 http://168.228.44.241:9999/play/a044/index.m3u8
 http://45.167.2.138:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
@@ -64,6 +68,7 @@ http://168.228.44.241:9998/play/a0bn/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+http://45.181.121.57:2909/play/013
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
@@ -72,11 +77,14 @@ http://181.78.12.164:9000/play/a049
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
+http://45.5.119.43:4000/play/a026/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://168.228.44.241:9999/play/a043/index.m3u8
 http://45.167.2.138:8000/play/a0qq/index.m3u8
+https://signal.teleon.live/stream/canal4sv.m3u8?token=free
+https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://45.189.62.33:8002/play/a0ll/index.m3u8
@@ -91,6 +99,7 @@ https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 http://168.228.44.241:9998/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
@@ -202,6 +211,7 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://45.171.64.30:2000/play/a08m/index.m3u8
 http://45.5.118.152:8000/play/a08f/index.m3u8
+http://45.5.119.43:4000/play/a05r/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -281,8 +291,8 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="raitalia.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Rai_Italia.png" group-title="Variedades",Rai Italia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:-1 tvg-id="senalcolombia.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Se%C3%B1al_Colombia.png" group-title="Variedades",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY cine
@@ -316,6 +326,7 @@ http://45.5.119.43:4000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 https://astra.fibernetisp.com.co/play/a05l/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+http://45.181.121.57:2909/play/112
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://45.5.119.43:4000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
