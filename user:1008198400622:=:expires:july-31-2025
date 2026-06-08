@@ -196,16 +196,16 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://168.228.44.241:9998/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN+
 http://190.61.42.218:9000/play/a05t/index.m3u8
-http://190.60.42.86:8000/play/a01q/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
 http://190.61.42.218:9000/play/a05n/index.m3u8
-http://190.60.42.86:8000/play/a00m/index.m3u8
 http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
 http://190.61.42.218:9000/play/a061/index.m3u8
-http://190.60.42.86:8000/play/a00n/index.m3u8
 http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 4
+http://190.61.42.218:9000/play/a07f/index.m3u8
+http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://45.171.64.30:2000/play/a08m/index.m3u8
 http://45.5.118.152:8000/play/a08f/index.m3u8
