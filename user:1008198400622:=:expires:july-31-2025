@@ -254,6 +254,9 @@ https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/play
 #EXTINF:-1 tvg-id="energy-tv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energy_TV.png" group-title="Entretenimiento",ENERGY TV
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
+https://59ec5453559f0.streamlock.net/energytvlife/smil:WEB/playlist.m3u8
+https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
+https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",fashion tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
