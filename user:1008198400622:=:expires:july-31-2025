@@ -77,8 +77,9 @@ http://181.78.12.164:9000/play/a049
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://45.5.119.43:4000/play/a026/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
+http://45.189.62.33:8002/play/a0mf/index.m3u8
+http://181.119.108.43:9001/play/a06n/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://168.228.44.241:9999/play/a043/index.m3u8
@@ -87,9 +88,6 @@ https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://45.189.62.33:8002/play/a0ll/index.m3u8
-http://185.56.109.253/Canal5/playlist.m3u8
-http://181.119.111.25:4000/play/a06n/index.m3u8
-http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
 #EXTVLCOPT:http-referrer=https://canal6hn.com/
@@ -208,6 +206,14 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
 http://190.61.42.218:9000/play/a07f/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
+http://181.119.108.43:9001/play/a075/index.m3u8
+http://181.119.108.43:9001/play/a07b/index.m3u8
+http://181.119.108.43:9001/play/a0n6/index.m3u8
+http://181.119.108.43:9001/play/a0n9/index.m3u8
+http://181.119.108.43:9001/play/a0n8/index.m3u8
+http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
+http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.171.64.30:2000/play/a08m/index.m3u8
@@ -222,9 +228,8 @@ https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 https://d39cch93iix3pu.cloudfront.net/output/hls/francishonarh/Custom-Ott_Hls_Ts_Avc_Aac_16x9_1280x720_30fps_5000kbps.m3u8
 https://dnopxoqt4kxjy.cloudfront.net/NicaraguavsHonduras13112025-ef3dfc02-cff5-40c9-9b6e-32ee4930714e/NicaraguavsHonduras13112025-ef3dfc02-cff5-40c9-9b6e-32ee4930714e.m3u8
-http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
-http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+http://181.119.108.43:9001/play/a06z/index.m3u8
 http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
