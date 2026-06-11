@@ -172,11 +172,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://38.7.195.43:8000/play/a00b/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+http://181.224.255.210:8001/play/a0ot/index.m3u8
 http://181.78.109.48:9998/play/a02m/index.m3u8
 http://45.5.119.43:4000/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
@@ -257,6 +259,7 @@ http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://190.92.82.246:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",BANDAMAX
+http://38.7.195.43:8000/play/a008/index.m3u8
 http://201.151.118.136:8000/play/a002/index.m3u8
 http://181.78.50.191:7225/play/a0av
 http://185.56.109.253/Bandamax/playlist.m3u8
@@ -358,11 +361,14 @@ https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://45.5.119.43:4000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINEcanal HD
+http://181.224.255.210:8001/play/a0ob/index.m3u8
 http://190.61.41.181:8000/play/a0lv/index.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a01q
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 http://179.60.51.134:8888/CINEMAX/index.m3u8
+http://38.252.213.209:8000/play/a0bc
+http://181.224.255.210:8001/play/a0mk/index.m3u8
 http://24.152.42.29:8000/play/a01y/index.m3u8
 https://astra.fibernetisp.com.co/play/a05l/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
