@@ -206,14 +206,15 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
 http://190.61.42.218:9000/play/a07f/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
-http://181.119.108.43:9001/play/a075/index.m3u8
-http://181.119.108.43:9001/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX CR
 http://181.119.108.43:9001/play/a0n6/index.m3u8
-http://181.119.108.43:9001/play/a0n9/index.m3u8
-http://181.119.108.43:9001/play/a0n8/index.m3u8
 http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
 http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
+#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX MX
+http://181.119.108.43:9001/play/a075/index.m3u8
+http://181.119.108.43:9001/play/a07b/index.m3u8
+http://181.119.108.43:9001/play/a0n9/index.m3u8
+http://181.119.108.43:9001/play/a0n8/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.171.64.30:2000/play/a08m/index.m3u8
