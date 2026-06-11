@@ -216,10 +216,10 @@ http://181.119.108.43:9001/play/a07b/index.m3u8
 http://181.119.108.43:9001/play/a0n9/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
-http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.171.64.30:2000/play/a08m/index.m3u8
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.5.119.43:4000/play/a05r/index.m3u8
+http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
