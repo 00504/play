@@ -184,6 +184,7 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://181.224.255.210:8001/play/a0ot/index.m3u8
 http://181.78.109.48:9998/play/a02m/index.m3u8
 http://45.5.119.43:4000/play/a0gv/index.m3u8
+http://181.78.21.46:8009/play/a03b
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -198,6 +199,7 @@ http://72.90.150.217:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
 http://181.78.109.48:9998/play/a068/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
+http://181.78.21.46:8009/play/a02p
 http://179.60.51.134:8888/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="beinsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bein_Sports.png" group-title="Deportes",beIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -245,6 +247,7 @@ http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
 http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://45.171.64.30:2000/play/a08m/index.m3u8
+http://103.111.40.244:9999/play/a0kf/index.m3u8
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.5.119.43:4000/play/a05r/index.m3u8
 http://201.207.54.159:8000/play/a0az/index.m3u8
@@ -345,6 +348,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="telenovelas",tlnovelas
 http://168.228.44.241:9997/play/a076/index.m3u8
+http://181.78.21.46:8009/play/a02l
 http://45.5.119.43:4000/play/a05k/index.m3u8
 http://190.60.48.151:8010/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
