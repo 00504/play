@@ -116,7 +116,7 @@ http://201.151.118.136:8000/play/a005/index.m3u8
 http://45.5.119.43:4000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://181.119.108.43:9001/play/a073/index.m3u8
-http://201.151.118.136:8000/play/a007/index.m3u8u
+http://201.151.118.136:8000/play/a007/index.m3u8
 http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
@@ -172,10 +172,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://181.78.109.48:9998/play/a06o/index.m3u8
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
-http://185.56.109.253/Telehit/playlist.m3u8
-http://181.78.109.48:9998/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://181.78.109.48:9998/play/a02m/index.m3u8
 http://45.5.119.43:4000/play/a0gv/index.m3u8
@@ -226,7 +225,6 @@ http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
-http://185.56.109.251/Tudn/playlist.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
@@ -256,11 +254,11 @@ http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Jr.png" group-title="Infantiles",DisneyJr.
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="energy-tv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energy_TV.png" group-title="Entretenimiento",ENERGY TV
+https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvlife/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
-https://59ec5453559f0.streamlock.net/energytvlatino/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",fashion tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
