@@ -222,6 +222,10 @@ https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 https://d39cch93iix3pu.cloudfront.net/output/hls/francishonarh/Custom-Ott_Hls_Ts_Avc_Aac_16x9_1280x720_30fps_5000kbps.m3u8
 http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
 http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
+#EXTINF:-1 tvg-id="tigo.com.hn/tigo-sports" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tigo_Sports.png" group-title="Deportes",tigo sports
+https://d39cch93iix3pu.cloudfront.net/output/hls/francishonarh/Custom-Ott_Hls_Ts_Avc_Aac_16x9_1280x720_30fps_5000kbps.m3u8
+http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
+http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
