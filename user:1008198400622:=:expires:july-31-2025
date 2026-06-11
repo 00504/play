@@ -257,7 +257,6 @@ http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
-http://190.92.82.246:8000/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",BANDAMAX
 http://38.7.195.43:8000/play/a008/index.m3u8
 http://201.151.118.136:8000/play/a002/index.m3u8
@@ -359,8 +358,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
-http://45.5.119.43:4000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINEcanal HD
+http://181.224.255.210:8001/play/a0f7/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
 http://181.224.255.210:8001/play/a0ob/index.m3u8
 http://190.61.41.181:8000/play/a0lv/index.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
