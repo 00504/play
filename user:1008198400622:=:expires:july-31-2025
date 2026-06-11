@@ -16,13 +16,14 @@ https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
-http://168.228.44.241:9999/play/a044/index.m3u8
 https://signal.teleon.live/stream/canal6sv.m3u8?token=free
+http://168.228.44.241:9999/play/a044/index.m3u8
 https://teleon.tv/stream/cG5wODQ3ODEzMXBucDg0.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TelePais.png" group-title="Variedades",TelePaís
-https://server5.cloundmediacp.in/telepais/telepais/playlist.m3u8?hls
+https://viewhn.com/teleprogreso/live/playlist.m3u8
+https://viewhn.com/teleprogreso/live/chunks.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VTV_HN.png" group-title="Variedades",VTV
 https://d2qsan2ut81n2k.cloudfront.net/live/011cc7e2-0578-4d05-b38b-7f9d8885fe51/ts:abr.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DW_Espa%C3%B1ol.png" group-title="Documentales",DW en Español
@@ -327,6 +328,7 @@ https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://45.5.119.43:4000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINEcanal HD
+http://corgol.com@45.228.234.30:16000/play/a01q
 http://45.5.119.43:4000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 https://astra.fibernetisp.com.co/play/a05l/index.m3u8
