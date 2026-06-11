@@ -80,7 +80,6 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
-http://45.189.62.33:8002/play/a0mf/index.m3u8
 http://181.119.108.43:9001/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://168.228.44.241:9999/play/a043/index.m3u8
@@ -88,6 +87,7 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://168.228.44.241:9998/play/a0cy/index.m3u8
+http://45.189.62.33:8002/play/a0nu/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://45.189.62.33:8002/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
@@ -177,6 +177,7 @@ http://181.78.109.48:9998/play/a06o/index.m3u8
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
 http://181.224.255.210:8001/play/a0ot/index.m3u8
 http://181.78.109.48:9998/play/a02m/index.m3u8
 http://45.5.119.43:4000/play/a0gv/index.m3u8
@@ -219,21 +220,20 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
 http://190.61.42.218:9000/play/a07f/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX CR
+#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
 http://181.119.108.43:9001/play/a0n6/index.m3u8
+http://181.119.108.43:9001/play/a0n8/index.m3u8
+http://181.119.108.43:9001/play/a0n9/index.m3u8
+http://181.119.108.43:9001/play/a075/index.m3u8
 http://190.92.82.246:8000/play/a012/index.m3u8
 http://201.207.54.159:8000/play/a07b/index.m3u8
 http://201.207.54.159:8000/play/a0as/index.m3u8
-http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
-http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
-#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX MX
-http://181.119.108.43:9001/play/a0n8/index.m3u8
-http://181.119.108.43:9001/play/a075/index.m3u8
-http://181.119.108.43:9001/play/a0n9/index.m3u8
 http://190.92.82.246:8000/play/a00w/index.m3u8
 http://190.92.82.246:8000/play/a013/index.m3u8
 http://201.207.54.159:8000/play/a0au/index.m3u8
 http://201.207.54.159:8000/play/a0av/index.m3u8
+http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
+http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://45.171.64.30:2000/play/a08m/index.m3u8
 http://45.5.118.152:8000/play/a08f/index.m3u8
@@ -252,7 +252,6 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/in
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
 http://181.119.108.43:9001/play/a06z/index.m3u8
 http://201.151.118.136:8000/play/a00g/index.m3u8
 http://190.83.9.222:8000/play/ca099/index.m3u8
