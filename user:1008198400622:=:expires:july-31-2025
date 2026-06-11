@@ -219,7 +219,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tigo.com.hn/tigo-sports" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tigo_Sports.png" group-title="Deportes",tigo sports
-https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
+https://d39cch93iix3pu.cloudfront.net/output/hls/francishonarh/Custom-Ott_Hls_Ts_Avc_Aac_16x9_1280x720_30fps_5000kbps.m3u8
 http://vpjertrcww.top:8080/VIP011601754002466528/c2470e005be5/4946
 http://vpjertrcww.top:8080/VIP016921756495296598/2f5d3bf54314/4946
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
@@ -263,6 +263,7 @@ https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música",gex•tv
+https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 https://vs20.live.opencaster.com/jorces17_bcbfa6d2/index.m3u8
 #EXTINF:-1 tvg-id="hola.com/tv/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/%C2%A1HOLA!_Play.png" group-title="Entretenimiento",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
