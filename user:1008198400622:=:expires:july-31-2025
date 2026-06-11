@@ -211,7 +211,7 @@ http://201.207.54.159:8000/play/a06l/index.m3u8
 http://201.207.54.159:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://168.228.44.241:9998/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSports.png" group-title="Deportes",DirecTV
+#EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSports.png" group-title="Deportes",DIRECTV sports
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://181.78.0.107:8006/play/a08r/index.m3u8
 http://181.78.0.107:8006/play/a08s/index.m3u8
@@ -373,13 +373,9 @@ http://190.61.41.181:8000/play/a0lv/index.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a01q
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://179.60.51.134:8888/CINEMAX/index.m3u8
-http://38.252.213.209:8000/play/a0bc
 http://181.224.255.210:8001/play/a0mk/index.m3u8
-http://24.152.42.29:8000/play/a01y/index.m3u8
 https://astra.fibernetisp.com.co/play/a05l/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-http://24.152.42.29:8000/play/a07n/index.m3u8
 http://45.181.121.57:2909/play/112
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://45.5.119.43:4000/play/a0gy/index.m3u8
