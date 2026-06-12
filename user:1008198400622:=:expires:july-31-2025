@@ -239,17 +239,17 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 http://190.61.42.218:9000/play/a07f/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
-http://190.92.82.246:8000/play/a012/index.m3u8
-http://190.92.82.246:8000/play/a00w/index.m3u8
-http://190.92.82.246:8000/play/a013/index.m3u8
+http://181.119.108.43:9001/play/a0n8/index.m3u8
+http://181.119.108.43:9001/play/a0n6/index.m3u8
+http://181.119.108.43:9001/play/a0n9/index.m3u8
+http://181.119.108.43:9001/play/a075/index.m3u8
 http://201.207.54.159:8000/play/a0au/index.m3u8
 http://201.207.54.159:8000/play/a0av/index.m3u8
 http://201.207.54.159:8000/play/a07b/index.m3u8
 http://201.207.54.159:8000/play/a0as/index.m3u8
-http://181.119.108.43:9001/play/a0n6/index.m3u8
-http://181.119.108.43:9001/play/a0n8/index.m3u8
-http://181.119.108.43:9001/play/a0n9/index.m3u8
-http://181.119.108.43:9001/play/a075/index.m3u8
+http://190.92.82.246:8000/play/a012/index.m3u8
+http://190.92.82.246:8000/play/a00w/index.m3u8
+http://190.92.82.246:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://45.171.64.30:2000/play/a08m/index.m3u8
 http://103.111.40.244:9999/play/a0kf/index.m3u8
