@@ -185,11 +185,7 @@ http://38.7.195.43:8000/play/a00b/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo CA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://181.224.255.210:8001/play/a0ot/index.m3u8
@@ -272,18 +268,19 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/in
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/index_5.m3u8
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/index_6.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
-#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
+#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN MX
 http://201.151.118.136:8000/play/a00g/index.m3u8u?hls
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 http://190.61.34.164:8000/play/a01o/index.m3u8
 http://200.229.147.142:8000/play/a096/index.m3u8
 http://200.229.147.142:8000/play/a09n/index.m3u8
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://181.119.108.43:9001/play/a06z/index.m3u8
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN US
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
