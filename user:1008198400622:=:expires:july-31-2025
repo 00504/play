@@ -185,7 +185,7 @@ http://38.7.195.43:8000/play/a00b/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo US
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo CA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
