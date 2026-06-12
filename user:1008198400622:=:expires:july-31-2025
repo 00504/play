@@ -78,26 +78,29 @@ http://181.78.12.164:9000/play/a049
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
-http://201.174.175.3:8000/play/a0kl/index.m3u8u?hls
-http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://201.174.175.3:8000/play/a0kl/index.m3u8
 http://200.229.147.142:8000/play/a06s/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://181.78.109.48:9998/play/a06h/index.m3u8
 http://181.119.108.43:9001/play/a06n/index.m3u8
+http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://201.174.175.3:8000/play/a0kl/index.m3u8u?hls
+#EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
+http://45.167.253.246:8010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
 http://168.228.44.241:9999/play/a043/index.m3u8
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://45.189.62.33:8002/play/a0nu/index.m3u8
-http://168.228.44.241:9998/play/a0cy/index.m3u8
-http://201.151.118.136:8000/play/a004/index.m3u8u?hls
 http://201.77.60.62:8002/play/a0ll/index.m3u8
 http://200.229.147.142:8000/play/a06t/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://45.189.62.33:8002/play/a0ll/index.m3u8
 http://181.119.108.43:9001/play/a06d/index.m3u8
+http://168.228.44.241:9998/play/a0cy/index.m3u8
+http://201.151.118.136:8000/play/a004/index.m3u8u?hls
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
 #EXTVLCOPT:http-referrer=https://canal6hn.com/
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
@@ -269,6 +272,7 @@ https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/in
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://201.151.118.136:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://190.61.34.164:8000/play/a01o/index.m3u8
 http://200.229.147.142:8000/play/a096/index.m3u8
 http://200.229.147.142:8000/play/a09n/index.m3u8
