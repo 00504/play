@@ -90,9 +90,9 @@ http://168.228.44.241:9999/play/a043/index.m3u8
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 https://teleon.tv/stream/cG5wODQ3ODEyOXBucDg0.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://45.189.62.33:8002/play/a0nu/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://201.151.118.136:8000/play/a004/index.m3u8u?hls
-http://45.189.62.33:8002/play/a0nu/index.m3u8
 http://201.77.60.62:8002/play/a0ll/index.m3u8
 http://200.229.147.142:8000/play/a06t/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
@@ -223,6 +223,7 @@ http://190.92.82.246:8000/play/a018/index.m3u8
 http://201.207.54.159:8000/play/a06l/index.m3u8
 http://201.207.54.159:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
+https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 http://168.228.44.241:9998/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://190.61.42.218:9000/play/a05t/index.m3u8
