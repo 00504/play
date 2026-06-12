@@ -185,33 +185,11 @@ http://38.7.195.43:8000/play/a00b/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
-
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo US
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo US
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo US
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
-
-
-
-
-
-
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://181.224.255.210:8001/play/a0ot/index.m3u8
@@ -288,6 +266,11 @@ http://45.228.233.222:8000/play/a04w
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo US
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
 #EXTINF:-1 tvg-id="tigo.com.hn/tigo-sports" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tigo_Sports.png" group-title="Deportes",tigo sports
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/index.m3u8
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/index_5.m3u8
