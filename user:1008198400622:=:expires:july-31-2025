@@ -263,8 +263,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tigo.com.hn/tigo-sports" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tigo_Sports.png" group-title="Deportes",tigo sports
+https://cha01.tigosports.com.hn/out/v1/MPv2_GROUP_CH01_TS-HN-PRD/MPv2-CHANNEL01-HD-TS-HN-PRD/MP_Channel01_OriginEndpoint01_DASH_DRM_HD_TS-HN-PRD/index.mpd?t=4da49fb9692edd82d8addc547c5e31207e94b3c3eaba41378440e5548daa0af8&s=c4cef5024b0e4cba924c5057770d53bc1781291272022cd9022ed54c64ca9a71f39467f253fb5wRMTfOPy8GPyRQzP6XAiNsI3&c=216.234.223.113&e=2026-06-12T19%3A10%3A52Z&v=4&u=cd9022ed-54c6-4ca9-a71f-39467f253fb5&em=&di=6544d31056fbc10d144f75abe4dbb045&cfi=wRMTfOPy8GPyRQzP6XAiNsI3&q=em,di,cfi&z=b
 https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/index.m3u8
-https://d20tezjrkz1zmc.cloudfront.net/out/v1/a6cf6ec38baf4a9ba3ede8538a7ade41/index_5.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://181.78.109.48:9998/play/a06i/index.m3u8
