@@ -224,11 +224,6 @@ http://201.207.54.159:8000/play/a06l/index.m3u8
 http://201.207.54.159:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://168.228.44.241:9998/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSports.png" group-title="Deportes",DIRECTV
-http://181.78.0.107:8006/play/a08s/index.m3u8
-http://181.78.0.107:8006/play/a08r/index.m3u8
-http://181.78.0.107:8006/play/a07r/index.m3u8
-http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://190.61.42.218:9000/play/a05t/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
