@@ -79,6 +79,7 @@ http://181.78.12.164:9000/play/a049
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7.png" group-title="Variedades",Azteca 7
 http://45.167.253.246:8010/play/a00o/index.m3u8
+http://181.78.49.81:8500/play/a061/index.m3u8
 http://181.78.109.48:9998/play/a06h/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://200.229.147.142:8000/play/a06s/index.m3u8
@@ -214,16 +215,16 @@ http://201.207.54.159:8000/play/a06m/index.m3u8
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
-http://190.61.42.218:9000/play/a05t/index.m3u8
+http://181.78.49.81:8500/play/a058/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
-http://190.61.42.218:9000/play/a05n/index.m3u8
+http://181.78.49.81:8500/play/a07t/index.m3u8
 http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
-http://190.61.42.218:9000/play/a061/index.m3u8
+http://181.78.49.81:8500/play/a07s/index.m3u8
 http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
-http://190.61.42.218:9000/play/a07f/index.m3u8
+http://181.78.49.81:8500/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
 http://181.119.108.43:9001/play/a0n8/index.m3u8
@@ -261,8 +262,6 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tigo.com.hn/tigo-sports" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tigo_Sports.png" group-title="Deportes",tigo sports
-https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://181.119.108.43:9001/play/a06z/index.m3u8
