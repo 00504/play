@@ -245,11 +245,6 @@ http://45.5.119.43:4000/play/a05r/index.m3u8
 http://201.207.54.159:8000/play/a0az/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.228.233.222:8000/play/a04w
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
-http://181.78.109.48:9998/play/a02m/index.m3u8
-http://179.60.51.134:8888/TELEMUNDO/index.m3u8
-http://181.78.21.46:8009/play/a03b
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
