@@ -213,14 +213,6 @@ http://201.207.54.159:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-name="DSports +" tvg-logo="http://i.ibb.co/QFtXtLZr/DSports.png", DSports + | Paramount+ NO VLC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
-https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
-
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://181.78.49.81:8500/play/a058/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
@@ -262,6 +254,10 @@ http://181.78.21.46:8009/play/a03b
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tigo.com.hn/tigo-sports" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tigo_Sports.png" group-title="Deportes",tigo sports
+https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/manuel2703/chunks.m3u8
+http://181.78.49.81:8500/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 http://181.78.109.48:9998/play/a06i/index.m3u8
 http://181.119.108.43:9001/play/a06z/index.m3u8
