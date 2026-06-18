@@ -250,6 +250,7 @@ http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+http://200.115.96.66:4000/play/a0go/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://201.151.118.136:8000/play/a00h/index.m3u8
 http://168.228.44.241:9998/play/a0dy/index.m3u8
@@ -258,6 +259,18 @@ http://168.228.44.241:9998/play/a0dy/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
 https://paz-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/TELEMUNDO-ARIZONA-USA-TCS-HD.mpd
+
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo CA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
+
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -397,6 +410,7 @@ http://200.229.147.210:9999/play/a0al/index.m3u8
 http://168.228.44.241:9998/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
 http://201.77.60.62:8002/play/a0o5/index.m3u8
+http://200.115.96.66:4000/play/a01r/index.m3u8
 http://38.49.138.198:8000/play/a0c5/index.m3u8
 http://38.225.117.1:9005/play/a00a/index.m3u8
 http://168.228.44.241:9998/play/a00t/index.m3u8
