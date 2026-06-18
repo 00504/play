@@ -198,13 +198,13 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://astra.fibernetisp.com.co/play/a0lk/index.m3u8
 http://190.105.128.198:5800/play/a07w/index.m3u8
 http://190.60.37.118:4000/play/a021
-#EXTINF:-1 tvg-id="univision.com/unimas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Uni_M%C3%A1s.png" group-title="Entretenimiento",UNIMÁS
-https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
 http://181.78.109.48:9998/play/a068/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
 http://181.78.21.46:8009/play/a02p
 http://179.60.51.134:8888/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="beinsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bein_Sports.png" group-title="Deportes",beIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
@@ -231,6 +231,7 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 http://181.78.49.81:8500/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
+http://190.61.101.11:7050/play/a0a7/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
 http://181.119.108.43:9001/play/a0n6/index.m3u8
 http://181.119.108.43:9001/play/a0n9/index.m3u8
@@ -250,8 +251,10 @@ http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+http://168.228.44.241:9998/play/a0dy/index.m3u8
 http://201.151.118.136:8000/play/a00h/index.m3u8
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+http://45.190.184.79:5800/play/a069/index.m3u8
 http://200.115.96.66:4000/play/a0go/index.m3u8
 http://168.228.44.241:9998/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo HD
@@ -280,6 +283,8 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",BANDAMAX
+http://190.61.101.11:7050/play/a04n/index.m3u8
+http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://181.78.50.191:7225/play/a0av
 http://201.151.118.136:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
@@ -330,8 +335,10 @@ http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
 http://190.61.101.11:7050/play/a093/index.m3u8
+http://190.60.46.226:8888/play/a02a/index.m3u8
 http://168.228.44.241:9998/play/a0du/index.m3u8
 http://194.76.0.79/NICKELODEON/index.m3u8
+http://209.14.119.95:9080/play/a0mk
 #EXTINF:-1 tvg-id="tvpasiones.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pasiones_TV.png" group-title="Telenovelas",Pasiones
 http://179.60.51.134:8888/PASIONES/index.m3u8
 http://168.228.44.241:9997/play/a01m/index.m3u8
@@ -371,8 +378,6 @@ http://190.83.9.222:8000/play/a00r/index.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
-https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
@@ -425,8 +430,10 @@ http://168.228.44.241:9998/play/a0am/index.m3u8
 http://181.119.111.25:4000/play/a0by/index.m3u8
 http://24.152.54.30:8085/play/a0qs/index.m3u8 
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
+http://190.61.101.11:7050/play/a06k/index.m3u8
 http://190.60.59.60:8000/play/a0uh/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT_Series.png" group-title="Series",TNT Series
+http://190.61.101.11:7050/play/a05g/index.m3u8
 http://190.60.59.60:8000/play/a0sk/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png" group-title="Series",UNIVERSAL Channel
 http://38.194.226.190:8000/play/a01d/index.m3u8
