@@ -230,16 +230,8 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 http://181.78.49.81:8500/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
-http://190.61.101.11:7050/play/a0a7/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
-http://181.119.108.43:9001/play/a0n6/index.m3u8
-http://181.119.108.43:9001/play/a0n9/index.m3u8
 http://181.119.108.43:9001/play/a075/index.m3u8
-http://201.207.54.159:8000/play/a0au/index.m3u8
-http://201.207.54.159:8000/play/a0av/index.m3u8
-http://201.207.54.159:8000/play/a07b/index.m3u8
-http://201.207.54.159:8000/play/a0as/index.m3u8
-http://190.92.82.246:8000/play/a012/index.m3u8
 http://190.92.82.246:8000/play/a00w/index.m3u8
 http://190.92.82.246:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
@@ -253,8 +245,6 @@ http://45.228.233.222:8000/play/a04w
 http://200.115.96.66:4000/play/a0go/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://45.190.184.79:5800/play/a069/index.m3u8
-http://168.228.44.241:9998/play/a0dy/index.m3u8
-http://201.151.118.136:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
