@@ -260,7 +260,7 @@ http://45.190.184.79:5800/play/a069/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://paz-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/TELEMUNDO-ARIZONA-USA-TCS-HD.mpd
 
-#EXTINF:-1 group-title="Mundial Fifa 2026"  tvg-id="Telemundo (WSNS) Chicago, IL HD.us" tvg-name="Telemundo (WSNS) Chicago, IL HD.us"  tvg-logo="https://play-lh.googleusercontent.com/QWzkc_LXU5Bu-Z0osZFStRQ-IGNJk7MsPcywke4VJP081BUuhsP1Fs1FqBteH_wW15A_" ,1950 - Telemundo Chicago | WSNS (USA) -
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
