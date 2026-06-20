@@ -108,8 +108,8 @@ https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="multimediostv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
-https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 http://168.228.44.241:9998/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
@@ -329,7 +329,6 @@ http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
-http://190.61.101.11:7050/play/a093/index.m3u8
 http://190.60.46.226:8888/play/a02a/index.m3u8
 http://168.228.44.241:9998/play/a0du/index.m3u8
 http://194.76.0.79/NICKELODEON/index.m3u8
