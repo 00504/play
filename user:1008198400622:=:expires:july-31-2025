@@ -217,21 +217,12 @@ http://201.207.54.159:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports1" tvg-logo="http://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8691/8691WHORIZONTAL.jpg?size=290x163" group-title="", DSports 1
+#EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
 http://k-fra32.x10.network/Cl_Dash.php?id=1491587&user=teste&pass=teste&r=ok
-
-#EXTINF:-1 tvg-id="DSports2" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6998/6998WHORIZONTAL.jpg?size=290x163" group-title="", DSports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
-http://k-fra32.x10.network/Cl_Dash.php?id=1492377&user=teste&pass=teste&r=ok
-
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://181.78.49.81:8500/play/a058/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
