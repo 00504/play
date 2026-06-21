@@ -195,9 +195,9 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",teleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
-http://190.61.41.181:8000/play/a0ry/index.m3u8
-http://190.105.128.198:5800/play/a07w/index.m3u8
 http://astra.fibernetisp.com.co/play/a0lk/index.m3u8
+http://190.105.128.198:5800/play/a07w/index.m3u8
+http://190.61.41.181:8000/play/a0ry/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
 http://181.78.109.48:9998/play/a068/index.m3u8
 http://45.5.117.57:5550/play/a04q/index.m3u8
