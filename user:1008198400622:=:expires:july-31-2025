@@ -121,15 +121,13 @@ http://181.224.255.210:8001/play/a0ew/index.m3u8
 http://45.173.75.4:2061/play/a09h
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
-http://38.49.138.198:8000/play/a0c6/index.m3u8
-http://181.119.108.43:9001/play/a06w/index.m3u8
-http://201.151.118.136:8000/play/a005/index.m3u8
 http://45.5.119.43:4000/play/a05n/index.m3u8
+http://201.151.118.136:8000/play/a005/index.m3u8
+http://181.119.108.43:9001/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://38.49.138.198:8000/play/a0c3/index.m3u8
-http://181.119.108.43:9001/play/a073/index.m3u8
-http://201.151.118.136:8000/play/a007/index.m3u8
 http://45.5.119.43:4000/play/a05l/index.m3u8
+http://201.151.118.136:8000/play/a007/index.m3u8
+http://181.119.108.43:9001/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ebenezer.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Ebenezer_TV.png" group-title="Religioso",Ebenezer TV
@@ -237,6 +235,8 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 http://181.78.49.81:8500/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
+http://45.5.119.43:4000/play/a02v/index.m3u8
+http://45.5.119.43:4000/play/a05t/index.m3u8
 http://190.61.101.11:7050/play/a09z/index.m3u8
 http://190.61.101.11:7050/play/a0a4/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
