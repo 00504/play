@@ -240,13 +240,6 @@ http://45.5.119.43:4000/play/a02v/index.m3u8
 http://190.61.101.11:7050/play/a09z/index.m3u8
 http://190.61.101.11:7050/play/a0a4/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
-
-#EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
 http://103.111.40.244:9999/play/a0kf/index.m3u8
 http://45.5.119.43:4000/play/a05r/index.m3u8
