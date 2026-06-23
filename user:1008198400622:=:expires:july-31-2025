@@ -212,8 +212,6 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS
-https://kbnue.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=169.197.142.208&token=6068447ec195364b5198bf71b8237af2903a4436-16-1782231798-1782177798
-https://liqcy.vivolatamz.org/lb03/dsports/index.m3u8?token=6068447ec195364b5198bf71b8237af2903a4436-16-1782231798-1782177798&ip=169.197.142.208
 http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -245,8 +243,6 @@ http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-https://bdjky.vivolatamz.org/telemundousa/tracks-v1a1/mono.m3u8?ip=169.197.142.208&token=d4b21de9aed1174af964cc8d4621cbec57d0266e-57-1782211589-1782157589
-https://geqnt.vivolatamz.org/lb02/telemundousa/index.m3u8?token=6d4b64f5ca13f06f4c3a5bd4881114af8c42d2f0-7a-1782211033-1782157033&ip=169.197.142.208
 http://200.115.96.66:4000/play/a0go/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://45.190.184.79:5800/play/a069/index.m3u8
