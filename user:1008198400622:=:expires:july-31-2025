@@ -212,6 +212,8 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS
+https://kbnue.vivolatamz.org/dsports/tracks-v1a1/mono.m3u8?ip=169.197.142.208&token=6068447ec195364b5198bf71b8237af2903a4436-16-1782231798-1782177798
+https://liqcy.vivolatamz.org/lb03/dsports/index.m3u8?token=6068447ec195364b5198bf71b8237af2903a4436-16-1782231798-1782177798&ip=169.197.142.208
 http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
