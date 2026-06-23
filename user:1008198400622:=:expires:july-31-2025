@@ -106,6 +106,8 @@ http://201.151.118.136:8000/play/a004/index.m3u8u?hls
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="multimediostv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
@@ -119,7 +121,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/am
 http://181.224.255.210:8001/play/a0ew/index.m3u8
 http://45.173.75.4:2061/play/a09h
 http://190.92.10.66:4000/play/a0h7/index.m3u8
-#EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D película
+#EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D'película
 http://45.5.119.43:4000/play/a05n/index.m3u8
 http://201.151.118.136:8000/play/a005/index.m3u8
 http://181.119.108.43:9001/play/a06w/index.m3u8
@@ -141,8 +143,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",ecuaVISA
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
 http://190.60.48.151:8010/play/a03j/index.m3u8
 http://181.119.108.43:9001/play/a0d7/index.m3u8
@@ -290,6 +290,8 @@ http://147.135.114.221:8001/play/a01a/index.m3u8
 http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Jr.png" group-title="Infantiles",DisneyJr.
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",ecuaVISA
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="energy-tv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energy_TV.png" group-title="Entretenimiento",ENERGY TV
 https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
