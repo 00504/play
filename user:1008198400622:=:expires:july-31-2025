@@ -107,9 +107,8 @@ https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="multimediostv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
-http://168.228.44.241:9998/play/a00n/index.m3u8
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
@@ -152,7 +151,6 @@ https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="hch.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HCH.png" group-title="Noticias",HCH Digital
-http://45.5.119.43:4000/play/a05t/index.m3u8
 https://live.streamhch.com/live/streams/hch1.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
@@ -245,8 +243,8 @@ http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-https://geqnt.vivolatamz.org/lb02/telemundousa/index.m3u8?token=6d4b64f5ca13f06f4c3a5bd4881114af8c42d2f0-7a-1782211033-1782157033&ip=169.197.142.208
 https://bdjky.vivolatamz.org/telemundousa/tracks-v1a1/mono.m3u8?ip=169.197.142.208&token=d4b21de9aed1174af964cc8d4621cbec57d0266e-57-1782211589-1782157589
+https://geqnt.vivolatamz.org/lb02/telemundousa/index.m3u8?token=6d4b64f5ca13f06f4c3a5bd4881114af8c42d2f0-7a-1782211033-1782157033&ip=169.197.142.208
 http://200.115.96.66:4000/play/a0go/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://45.190.184.79:5800/play/a069/index.m3u8
@@ -294,12 +292,11 @@ http://147.135.114.221:8001/play/a01a/index.m3u8
 http://191.97.49.82:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Jr.png" group-title="Infantiles",DisneyJr.
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="energy-tv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energy_TV.png" group-title="Entretenimiento",ENERGY TV
+https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvlife/smil:WEB/playlist.m3u8
-https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",fashion tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
