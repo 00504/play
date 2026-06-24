@@ -218,13 +218,6 @@ http://179.43.96.253:8000/play/a24w/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 https://am91cm5leq.fubo18.com/dsports/mono.m3u8?token=75f564ed39d05df4f4326e951e409dfb4b1235e2-dc-1782264582-1782246582
 https://dw5pdgvk.fubo18.com/dsports/mono.m3u8?token=bc24013247e7a848d2bf32bbc202a126921e5fb1-3b-1782264624-1782246624
-
-#EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://clicktv.com.ar/
-#EXTVLCOPT:http-origin=https://clicktv.com.ar
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/IaChei7eiv8phae4ea5echahZ6xoh4ei/output.mpd?ip=103.50.33.200
-
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -259,13 +252,6 @@ http://45.228.233.222:8000/play/a04w
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
 https://paz-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/TELEMUNDO-ARIZONA-USA-TCS-HD.mpd?ip=169.197.85.173
-
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?ip=169.197.85.173
-
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -286,7 +272,7 @@ http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://181.78.50.191:7225/play/a0av
 http://201.151.118.136:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_TV.png" group-title="Variedades",Caracol TV
-http://179.1.139.84:8000/play/a03s/55908483.m3u8
+http://179.1.139.84:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
