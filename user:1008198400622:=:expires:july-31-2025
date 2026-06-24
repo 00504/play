@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/SV_Plus.png" group-title="Variedades",SV+ Plus
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
-http://45.167.2.138:8000/play/a0qp/index.m3u8
 http://168.228.44.241:9999/play/a042/index.m3u8
+http://45.167.2.138:8000/play/a0qp/index.m3u8
 https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 http://190.61.34.164:8000/play/a00f/index.m3u8
 http://190.61.114.186:8000/play/a03n/index.m3u8
@@ -14,8 +14,8 @@ https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
-http://45.167.2.138:8000/play/a0qs/index.m3u8
 http://168.228.44.241:9999/play/a044/index.m3u8
+http://45.167.2.138:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TelePais.png" group-title="Variedades",TelePaís
@@ -122,7 +122,7 @@ http://190.92.10.66:4000/play/a0h7/index.m3u8
 http://45.5.119.43:4000/play/a05n/index.m3u8
 http://201.151.118.136:8000/play/a005/index.m3u8
 http://181.119.108.43:9001/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
+#EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",distrito comedia
 http://45.5.119.43:4000/play/a05l/index.m3u8
 http://201.151.118.136:8000/play/a007/index.m3u8
 http://181.119.108.43:9001/play/a073/index.m3u8
@@ -183,8 +183,9 @@ http://201.151.118.136:8000/play/a00e/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/1e358cd9-55da-4f6e-8ee8-a125c2ecf988/4.m3u8?ip=209.58.134.93
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/cd3bd79c-0f4c-4c42-aae0-aca869e40d42/4.m3u8?ip=209.58.134.93
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/f9febd6c-6580-40c7-875f-d3b58967ce96/4.m3u8?ip=209.58.134.93
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/335d89e9-5392-4168-b361-355fab06fb04/4.m3u8?ip=209.58.134.93
+http://168.228.44.241:9998/play/a0a9/index.m3u8
 http://103.111.40.244:9999/play/TLMUNDCS/index.m3u8
 http://45.5.119.43:4000/play/a05m/index.m3u8
 http://200.115.96.66:4000/play/a0go/index.m3u8
@@ -215,9 +216,10 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS
+http://179.43.96.253:8000/play/a24w/index.m3u8
+http://191.97.61.32:8000/play/a08t/index.m3u8
 https://am91cm5leq.fubo18.com/dsports/mono.m3u8?token=75f564ed39d05df4f4326e951e409dfb4b1235e2-dc-1782264582-1782246582
 https://dw5pdgvk.fubo18.com/dsports/mono.m3u8?token=bc24013247e7a848d2bf32bbc202a126921e5fb1-3b-1782264624-1782246624
-http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
