@@ -278,6 +278,10 @@ http://190.61.101.11:7050/play/a04n/index.m3u8
 http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://181.78.50.191:7225/play/a0av
 http://201.151.118.136:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_TV.png" group-title="Variedades",Caracol TV
+http://181.78.67.171:8000/play/a0yx/index.m3u8
+
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
