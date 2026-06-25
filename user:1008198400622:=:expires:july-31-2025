@@ -183,6 +183,7 @@ http://201.151.118.136:8000/play/a00e/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+https://tv.notibot.cloud/hls/telemundo/stream.m3u8
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/f9febd6c-6580-40c7-875f-d3b58967ce96/4.m3u8?ip=209.58.134.93
 http://168.228.44.241:9998/play/a0a9/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
@@ -214,8 +215,10 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS
-http://179.43.96.253:8000/play/a24w/index.m3u8
+https://tv.notibot.cloud/hls/dsport_delta/stream.m3u8
+https://tv.notibot.cloud/hls/dsport_amazon/stream.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
+http://179.43.96.253:8000/play/a24w/index.m3u8
 https://am91cm5leq.fubo18.com/dsports/mono.m3u8?token=75f564ed39d05df4f4326e951e409dfb4b1235e2-dc-1782264582-1782246582
 https://dw5pdgvk.fubo18.com/dsports/mono.m3u8?token=bc24013247e7a848d2bf32bbc202a126921e5fb1-3b-1782264624-1782246624
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
