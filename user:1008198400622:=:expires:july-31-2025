@@ -180,12 +180,13 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Stingray_Karaoke.png" group-title="Música",Stingray Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
+#EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
 http://201.151.118.136:8000/play/a00e/index.m3u8
 http://181.78.109.48:9998/play/a06o/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-https://tv.notibot.cloud/hls/telemundo/stream.m3u8
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/f9febd6c-6580-40c7-875f-d3b58967ce96/4.m3u8?ip=209.58.134.93
 http://168.228.44.241:9998/play/a0a9/index.m3u8
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
@@ -253,11 +254,8 @@ http://201.207.54.159:8000/play/a0az/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
-#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-https://paz-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/TELEMUNDO-ARIZONA-USA-TCS-HD.mpd?ip=169.197.85.173
+#EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+https://tv.notibot.cloud/hls/telemundo/stream.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -351,9 +349,6 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",SULA tv
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
-http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
 https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?token=OMSJsxUEetRwSPJ4tXeI2w1rtHBC1XXaGupXZnVVs0vYPb7yAWstc56Ymdg5Trt0IyPug3kR5ua&es=telefeb.cdn.mdstrm.com&proto=https&pz=us&ip=103.50.33.107
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="telenovelas",tlnovelas
