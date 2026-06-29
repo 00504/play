@@ -279,7 +279,7 @@ http://190.61.101.11:7050/play/a04n/index.m3u8
 http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://181.78.50.191:7225/play/a0av
 http://201.151.118.136:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
+#EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_TV.png" group-title="Variedades",Caracol TV
 http://179.1.139.84:8000/play/a03s/index.m3u8
 http://190.60.45.197:2222/play/a09o/index.m3u8
 http://181.78.74.146:18000/play/a03e
@@ -357,7 +357,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",SULA tv
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe AR
+#EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
 http://200.115.120.1:8000/play/ca016/index.m3u8
 https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?token=OMSJsxUEetRwSPJ4tXeI2w1rtHBC1XXaGupXZnVVs0vYPb7yAWstc56Ymdg5Trt0IyPug3kR5ua&es=telefeb.cdn.mdstrm.com&proto=https&ip=103.50.33.107
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="telenovelas",tlnovelas
