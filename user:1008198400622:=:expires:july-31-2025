@@ -166,6 +166,7 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Telenovelas",RCN Más+
+https://362a33c2a385d7d1e52d89d18e7b847cb94bddad.cdn.broadpeak.io/out/v1/03d8d938b87b4b3981b7fdfa6a00a9b1/index.mpd?ip=103.219.169.75
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Romance.png" group-title="Telenovelas",ROMANCE Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/cf91e29e-b6e9-4c44-8001-f5958eab7df6/1.m3u8
