@@ -96,15 +96,12 @@ http://201.151.118.136:8000/play/a004/index.m3u8u?hls
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
-http://181.119.108.43:9001/play/a06n/index.m3u8
-http://190.61.101.11:7050/play/a09b/index.m3u8
-http://181.78.109.48:9998/play/a06h/index.m3u8
 http://181.78.49.81:8500/play/a061/index.m3u8
-http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://45.5.119.43:4000/play/a026/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://38.194.226.190:8000/play/a017/index.m3u8
+http://181.119.108.43:9001/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
@@ -260,6 +257,7 @@ http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 https://tv.notibot.cloud/hls/telemundo/stream.m3u8
+http://181.119.108.43:9001/play/a0nb/index.m3u8
 http://45.190.184.79:5800/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
