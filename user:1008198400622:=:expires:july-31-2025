@@ -285,6 +285,7 @@ http://201.151.118.136:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
 http://181.78.14.26:4000/play/a00d/index.m3u8
 http://181.225.73.159:8000/play/a0ae/index.m3u8
+http://138.121.15.230:9002/CARACOL/index.m3u8
 http://179.1.139.84:8000/play/a03s/index.m3u8
 http://181.78.74.146:18000/play/a03e
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
@@ -313,8 +314,9 @@ https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",fashion tv
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b
 #EXTINF:-1 tvg-id="guatevision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/GUATE_vision.png" group-title="Variedades",GUATEvisión
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8?ip=170.80.111.119
 #EXTINF:-1 tvg-id="hola.com/tv/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/%C2%A1HOLA!_Play.png" group-title="Entretenimiento",¡HOLA! Play
