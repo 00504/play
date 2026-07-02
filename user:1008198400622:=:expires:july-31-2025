@@ -219,8 +219,6 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS
-http://192.99.36.78:6001/canal/dsports-hd
-http://190.238.43.117:9000/play/a09d/index.m3u8
 https://tv.notibot.cloud/hls/dsport_delta/stream.m3u8
 https://tv.notibot.cloud/hls/dsport_amazon/stream.m3u8
 http://190.108.93.180:8000/play/a054/index.m3u8
