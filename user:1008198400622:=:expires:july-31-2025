@@ -211,8 +211,6 @@ https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="clarosports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Claro_Sports.png" group-title="Deportes",Claro sports
-http://201.207.54.159:8000/play/a06l/index.m3u8
-http://201.207.54.159:8000/play/a06m/index.m3u8
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DeportesTVC_HN.png" group-title="Deportes",Deportes TVC
 http://186.33.20.56:4000/play/a0a6/index.m3u8
