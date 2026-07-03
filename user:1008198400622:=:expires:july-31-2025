@@ -221,6 +221,7 @@ http://181.78.45.74:9999/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS
 https://tv.notibot.cloud/hls/dsport_delta/stream.m3u8
 https://tv.notibot.cloud/hls/dsport_amazon/stream.m3u8
+http://45.71.202.124:8000/play/a001/index.m3u8
 http://190.108.93.180:8000/play/a054/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 http://179.43.96.253:8000/play/a24w/index.m3u8
