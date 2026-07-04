@@ -255,7 +255,7 @@ http://corgol.com@45.228.234.30:16000/play/a03h
 http://45.5.118.152:8000/play/a08f/index.m3u8
 http://45.228.233.222:8000/play/a04w
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-https://tv.notibot.cloud/hls/telemundo/stream.m3u8
+https://tv.notibot.cloud/hls/+50255966666/telemundo/live.mpd?token=AU30ojOlp_YVr9qr7i2alg&exp=1783205823
 http://181.119.108.43:9001/play/a0nb/index.m3u8
 http://45.190.184.79:5800/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="tennis.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tennis_Channel.png" group-title="Deportes",Tennis Channel
@@ -277,8 +277,9 @@ http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://181.78.50.191:7225/play/a0av
 http://201.151.118.136:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
-http://181.78.14.26:4000/play/a00d/index.m3u8
 http://181.225.73.159:8000/play/a0ae/index.m3u8
+http://181.78.14.26:4000/play/a00d/index.m3u8
+http://177.234.249.178:8888/CARACOL/index.m3u8
 http://138.121.15.230:9002/CARACOL/index.m3u8
 http://179.1.139.84:8000/play/a03s/index.m3u8
 http://181.78.74.146:18000/play/a03e
