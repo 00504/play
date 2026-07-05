@@ -95,6 +95,7 @@ http://45.167.253.246:8010/play/a00e/index.m3u8
 https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
+http://38.49.142.66:8000/play/a0la/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://38.194.226.190:8000/play/a017/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
