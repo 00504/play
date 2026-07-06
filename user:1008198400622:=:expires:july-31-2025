@@ -82,6 +82,7 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 http://103.111.40.244:9999/play/a01g/index.m3u8
 http://168.228.44.241:9999/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://45.5.118.139:8000/play/a05o/index.m3u8
 http://201.77.60.62:8002/play/a0ll/index.m3u8
 http://38.49.142.66:8000/play/a0ll/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
@@ -97,8 +98,9 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://38.194.226.190:8000/play/a017/index.m3u8
 http://38.49.142.66:8000/play/a0la/index.m3u8
-http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
+http://45.5.118.139:8000/play/a05q/index.m3u8
+http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://181.119.108.43:9001/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
@@ -192,6 +194,7 @@ http://45.5.119.43:4000/play/a05m/index.m3u8
 http://200.115.96.66:4000/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://181.119.108.43:9001/play/a0py/index.m3u8
+http://45.5.118.139:8000/play/a0gv/index.m3u8
 http://181.78.197.59:8000/play/a06x/index.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
@@ -243,6 +246,7 @@ http://45.5.119.43:4000/play/a054/index.m3u8
 http://181.78.49.81:8500/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
+http://45.5.118.139:8000/play/a02v/index.m3u8
 http://190.61.101.11:7050/play/a0a4/index.m3u8
 http://190.61.101.11:7050/play/a09z/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
@@ -259,6 +263,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+http://45.5.118.139:8000/play/a05p/index.m3u8
 http://190.61.34.164:8000/play/a01o/index.m3u8
 http://167.250.223.26:9998/play/a05z/index.m3u8
 http://201.151.118.136:8000/play/a00g/index.m3u8
