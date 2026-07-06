@@ -133,6 +133,7 @@ https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1281734984_b2
 #EXTINF:-1 tvg-id="enlace.org" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Enlace_TBN.png" group-title="Religioso",Enlace TBN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Euronews.png" group-title="Noticias",euronews.
+https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/aeb92524-7055-4d45-bd00-f61eace5f84b/5.m3u8?ip=169.197.85.173
 #EXTINF:-1 tvg-id="ewtn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EWTN.png" group-title="Religioso",EWTN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
