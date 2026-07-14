@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/SV_Plus.png" group-title="Variedades",SV+ Plus
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
-http://190.61.116.107:9999/play/a0uv/index.m3u8
 http://168.228.44.241:9999/play/a042/index.m3u8
+http://190.61.116.107:9999/play/a0uv/index.m3u8
 http://45.167.2.138:8000/play/a0qp/index.m3u8
 https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 http://190.61.34.164:8000/play/a00f/index.m3u8
