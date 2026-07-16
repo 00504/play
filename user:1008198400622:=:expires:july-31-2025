@@ -351,7 +351,7 @@ http://45.5.119.43:4000/play/a0kq/index.m3u8
 http://190.60.48.151:8010/play/a0as/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",PLOUS tv
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="https://pmc.live" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Royale.png" group-title="Música",PMC Royale
+#EXTINF:-1 tvg-id="https://pmc.live" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Music.png" group-title="Música",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="powerapp.com.tr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/POWER_TV.png" group-title="Música",POWER tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
@@ -364,6 +364,7 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
+http://200.115.120.1:8000/play/ca016
 http://181.209.38.162:25461/live/luisss/luis123/186.m3u8
 http://190.7.19.197:232/play/a059/index.m3u8
 https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?token=OMSJsxUEetRwSPJ4tXeI2w1rtHBC1XXaGupXZnVVs0vYPb7yAWstc56Ymdg5Trt0IyPug3kR5ua&es=telefeb.cdn.mdstrm.com&proto=https&ip=103.50.33.107
@@ -430,9 +431,10 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 http://38.225.117.1:9005/play/a00y/index.m3u8
 http://200.229.147.210:9999/play/a0an/index.m3u8
 http://24.152.54.30:8085/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",space
+#EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",space x
 http://179.60.51.134:8888/SPACE/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
+http://38.19.16.151:8000/play/a0gd
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
 http://200.115.96.66:4000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
