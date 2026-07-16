@@ -381,9 +381,9 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",tooncast
-http://38.194.226.190:8000/play/a00u/index.m3u8
-http://190.108.83.69:8000/play/a02e/index.m3u8
 http://190.83.9.222:8000/play/a00r/index.m3u8
+http://190.60.46.226:8888/play/a055/index.m3u8
+http://38.194.226.190:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",tv CHILE Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
