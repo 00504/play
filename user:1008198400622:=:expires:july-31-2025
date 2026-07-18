@@ -361,7 +361,6 @@ http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
 http://200.115.120.1:8000/play/ca016
 http://205.235.6.29:8000/play/a0mh/index.m3u8
-http://190.7.19.197:232/play/a059/index.m3u8
 https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?token=OMSJsxUEetRwSPJ4tXeI2w1rtHBC1XXaGupXZnVVs0vYPb7yAWstc56Ymdg5Trt0IyPug3kR5ua&es=telefeb.cdn.mdstrm.com&proto=https&ip=103.50.33.107
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="telenovelas",tlnovelas
 http://168.228.44.241:9997/play/a076/index.m3u8
@@ -392,11 +391,6 @@ http://181.224.255.210:8001/play/a0ob/index.m3u8
 http://190.61.41.181:8000/play/a0lv/index.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a01q
-#EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://179.60.51.134:8888/CINEMAX/index.m3u8
-http://181.224.255.210:8001/play/a0mk/index.m3u8
-https://astra.fibernetisp.com.co/play/a05l/index.m3u8
-http://45.181.121.57:2909/play/112
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.61.101.11:7050/play/a084/index.m3u8
 http://179.60.51.134:8888/PARAMOUNT/index.m3u8
@@ -406,10 +400,8 @@ http://190.60.39.221:8000/play/a08j/index.m3u8
 http://190.60.57.58:8000/play/a11h/index.m3u8
 http://200.229.147.210:9999/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
-http://168.228.44.241:9998/play/a02m/index.m3u8
 http://177.245.131.133:8080/FX/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
-http://168.228.44.241:9998/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
 http://168.228.44.241:9998/play/a0at/index.m3u8
 http://38.225.117.1:9005/play/a01x/index.m3u8
@@ -430,10 +422,9 @@ http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 http://38.19.16.151:8000/play/a0gd
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
-http://191.97.49.82:8001/play/a009/index.m3u8
-http://179.60.224.196:8000/play/a0ha/index.m3u8
 http://181.224.255.210:8001/play/a0oh/index.m3u8
 http://200.115.96.66:4000/play/a0hf/index.m3u8
+http://179.60.224.196:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
 http://38.225.117.1:9005/play/a00s/index.m3u8
 http://168.228.44.241:9998/play/a0am/index.m3u8
