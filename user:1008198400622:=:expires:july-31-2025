@@ -120,6 +120,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 #EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
 http://181.224.255.210:8001/play/a0ew/index.m3u8
+http://45.170.40.11:29125/play/a018/index.m3u8
 http://45.173.75.4:2061/play/a09h
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D'película
@@ -359,7 +360,9 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
-http://181.209.38.162:25461/live/luisss/luis123/186.m3u8
+http://181.209.37.74:8001/play/a08a/index.m3u8?token=miguel2026
+http://45.170.40.11:29124/play/a00v/index.m3u8
+http://45.5.149.150:8081/play/a03f/index.m3u8
 http://200.115.120.1:8000/play/ca016
 http://205.235.6.29:8000/play/a0mh/index.m3u8
 https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?token=OMSJsxUEetRwSPJ4tXeI2w1rtHBC1XXaGupXZnVVs0vYPb7yAWstc56Ymdg5Trt0IyPug3kR5ua&es=telefeb.cdn.mdstrm.com&proto=https&ip=103.50.33.107
@@ -369,8 +372,6 @@ http://168.228.44.241:9998/play/a097/index.m3u8
 http://181.78.21.46:8009/play/a02l
 http://45.5.119.43:4000/play/a05k/index.m3u8
 http://190.60.48.151:8010/play/a0al/index.m3u8
-#EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
-https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",teleMás
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
@@ -388,6 +389,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
 http://191.97.49.82:8001/play/a001/index.m3u8
+http://45.170.40.11:29124/play/a00u/index.m3u8
 http://181.224.255.210:8001/play/a0ob/index.m3u8
 http://190.61.41.181:8000/play/a0lv/index.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
@@ -423,6 +425,7 @@ http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 http://38.19.16.151:8000/play/a0gd
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
+http://45.170.40.11:29124/play/a00s/index.m3u8
 http://181.224.255.210:8001/play/a0oh/index.m3u8
 http://200.115.96.66:4000/play/a0hf/index.m3u8
 http://179.60.224.196:8000/play/a0ha/index.m3u8
