@@ -385,7 +385,6 @@ http://190.60.39.221:8000/play/a08j/index.m3u8
 http://190.60.57.58:8000/play/a11h/index.m3u8
 http://200.229.147.210:9999/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
-http://177.245.131.133:8080/FX/index.m3u8
 http://179.60.51.134:8888/FX/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
