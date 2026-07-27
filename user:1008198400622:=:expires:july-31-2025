@@ -171,7 +171,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Romance.png" group-title="Telenovelas",ROMANCE Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+http://198.204.228.26/live/cctv4hd.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="actualidad.rt.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/RT_Espa%C3%B1ol.png" group-title="Noticias",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
