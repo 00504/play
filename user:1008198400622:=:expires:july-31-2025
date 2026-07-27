@@ -81,6 +81,7 @@ http://168.228.44.241:9998/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+http://168.228.44.241:9999/play/a043/index.m3u8
 http://45.167.2.138:8000/play/a0qq/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
@@ -99,6 +100,7 @@ https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://200.39.57.254:8008/play/a00t/index.m3u8
 http://38.49.142.66:8000/play/a0la/index.m3u8
 http://45.5.118.139:8000/play/a05q/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
@@ -121,11 +123,9 @@ http://45.170.40.11:29125/play/a018/index.m3u8
 http://45.173.75.4:2061/play/a09h
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D'película
-http://168.228.44.241:9998/play/a0aj/index.m3u8
 http://181.119.108.43:9001/play/a06w/index.m3u8
 http://45.5.118.139:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",distrito comedia
-http://168.228.44.241:9998/play/a0a4/index.m3u8
 http://181.119.108.43:9001/play/a073/index.m3u8
 http://45.5.118.139:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
@@ -159,8 +159,8 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 https://live.streamhch.com/live/streams/hch1.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
-http://179.60.51.134:8888/HISTORY2/index.m3u8
 http://179.60.51.134:8888/HISTORY/index.m3u8
+http://179.60.51.134:8888/HISTORY2/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",HiSPAN TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
@@ -386,6 +386,7 @@ http://190.60.57.58:8000/play/a11h/index.m3u8
 http://200.229.147.210:9999/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://177.245.131.133:8080/FX/index.m3u8
+http://179.60.51.134:8888/FX/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
 http://168.228.44.241:9998/play/a0at/index.m3u8
