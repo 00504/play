@@ -405,7 +405,7 @@ http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 http://38.19.16.151:8000/play/a0gd
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
-http://181.224.255.210:8001/play/a0oh/index.m3u8
+http://24.152.54.30:8085/play/a03e/index.m3u8
 http://200.115.96.66:4000/play/a0hf/index.m3u8
 http://179.60.224.196:8000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
