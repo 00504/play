@@ -306,7 +306,6 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="telenovelas",Latina Televisión
-https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/ee4ca4cc-4e0e-4ff7-b26f-ba0406f3a802:ATL/master.m3u8
 http://187.102.210.46/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
