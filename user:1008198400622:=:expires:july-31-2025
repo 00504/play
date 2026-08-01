@@ -260,9 +260,10 @@ http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://45.5.118.139:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
+http://138.186.23.7:8082/CARACOL/index.m3u8
+http://179.60.51.134:8888/CARACOL/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://152.231.29.139:8000/play/a0jz/index.m3u8
-http://179.60.51.134:8888/CARACOL/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
 http://190.60.32.186:1010/play/yuma0129/index.m3u8
 http://181.225.73.159:8000/play/a0ae/index.m3u8
