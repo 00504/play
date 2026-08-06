@@ -86,6 +86,7 @@ http://45.167.2.138:8000/play/a0qq/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://209.87.175.160:5001/play/a0ll/index.m3u8
+http://181.119.215.61:8000/play/a087/index.m3u8
 http://45.181.87.106:80/CANAL5HD/index.m3u8
 http://45.5.118.139:8000/play/a05o/index.m3u8
 http://38.49.142.66:8000/play/a0ll/index.m3u8
@@ -100,6 +101,7 @@ https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://181.119.215.61:8000/play/a07s/index.m3u8
 http://200.39.57.254:8008/play/a00t/index.m3u8
 http://38.49.142.66:8000/play/a0la/index.m3u8
 http://45.5.118.139:8000/play/a05q/index.m3u8
@@ -148,6 +150,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
 http://177.53.153.21:80/test/test/173.ts
+http://181.224.200.5:2277/play/a00n/index.m3u8
 http://190.60.48.151:8010/play/a03j/index.m3u8
 http://179.1.199.50:9000/play/a0as/index.m3u8
 http://216.28.215.11:8000/play/a0ew/index.m3u8
@@ -173,6 +176,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="Romance.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Romance.png" group-title="Telenovelas",ROMANCE Channel
+http://181.119.215.61:8000/play/a088/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 https://romancechannel-arg.akamaized.net/Evrideo/0bc8531f-9192-4c3f-a157-fc052f5a045f_1000026191_HLS/manifest.m3u8?ip=103.50.33.186
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
@@ -380,6 +384,7 @@ http://200.229.147.210:9999/play/a0ao/index.m3u8
 http://179.60.51.134:8888/FX/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
+http://209.61.12.132:9000/play/a073/index.m3u8
 http://177.234.249.135:8888/Golden/index.m3u8
 http://168.228.44.241:9998/play/a0at/index.m3u8
 http://190.61.116.107:9999/play/a0a5/index.m3u8
@@ -391,6 +396,7 @@ http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 http://38.225.117.1:9005/play/a00l/index.m3u8
 http://38.225.117.1:9005/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Peliculas",SONY CHANNEL
+http://209.61.12.132:9000/play/a09n/index.m3u8
 http://187.102.210.46/SONY_HD/index.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
