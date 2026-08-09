@@ -128,6 +128,7 @@ http://190.92.10.66:4000/play/a0h7/index.m3u8
 http://181.119.108.43:9001/play/a06w/index.m3u8
 http://45.5.118.139:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",distrito comedia
+http://181.119.108.43:9001/play/a073/index.m3u8
 http://177.234.249.135:8888/DistritoComedia/index.m3u8
 http://181.119.108.43:9001/play/a073/index.m3u8
 http://45.5.118.139:8000/play/a07i/index.m3u8
@@ -196,6 +197,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://181.119.108.43:9001/play/a06y/index.m3u8
 http://177.234.249.135:8888/Telehit/index.m3u8
 http://181.119.108.43:9001/play/a0pv/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
@@ -232,15 +234,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 http://190.108.93.180:8000/play/a054/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
+http://181.209.105.115:2525/play/espn/index.m3u8
 http://181.78.49.81:8500/play/a058/index.m3u8
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
+http://181.209.105.115:2525/play/espn2/index.m3u8
 http://181.78.49.81:8500/play/a07t/index.m3u8
 http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
+http://181.209.105.115:2525/play/espn3/index.m3u8
 http://181.78.49.81:8500/play/a07s/index.m3u8
 http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
+http://181.209.105.115:2525/play/espn4/index.m3u8
 http://181.78.49.81:8500/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
@@ -310,7 +316,7 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.2
 #EXTINF:-1 tvg-id="lasestrellas.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Las_Estrellas.png" group-title="Variedades",las estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="telenovelas",Latina TV
+#EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="telenovelas",Latina
 http://177.53.153.21:80/test/test/181.ts
 http://187.102.210.46/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
@@ -353,6 +359,7 @@ http://200.115.120.1:8000/play/ca016
 http://45.170.40.11:29124/play/a00v/index.m3u8
 http://205.235.6.29:8000/play/a0mh/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="telenovelas",tlnovelas
+http://181.119.108.43:9001/play/a06u/index.m3u8
 http://177.234.249.135:8888/Telenovelas/index.m3u8
 http://168.228.44.241:9997/play/a076/index.m3u8
 http://168.228.44.241:9998/play/a097/index.m3u8
