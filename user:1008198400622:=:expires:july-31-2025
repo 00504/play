@@ -234,21 +234,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 http://190.108.93.180:8000/play/a054/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
-http://181.209.105.115:2525/play/espn/index.m3u8
-http://181.78.49.81:8500/play/a058/index.m3u8
-http://45.5.119.43:4000/play/a052/index.m3u8
+http://152.200.171.188:8000/play/a0js/index.m3u8
+http://168.228.44.241:9998/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
-http://181.209.105.115:2525/play/espn2/index.m3u8
-http://181.78.49.81:8500/play/a07t/index.m3u8
-http://45.5.119.43:4000/play/a053/index.m3u8
+http://152.200.171.188:8000/play/a0jq/index.m3u8
+http://168.228.44.241:9998/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
-http://181.209.105.115:2525/play/espn3/index.m3u8
-http://181.78.49.81:8500/play/a07s/index.m3u8
-http://45.5.119.43:4000/play/a054/index.m3u8
+http://152.200.171.188:8000/play/a0kp/index.m3u8
+http://168.228.44.241:9998/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
-http://181.209.105.115:2525/play/espn4/index.m3u8
-http://181.78.49.81:8500/play/a07e/index.m3u8
-http://45.5.119.43:4000/play/a028/index.m3u8
+http://152.200.171.188:8000/play/a0lh/index.m3u8
+http://168.228.44.241:9998/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
 http://181.119.215.61:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
