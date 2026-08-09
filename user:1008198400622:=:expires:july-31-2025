@@ -187,6 +187,7 @@ https://stream.giostreaming.app:19360/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Series",star tve
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="stingray.com" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3030
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
@@ -385,6 +386,9 @@ http://corgol.com@45.228.234.30:16000/play/a01q
 http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 http://191.97.49.82:8001/play/a001/index.m3u8
 http://45.170.40.11:29124/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
+http://179.60.51.134:8888/CINEMAX/index.m3u8
+http://181.224.255.210:8001/play/a0mk/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.61.101.11:7050/play/a084/index.m3u8
 http://179.60.51.134:8888/PARAMOUNT/index.m3u8
