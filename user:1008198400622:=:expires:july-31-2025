@@ -381,6 +381,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
+http://190.83.2.182:8090/AMC_HD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
@@ -390,6 +391,7 @@ http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 http://191.97.49.82:8001/play/a001/index.m3u8
 http://45.170.40.11:29124/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
+http://190.83.2.178:8090/CINEMAX/index.m3u8
 http://179.60.51.134:8888/CINEMAX/index.m3u8
 http://181.224.255.210:8001/play/a0mk/index.m3u8
 http://181.78.0.107:8006/play/a07t/index.m3u8
