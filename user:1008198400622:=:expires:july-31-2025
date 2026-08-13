@@ -264,16 +264,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://45.190.13.8/TUDNHD/index.m3u8
-http://45.5.118.139:8000/play/a05p/index.m3u8
-http://45.5.118.152:8000/play/a08f/index.m3u8
 http://168.228.44.241:9998/play/a0b0/index.m3u8
 http://179.60.224.196:8000/play/a0f4/index.m3u8
-http://190.61.34.164:8000/play/a01o/index.m3u8
 http://167.250.223.26:9998/play/a05z/index.m3u8
-http://201.151.118.136:8000/play/a00g/index.m3u8
-http://181.78.109.48:9998/play/a06i/index.m3u8
 http://181.119.108.43:9001/play/a06z/index.m3u8
+http://45.190.13.8/TUDNHD/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://181.119.108.43:9001/play/a0ke/index.m3u8
 http://200.115.96.61:9090/play/a0jb/index.m3u8
@@ -284,8 +279,6 @@ http://45.5.118.139:8000/play/a05r/index.m3u8
 http://179.60.51.134:8888/CARACOL/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
-http://190.60.32.186:1010/play/yuma0129/index.m3u8
-http://179.1.68.245:7600/play/a058
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
@@ -310,9 +303,9 @@ https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Fashion_TV.png" group-title="Entretenimiento",fashion tv
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="guatevision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/GUATE_vision.png" group-title="Variedades",GUATEvisión
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 #EXTINF:-1 tvg-id="hola.com/tv/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/%C2%A1HOLA!_Play.png" group-title="Entretenimiento",¡HOLA! Play
