@@ -238,15 +238,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 http://190.108.93.180:8000/play/a054/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
+http://179.1.143.53:8000/play/a00b/index.m3u8
 http://181.78.0.107:8006/play/a08p/index.m3u8
 http://168.228.44.241:9998/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
+http://179.1.143.53:8000/play/a00c/index.m3u8
 http://181.78.0.107:8006/play/a07d/index.m3u8
 http://168.228.44.241:9998/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
+http://179.1.143.53:8000/play/a00a/index.m3u8
 http://181.78.0.107:8006/play/a07j/index.m3u8
 http://168.228.44.241:9998/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
+http://179.1.143.53:8000/play/a00d/index.m3u8
 http://181.78.0.107:8006/play/a07k/index.m3u8
 http://168.228.44.241:9998/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
@@ -331,6 +335,7 @@ http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
+http://179.1.158.52:8000/play/a09z/index.m3u8
 http://181.119.93.83:8000/play/a0hi/index.m3u8
 http://181.119.86.1:8000/play/a030
 http://209.14.119.95:9080/play/a0mk
@@ -372,10 +377,7 @@ https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",tooncast
-http://190.60.46.226:8888/play/a055/index.m3u8
 http://179.60.224.196:8000/play/a0hp/index.m3u8
-http://181.224.255.210:8001/play/a0ou/index.m3u8
-http://38.194.226.190:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",tv CHILE Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
@@ -387,6 +389,8 @@ http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
 http://152.231.29.139:8000/play/a0eg/index.m3u8
+http://179.1.110.145:9000/play/a005/index.m3u8
+http://179.1.158.52:8000/play/a0dw/index.m3u8
 http://179.60.51.134:8888/AXN/index.m3u8
 http://45.190.13.8/AXNHD/index.m3u8
 http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
@@ -417,6 +421,7 @@ http://15.204.246.24:8080/FXHD/index.m3u8
 http://181.78.0.107:8006/play/a079/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
+http://179.1.158.52:8000/play/a0eb/index.m3u8
 http://209.61.12.132:9000/play/a073/index.m3u8
 http://177.234.249.135:8888/Golden/index.m3u8
 http://168.228.44.241:9998/play/a0at/index.m3u8
@@ -435,20 +440,24 @@ http://45.190.13.8/HBO2HD/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_family.png" group-title="Peliculas",HBO family
 http://45.190.13.8/HBOFamilyHD/index.m3u8
+http://179.1.146.22:8000/play/a0hp/index.m3u8
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 http://181.119.177.253:8000/play/a010/index.m3u8
+http://181.119.84.107:8000/play/a0qx/index.m3u8
 http://152.231.29.139:8000/play/a0fc/index.m3u8
-http://181.119.86.1:8000/play/a049
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Plus.png" group-title="Peliculas",HBO Plus
 http://45.190.13.8/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
+http://179.1.158.52:8000/play/a09v/index.m3u8
+http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 http://181.119.204.126:8001/play/a06v/index.m3u8
-http://181.119.86.1:8000/play/a0fd
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
+http://179.1.158.52:8000/play/a0dn/index.m3u8
+http://181.119.84.107:8000/play/a0sb/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://181.119.204.126:8001/play/a074/index.m3u8
 http://181.119.177.253:8000/play/a011/index.m3u8
@@ -470,7 +479,6 @@ http://24.152.54.30:8085/play/a005/index.m3u8
 http://200.229.147.210:9999/play/a0an/index.m3u8
 http://45.190.13.8/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",space
-http://205.235.6.29:8000/play/a0yu/index.m3u8
 http://15.204.246.24:8080/SPACEHD/index.m3u8
 http://45.190.13.8/SpaceHD/index.m3u8
 http://179.60.51.134:8888/SPACE/index.m3u8
