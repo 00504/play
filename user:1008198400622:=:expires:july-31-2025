@@ -150,6 +150,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/EcuaVISA_TV.png" group-title="Variedades",ecuaVISA
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
+http://181.119.204.122:8001/play/a05m/index.m3u8
 http://181.119.93.83:8000/play/a1dj/index.m3u8
 http://181.224.200.5:2277/play/a00n/index.m3u8
 http://181.78.0.107:8006/play/a083/index.m3u8
@@ -336,6 +337,7 @@ http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
 http://179.1.158.52:8000/play/a09z/index.m3u8
+http://181.119.204.122:8001/play/a06w/index.m3u8
 http://181.119.93.83:8000/play/a0hi/index.m3u8
 http://181.119.86.1:8000/play/a030
 http://209.14.119.95:9080/play/a0mk
@@ -386,8 +388,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 http://190.83.2.182:8090/AMC_HD/index.m3u8
 http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
+http://181.119.204.122:8001/play/a05r/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
+http://181.119.204.122:8001/play/a082/index.m3u8
 http://152.231.29.139:8000/play/a0eg/index.m3u8
 http://179.1.110.145:9000/play/a005/index.m3u8
 http://179.1.158.52:8000/play/a0dw/index.m3u8
@@ -466,6 +470,7 @@ http://45.190.28.50/HBO_EXTREME_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Peliculas",SONY CHANNEL
+http://181.119.204.122:8001/play/a080/index.m3u8
 http://45.190.13.8/SonyHD/index.m3u8
 http://187.102.210.46/SONY_HD/index.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
@@ -478,7 +483,7 @@ http://190.121.140.222:8081/SONY-MOVIES/index.m3u8
 http://24.152.54.30:8085/play/a005/index.m3u8
 http://200.229.147.210:9999/play/a0an/index.m3u8
 http://45.190.13.8/SonyMoviesHD/index.m3u8
-#EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",space
+#EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",SPACE X
 http://15.204.246.24:8080/SPACEHD/index.m3u8
 http://45.190.13.8/SpaceHD/index.m3u8
 http://179.60.51.134:8888/SPACE/index.m3u8
@@ -501,9 +506,11 @@ http://38.225.117.1:9005/play/a00s/index.m3u8
 http://168.228.44.241:9998/play/a0am/index.m3u8
 http://24.152.54.30:8085/play/a0qs/index.m3u8 
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
+http://181.119.204.122:8001/play/a07w/index.m3u8
 http://190.61.101.11:7050/play/a06k/index.m3u8
 http://190.60.59.60:8000/play/a0uh/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT_Series.png" group-title="Series",TNT Series
+http://181.119.204.122:8001/play/a05s/index.m3u8
 http://190.61.101.11:7050/play/a05g/index.m3u8
 http://190.60.59.60:8000/play/a0sk/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png" group-title="Series",UNIVERSAL Channel
