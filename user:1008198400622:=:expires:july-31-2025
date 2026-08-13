@@ -30,6 +30,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal12_SV.png" group-title="Variedades",Canal 12 SV
+http://38.211.118.57:50002/play/a0fb/index.m3u8
+http://200.229.190.189:8001/play/a01g
 https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 https://d17lud7ibb9z58.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
@@ -66,6 +68,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
 http://168.228.44.241:9998/play/a0bn/index.m3u8
+http://181.209.38.115:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
@@ -208,6 +211,7 @@ http://177.234.249.135:8888/Telehit/index.m3u8
 http://181.119.108.43:9001/play/a0pv/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
 http://45.167.2.138:8000/play/a0sf/index.m3u8
+http://38.211.118.57:50002/play/a0ez/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://181.119.108.43:9001/play/a0py/index.m3u8
@@ -290,6 +294,13 @@ http://168.228.44.241:9998/play/a06g/index.m3u8
 http://205.235.6.29:8000/play/a0y6/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery THEATER
 http://168.228.44.241:9998/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Turbo.png" group-title="Documentales",Discovery Turbo
+http://38.211.118.57:50002/play/a0f0/index.m3u8
+http://38.211.118.57:50002/play/a0ez/index.m3u8
+http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
+http://45.190.28.50/DISCOVERY_TURBO_HD/playlist.m3u8
+http://168.197.104.22:80/DISCOVERY_TURBO/index.m3u8
+http://200.229.190.189:8002/play/a00y
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://168.228.44.241:9998/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
@@ -328,6 +339,8 @@ http://177.245.131.133:8080/NATGEO/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
+#EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
+http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
 http://179.1.158.52:8000/play/a09z/index.m3u8
 http://181.119.204.122:8001/play/a06w/index.m3u8
@@ -351,6 +364,7 @@ http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
+http://181.209.38.115:8000/play/a00p/index.m3u8
 http://205.235.6.29:8000/play/a0mh/index.m3u8
 http://45.170.40.11:29124/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="telenovelas",tlnovelas
@@ -372,6 +386,7 @@ https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",tooncast
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 http://179.60.224.196:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="chilechanneltv.cl" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Chile_Channel.png" group-title="Variedades",tv CHILE Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -404,6 +419,7 @@ http://190.83.2.178:8090/CINEMAX/index.m3u8
 http://179.60.51.134:8888/CINEMAX/index.m3u8
 http://181.224.255.210:8001/play/a0mk/index.m3u8
 http://181.78.0.107:8006/play/a07t/index.m3u8
+http://45.190.28.50/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.61.101.11:7050/play/a084/index.m3u8
 http://179.60.51.134:8888/PARAMOUNT/index.m3u8
@@ -492,6 +508,7 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491413
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
+http://46.151.196.223:14326
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 http://190.121.140.222:8081/STUDIO-UNIVERSAL/index.m3u8
