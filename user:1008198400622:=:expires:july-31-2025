@@ -115,6 +115,7 @@ http://72.1.184.5:8089/play/a02c/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
 #EXTINF:-1 tvg-id="cnnespanol.cnn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CNN_Esp.png" group-title="Noticias",CNN en Español
@@ -205,6 +206,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
 http://181.119.108.43:9001/play/a06y/index.m3u8
 http://177.234.249.135:8888/Telehit/index.m3u8
@@ -362,9 +366,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",SULA tv
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
-http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
