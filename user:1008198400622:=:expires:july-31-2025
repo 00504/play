@@ -30,8 +30,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal12_SV.png" group-title="Variedades",Canal 12 SV
-http://38.211.118.57:50002/play/a0fb/index.m3u8
-http://200.229.190.189:8001/play/a01g
 https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 https://d17lud7ibb9z58.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
@@ -167,6 +165,8 @@ http://170.247.204.9:8000/play/a0a4/index.m3u8u
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+http://38.211.118.57:50002/play/a0fb/index.m3u8
+http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://179.60.51.134:8888/HISTORY/index.m3u8
 http://179.60.51.134:8888/HISTORY2/index.m3u8
@@ -258,6 +258,8 @@ http://168.228.44.241:9998/play/a06b/index.m3u8
 http://179.1.143.53:8000/play/a00d/index.m3u8
 http://181.78.0.107:8006/play/a07k/index.m3u8
 http://168.228.44.241:9998/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",Formula 1 TV
+http://ztvapp.online/live/A285E76B3EEE3B0862E18928DF33A5C8/17665.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
 http://181.119.215.61:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="skysports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sky_Sports.png" group-title="Deportes",sky sports
@@ -292,8 +294,6 @@ https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 http://168.228.44.241:9998/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery home&healt
 http://205.235.6.29:8000/play/a0y6/index.m3u8
-#EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery THEATER
-http://168.228.44.241:9998/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Turbo.png" group-title="Documentales",Discovery Turbo
 http://38.211.118.57:50002/play/a0f0/index.m3u8
 http://38.211.118.57:50002/play/a0ez/index.m3u8
@@ -301,6 +301,8 @@ http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
 http://45.190.28.50/DISCOVERY_TURBO_HD/playlist.m3u8
 http://168.197.104.22:80/DISCOVERY_TURBO/index.m3u8
 http://200.229.190.189:8002/play/a00y
+#EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Theater.png" group-title="Documentales",Discovery THEATER
+http://168.228.44.241:9998/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_World.png" group-title="Documentales",Discovery World
 http://168.228.44.241:9998/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Channel.png" group-title="Infantiles",Disney Channel
