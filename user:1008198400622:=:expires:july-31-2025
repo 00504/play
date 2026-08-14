@@ -258,7 +258,7 @@ http://168.228.44.241:9998/play/a06b/index.m3u8
 http://179.1.143.53:8000/play/a00d/index.m3u8
 http://181.78.0.107:8006/play/a07k/index.m3u8
 http://168.228.44.241:9998/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",Formula 1 TV
+#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",Formula 1
 http://astramain.xyz/play/vetCC7F1WkA0wlYRh_EEJPML8Ip9HtkT0A-w7RFhOnweho32AMjn7wuTSlvyHvq-9u4ehLhvfRfW6ftJDRNo7Q/.m3u8
 http://ztvapp.online/live/A285E76B3EEE3B0862E18928DF33A5C8/17665.m3u8
 #EXTINF:-1 tvg-id="foxsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FOX.png" group-title="Deportes",FOX
