@@ -312,7 +312,7 @@ http://191.97.49.82:8001/play/a00e/index.m3u8
 http://181.119.86.1:8000/play/a031
 #EXTINF:-1 tvg-id="disneylatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Disney_Jr.png" group-title="Infantiles",DisneyJr.
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="energy-tv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energy_TV.png" group-title="Entretenimiento",ENERGY TV
+#EXTINF:-1 tvg-id="energy-tv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Energy_TV.png" group-title="Música",ENERGY TV
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvgold/smil:WEB/playlist.m3u8
 https://59ec5453559f0.streamlock.net/energytvfashion/smil:WEB/playlist.m3u8
@@ -379,7 +379,7 @@ http://168.228.44.241:9998/play/a097/index.m3u8
 http://181.78.21.46:8009/play/a02l
 http://45.5.119.43:4000/play/a05k/index.m3u8
 http://190.60.48.151:8010/play/a0al/index.m3u8
-#EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Entretenimiento",teleMás
+#EXTINF:-1 tvg-id="telemascr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Mas.png" group-title="Variedades",teleMás
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="disneyplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Series",The Simpsons
