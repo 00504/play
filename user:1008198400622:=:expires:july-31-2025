@@ -13,9 +13,9 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
-https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
+http://168.228.44.241:9999/play/a044/index.m3u8
+http://45.167.2.138:8000/play/a0qs/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TelePais.png" group-title="Variedades",TelePaís
@@ -96,9 +96,9 @@ http://45.189.62.33:8002/play/a0ll/index.m3u8
 http://181.119.108.43:9001/play/a06d/index.m3u8
 http://200.229.147.142:8000/play/a06t/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
-http://168.228.44.241:9999/play/a044/index.m3u8
-http://45.167.2.138:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
+https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://181.119.215.61:8000/play/a07s/index.m3u8
@@ -115,7 +115,6 @@ http://72.1.184.5:8089/play/a02c/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16199
 #EXTINF:-1 tvg-id="cnnespanol.cnn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CNN_Esp.png" group-title="Noticias",CNN en Español
@@ -184,6 +183,7 @@ http://38.3.162.3:18009/play/a0cw/index.m3u8
 http://190.60.48.151:8010/play/a0as/index.m3u8
 http://179.60.51.134:8888/PASIONES/index.m3u8
 http://45.171.108.253:8888/PASIONES/index.m3u8
+https://romancechannel-arg.akamaized.net/Evrideo/0bc8531f-9192-4c3f-a157-fc052f5a045f_1000026191_HLS/manifest.m3u8?ip=103.50.33.186
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Telenovelas",RCN Más+
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -247,19 +247,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 http://190.108.93.180:8000/play/a054/index.m3u8
 http://191.97.61.32:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
-http://179.1.143.53:8000/play/a00b/index.m3u8
 http://181.78.0.107:8006/play/a08p/index.m3u8
 http://168.228.44.241:9998/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN2.png" group-title="Deportes",ESPN 2
-http://179.1.143.53:8000/play/a00c/index.m3u8
 http://181.78.0.107:8006/play/a07d/index.m3u8
 http://168.228.44.241:9998/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN3.png" group-title="Deportes",ESPN 3
-http://179.1.143.53:8000/play/a00a/index.m3u8
 http://181.78.0.107:8006/play/a07j/index.m3u8
 http://168.228.44.241:9998/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
-http://179.1.143.53:8000/play/a00d/index.m3u8
 http://181.78.0.107:8006/play/a07k/index.m3u8
 http://168.228.44.241:9998/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",Formula 1
@@ -385,7 +381,6 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="disneyplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Series",The Simpsons
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-https://romancechannel-arg.akamaized.net/Evrideo/0bc8531f-9192-4c3f-a157-fc052f5a045f_1000026191_HLS/manifest.m3u8?ip=103.50.33.186
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
