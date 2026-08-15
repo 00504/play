@@ -127,9 +127,11 @@ http://45.170.40.11:29125/play/a018/index.m3u8
 http://45.173.75.4:2061/play/a09h
 http://190.92.10.66:4000/play/a0h7/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D'película
+http://179.60.224.196:8000/play/a0iu/index.m3u8
 http://181.119.108.43:9001/play/a06w/index.m3u8
 http://45.5.118.139:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",distrito comedia
+http://179.60.224.196:8000/play/a0ip/index.m3u8
 http://181.119.108.43:9001/play/a073/index.m3u8
 http://177.234.249.135:8888/DistritoComedia/index.m3u8
 http://181.119.108.43:9001/play/a073/index.m3u8
@@ -210,12 +212,8 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
-http://181.119.108.43:9001/play/a06y/index.m3u8
-http://177.234.249.135:8888/Telehit/index.m3u8
-http://181.119.108.43:9001/play/a0pv/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
-http://45.167.2.138:8000/play/a0sf/index.m3u8
-http://38.211.118.57:50002/play/a0ez/index.m3u8
+http://181.119.108.43:9001/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://181.119.108.43:9001/play/a0py/index.m3u8
