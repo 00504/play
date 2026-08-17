@@ -378,6 +378,7 @@ http://190.60.48.151:8010/play/a0al/index.m3u8
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="disneyplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Series",The Simpsons
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
@@ -413,6 +414,7 @@ http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 http://191.97.49.82:8001/play/a001/index.m3u8
 http://45.170.40.11:29124/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
+http://190.83.85.68:80/cinemax/index.m3u8
 http://190.83.2.178:8090/CINEMAX/index.m3u8
 http://179.60.51.134:8888/CINEMAX/index.m3u8
 http://181.224.255.210:8001/play/a0mk/index.m3u8
@@ -462,13 +464,11 @@ http://45.190.13.8/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
-http://179.1.158.52:8000/play/a09v/index.m3u8
 http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 http://181.119.204.126:8001/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
-http://179.1.158.52:8000/play/a0dn/index.m3u8
 http://181.119.84.107:8000/play/a0sb/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://181.119.204.126:8001/play/a074/index.m3u8
