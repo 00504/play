@@ -68,10 +68,8 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 http://168.228.44.241:9998/play/a0bn/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-http://38.7.216.102:8000/play/a01b/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="canela.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canela_Kids.png" group-title="Infantiles",Canela*Kids
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
@@ -96,9 +94,9 @@ http://45.189.62.33:8002/play/a0ll/index.m3u8
 http://181.119.108.43:9001/play/a06d/index.m3u8
 http://200.229.147.142:8000/play/a06t/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
-https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
+#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://181.119.215.61:8000/play/a07s/index.m3u8
@@ -439,8 +437,6 @@ http://168.228.44.241:9998/play/a0at/index.m3u8
 http://190.61.116.107:9999/play/a0a5/index.m3u8
 http://38.225.117.1:9005/play/a01x/index.m3u8
 http://200.115.96.66:4000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="hallmark.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hallmark_Channel.png" group-title="Peliculas",Hallmark Channel
-http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
 http://15.204.246.24:8080/HBOHD/index.m3u8
 http://38.225.117.1:9005/play/a00l/index.m3u8
@@ -493,7 +489,6 @@ http://179.60.51.134:8888/SPACE/index.m3u8
 http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
-http://181.78.0.107:8006/play/a07a/index.m3u8
 http://24.152.54.30:8085/play/a03e/index.m3u8
 http://181.119.93.83:8000/play/a1g1/index.m3u8
 http://179.60.224.196:8000/play/a0ha/index.m3u8
