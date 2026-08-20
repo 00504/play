@@ -395,7 +395,6 @@ http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
 http://45.170.130.224:8000/play/a03g/index.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/52479.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
-http://179.60.224.196:8000/play/a0hb/index.m3u8
 http://181.78.0.107:8006/play/a077/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a01q
 http://179.60.51.134:8888/CINE-CANAL/index.m3u8
@@ -438,7 +437,6 @@ http://45.190.13.8/HBOHD/index.m3u8
 http://45.190.13.8/HBO2HD/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Family.png" group-title="Peliculas",HBO family
-http://187.245.231.228:8000/play/a0mt/index.m3u8
 http://45.190.13.8/HBOFamilyHD/index.m3u8
 http://179.1.146.22:8000/play/a0hp/index.m3u8
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
@@ -456,7 +454,6 @@ http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 http://181.119.204.126:8001/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
-http://187.245.231.228:8000/play/a0mu/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://181.119.204.126:8001/play/a074/index.m3u8
 http://181.119.177.253:8000/play/a011/index.m3u8
