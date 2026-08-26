@@ -287,6 +287,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Animal_Planet.png" group-title="Documentales",animal planet
 http://168.228.44.241:9998/play/a02g/index.m3u8
+http://132.255.210.69:8000/play/a01k/index.m3u8
 http://186.33.0.57:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://168.228.44.241:9998/play/a06g/index.m3u8
@@ -405,6 +406,7 @@ http://45.170.130.224:8000/play/a03g/index.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/52479.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
 http://181.78.0.107:8006/play/a077/index.m3u8
+http://132.255.210.69:8000/play/a03j/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a01q
 http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 http://191.97.49.82:8001/play/a001/index.m3u8
@@ -480,6 +482,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Peliculas",SONY CHANNEL
 http://190.121.140.222:8081/SONY/index.m3u8
 http://209.61.12.132:9000/play/a09n/index.m3u8
+http://132.255.210.69:8000/play/a03i/index.m3u8
 http://45.190.13.8/SonyHD/index.m3u8
 http://187.102.210.46/SONY_HD/index.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
