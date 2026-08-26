@@ -164,9 +164,11 @@ http://200.229.190.189:8001/play/a01g
 https://live.streamhch.com/live/streams/hch1.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://181.224.255.210:8001/play/a0m1/index.m3u8
+http://186.33.0.57:8000/play/a01p/index.m3u8
+http://190.83.85.68/history/index.m3u8
 http://179.60.51.134:8888/HISTORY/index.m3u8
 http://179.60.51.134:8888/HISTORY2/index.m3u8
-http://181.224.255.210:8001/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",HiSPAN TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="milenio.com" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Noticias",Milenio Television
@@ -329,10 +331,9 @@ http://181.119.93.83:8000/play/a25x/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
+http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://179.60.51.134:8888/NATGEO/index.m3u8
 http://177.245.131.133:8080/NATGEO/index.m3u8
-http://181.224.255.210:8001/play/a0m2/index.m3u8
-http://45.173.75.4:2061/play/a05x
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
