@@ -275,6 +275,7 @@ http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://45.5.118.139:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
+http://181.78.0.107:8006/play/a08t/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
 http://179.60.51.134:8888/CARACOL/index.m3u8
@@ -387,7 +388,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 http://190.83.2.182:8090/AMC_HD/index.m3u8
 http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
-http://181.119.204.122:8001/play/a05r/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
 http://179.1.110.145:9000/play/a005/index.m3u8
@@ -420,6 +420,7 @@ http://190.60.57.58:8000/play/a11h/index.m3u8
 http://200.229.147.210:9999/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://15.204.246.24:8080/FXHD/index.m3u8
+http://24.152.54.30:8085/play/a0qz/index.m3u8
 http://181.78.0.107:8006/play/a079/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
 http://179.60.51.134:8888/FX/index.m3u8
@@ -485,7 +486,7 @@ http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
 http://24.152.54.30:8085/play/a03e/index.m3u8
-http://181.119.93.83:8000/play/a1g1/index.m3u8
+http://179.1.110.145:9000/play/a07t/index.m3u8
 http://179.60.224.196:8000/play/a0ha/index.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz%C2%AE.png" group-title="Peliculas",STARZ
