@@ -87,9 +87,9 @@ http://45.167.2.138:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
-#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
 https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://181.119.215.61:8000/play/a07s/index.m3u8
@@ -209,9 +209,8 @@ http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
 http://181.119.108.43:9001/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
-http://179.60.51.134:8888/TELEMUNDO/index.m3u8
 http://181.119.108.43:9001/play/a0py/index.m3u8
-http://45.5.118.139:8000/play/a0gv/index.m3u8
+http://186.33.0.57:8000/play/a020/index.m3u8
 http://181.78.197.59:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -275,15 +274,19 @@ http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://45.5.118.139:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
-http://181.78.0.107:8006/play/a08t/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
+http://181.78.0.107:8006/play/a08t/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
 http://179.60.51.134:8888/CARACOL/index.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Animal_Planet.png" group-title="Documentales",animal planet
+http://168.228.44.241:9998/play/a02g/index.m3u8
+http://186.33.0.57:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://168.228.44.241:9998/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery home&healt
@@ -385,11 +388,13 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
+http://190.14.241.209:8001/play/a06x/index.m3u8
 http://190.83.2.182:8090/AMC_HD/index.m3u8
 http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
+http://190.14.241.209:8001/play/a0a7/index.m3u8
 http://179.1.110.145:9000/play/a005/index.m3u8
 http://179.1.158.52:8000/play/a0dw/index.m3u8
 http://179.60.51.134:8888/AXN/index.m3u8
@@ -441,7 +446,9 @@ http://45.190.13.8/HBOHD/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 http://45.190.13.8/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Family.png" group-title="Peliculas",HBO family
+http://190.14.241.209:8001/play/a08t/index.m3u8
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+http://190.14.241.209:8001/play/a08t/index.m3u8
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 http://181.119.177.253:8000/play/a010/index.m3u8
 http://181.119.84.107:8000/play/a0qx/index.m3u8
@@ -454,6 +461,7 @@ http://45.190.13.8/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
+http://190.14.241.209:8001/play/a0fp/index.m3u8
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
@@ -486,6 +494,7 @@ http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
 http://24.152.54.30:8085/play/a03e/index.m3u8
+http://190.14.241.209:8001/play/a0f6/index.m3u8
 http://179.1.110.145:9000/play/a07t/index.m3u8
 http://179.60.224.196:8000/play/a0ha/index.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
@@ -515,6 +524,7 @@ http://168.228.44.241:9998/play/a06l/index.m3u8
 http://168.228.44.241:9998/play/a055/index.m3u8
 http://38.225.117.1:9005/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
+http://138.121.15.230:9002/USA/index.m3u8
 http://179.60.51.134:8888/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://181.78.0.107:8006/play/a08c/index.m3u8
