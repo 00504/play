@@ -528,8 +528,8 @@ http://168.228.44.241:9998/play/a055/index.m3u8
 http://186.33.0.57:8000/play/a04h/index.m3u8
 http://38.225.117.1:9005/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
-http://138.121.15.230:9002/USA/index.m3u8
 http://186.33.27.9:8000/play/a04l/index.m3u8
+http://138.121.15.230:9002/USA/index.m3u8
 http://179.60.51.134:8888/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="warnerbroslatino.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Warner_TV.png" group-title="Peliculas",Warner Bros
 http://181.78.0.107:8006/play/a08c/index.m3u8
