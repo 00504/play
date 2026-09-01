@@ -211,6 +211,7 @@ http://190.105.128.198:5800/play/a07w/index.m3u8
 http://205.235.6.29:8000/play/a0xe/index.m3u8
 http://181.78.8.199:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
+http://168.228.44.241:9998/play/a08m/index.m3u8
 http://181.119.108.43:9001/play/a0pa/index.m3u8
 http://181.119.108.43:9001/play/a06s/index.m3u8
 http://181.78.197.59:8000/play/a089/index.m3u8
@@ -315,7 +316,6 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 #EXTINF:-1 tvg-id="hola.com/tv/" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/%C2%A1HOLA!_Play.png" group-title="Entretenimiento",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_2.png" group-title="Documentales",La 2 España
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.200
@@ -333,7 +333,7 @@ http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://179.60.51.134:8888/NATGEO/index.m3u8
 http://177.245.131.133:8080/NATGEO/index.m3u8
 http://45.171.64.30:8800/play/a057
-#EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
+#EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",Nat Geo WILD
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 http://g9rsm7kb.okfdvn.xyz:80/play/NN6YNBXPP5/Er9f9gKxke9/1472296.ts
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
@@ -428,7 +428,6 @@ http://179.60.51.134:8888/FX/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
 http://179.1.158.52:8000/play/a0eb/index.m3u8
 http://209.61.12.132:9000/play/a073/index.m3u8
-http://177.234.249.135:8888/Golden/index.m3u8
 http://168.228.44.241:9998/play/a0at/index.m3u8
 http://190.61.116.107:9999/play/a0a5/index.m3u8
 http://38.225.117.1:9005/play/a01x/index.m3u8
