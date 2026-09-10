@@ -74,6 +74,7 @@ http://179.60.224.196:8000/play/a0hn/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",tooncast
+http://181.78.211.244:8000/play/a08y/index.m3u8
 http://181.78.211.244:8005/play/a08y/index.m3u8
 http://186.33.27.9:8000/play/a01e/index.m3u8
 http://179.60.224.196:8000/play/a0hp/index.m3u8
@@ -327,6 +328,7 @@ http://209.14.108.65:8000/play/a01q/index.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://186.33.27.9:8000/play/a031/index.m3u8
+http://200.62.239.170:830/play/a069/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://179.60.51.134:8888/NATGEO/index.m3u8
 http://177.245.131.133:8080/NATGEO/index.m3u8
@@ -400,12 +402,9 @@ http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 http://191.97.49.82:8001/play/a001/index.m3u8
 http://45.170.40.11:29124/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
-http://45.190.28.50/CINEMAX/playlist.m3u8
-http://190.83.85.68:80/cinemax/index.m3u8
-http://190.83.2.178:8090/CINEMAX/index.m3u8
-http://179.60.51.134:8888/CINEMAX/index.m3u8
+http://200.62.239.170:830/play/a02j/index.m3u8
 http://181.224.255.210:8001/play/a0mk/index.m3u8
-http://181.78.0.107:8006/play/a07t/index.m3u8
+http://190.83.85.68:80/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.60.39.219:8000/play/a08j/index.m3u8
 http://190.61.101.11:7050/play/a084/index.m3u8
