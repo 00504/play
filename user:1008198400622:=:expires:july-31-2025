@@ -3,6 +3,7 @@
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
 http://168.228.44.241:9999/play/a042/index.m3u8
+http://186.33.27.9:8000/play/a00f/index.m3u8
 http://45.167.2.138:8000/play/a0qp/index.m3u8
 https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
 http://190.61.34.164:8000/play/a00f/index.m3u8
@@ -15,6 +16,7 @@ https://www.lencatelevision.com/hls/0/stream.m3u8
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
 http://168.228.44.241:9999/play/a044/index.m3u8
+http://186.33.27.9:8000/play/a00k/index.m3u8
 http://45.167.2.138:8000/play/a0qs/index.m3u8
 http://186.33.27.9:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
@@ -50,9 +52,9 @@ https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN China ES
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pa%C3%ADs_TV.png" group-title="Música",PAÍS TV
@@ -65,15 +67,20 @@ https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
+http://179.1.210.206:8097/play/a09c/index.m3u8
+http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
+http://179.1.210.206:8097/play/a07d/index.m3u8
 http://168.228.44.241:9998/play/a015/index.m3u8
 http://179.60.224.196:8000/play/a0hn/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",tooncast
+http://179.1.210.206:8097/play/a024/index.m3u8
+http://186.33.27.9:8000/play/a01e/index.m3u8
 http://181.78.211.244:8000/play/a08y/index.m3u8
 http://181.78.211.244:8005/play/a08y/index.m3u8
 http://186.33.27.9:8000/play/a01e/index.m3u8
@@ -97,6 +104,7 @@ http://181.119.108.43:9001/play/a06n/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+http://186.33.27.9:8000/play/a00o/index.m3u8
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 http://72.1.184.5:8089/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="Freetv.com" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
@@ -139,17 +147,12 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="elgourmet.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/El_Gourmet.png" group-title="Gastronomía",el Gourmet
 http://181.78.0.107:8006/play/a083/index.m3u8
-http://190.60.48.151:8010/play/a03j/index.m3u8
 http://179.1.199.50:9000/play/a0as/index.m3u8
-http://216.28.215.11:8000/play/a0ew/index.m3u8
-http://216.28.215.9:8000/play/a0ew/index.m3u8
-http://181.119.108.43:9001/play/a0d7/index.m3u8
 http://170.247.204.9:8000/play/a0a4/index.m3u8u
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",gusto tv
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-http://38.211.118.57:50002/play/a0fb/index.m3u8
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://186.33.27.9:8000/play/a02k/index.m3u8
@@ -208,6 +211,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
 http://190.105.128.198:5800/play/a07w/index.m3u8
+http://179.1.210.206:8097/play/a09e/index.m3u8
 http://205.235.6.29:8000/play/a0xe/index.m3u8
 http://181.78.8.199:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
@@ -280,6 +284,8 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Animal_Planet.png" group-title="Documentales",animal planet
 http://168.228.44.241:9998/play/a02g/index.m3u8
+http://179.1.202.34:45000/play/a08i/index.m3u8
+http://186.33.27.9:8000/play/a02r/index.m3u8
 http://132.255.210.69:8000/play/a01k/index.m3u8
 http://186.33.0.57:8000/play/a01v/index.m3u8
 http://72.1.184.5:8089/play/a05c/index.m3u8
@@ -358,8 +364,7 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
 http://181.209.38.115:8000/play/a00p/index.m3u8
-http://205.235.6.29:8000/play/a0mh/index.m3u8
-http://45.170.40.11:29124/play/a00v/index.m3u8
+http://45.226.28.9:8085/Live/f6a4fcaf4ec8aba3143d297b68b311f6/local-telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://186.33.27.9:8000/play/a00q/index.m3u8
 http://168.228.44.241:9998/play/a097/index.m3u8
@@ -422,6 +427,7 @@ http://200.229.147.210:9999/play/a0al/index.m3u8
 http://179.60.51.134:8888/FX/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
 http://179.1.158.52:8000/play/a0eb/index.m3u8
+http://179.1.202.34:45000/play/a0m5/index.m3u8
 http://209.61.12.132:9000/play/a073/index.m3u8
 http://168.228.44.241:9998/play/a0at/index.m3u8
 http://190.61.116.107:9999/play/a0a5/index.m3u8
@@ -461,6 +467,7 @@ http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
+http://190.14.241.209:8001/play/a09s/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 http://186.33.0.101:4430/play/ch89/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
@@ -471,6 +478,7 @@ http://45.190.28.50/HBO_EXTREME_HD/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Peliculas",SONY CHANNEL
 http://190.121.140.222:8081/SONY/index.m3u8
+http://186.33.27.9:8000/play/a00b/index.m3u8
 http://186.33.27.9:8000/play/a00b/index.m3u8
 http://209.61.12.132:9000/play/a09n/index.m3u8
 http://132.255.210.69:8000/play/a03i/index.m3u8
@@ -528,6 +536,7 @@ http://186.33.0.57:8000/play/a04h/index.m3u8
 http://38.225.117.1:9005/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/USA_Network.png" group-title="Series",USA
 http://138.94.3.106:8000/play/a00g/index.m3u8
+http://186.33.27.9:8000/play/a04l/index.m3u8
 http://186.33.0.101:4430/play/ch40/index.m3u8
 http://186.33.27.9:8000/play/a04l/index.m3u8
 http://138.121.15.230:9002/USA/index.m3u8
