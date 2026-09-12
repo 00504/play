@@ -330,6 +330,7 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="Telenovelas",Latina
+http://38.187.2.170:9999/play/a08q/index.m3u8
 http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
@@ -447,8 +448,8 @@ http://186.33.0.101:4430/play/ch47/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 http://45.190.13.8/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Family.png" group-title="Peliculas",HBO family
-http://190.14.241.209:8001/play/a08t/index.m3u8
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+http://190.14.241.209:8001/play/a08t/index.m3u8
 http://190.14.241.209:8001/play/a08t/index.m3u8
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 http://181.119.177.253:8000/play/a010/index.m3u8
@@ -463,13 +464,14 @@ http://45.190.13.8/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
-http://190.14.241.209:8001/play/a0fp/index.m3u8
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+http://190.14.241.209:8001/play/a0fp/index.m3u8
 http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
+http://38.187.2.170:9999/play/a0ea/index.m3u8
 http://186.33.0.101:4430/play/ch89/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://181.119.177.253:8000/play/a011/index.m3u8
