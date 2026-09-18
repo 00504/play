@@ -118,6 +118,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 #EXTINF:-1 tvg-id="cc.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Comedy_Central.png" group-title="Entretenimiento",Comedy Central
 http://181.224.255.210:8001/play/a0ew/index.m3u8
+http://187.102.208.83:8000/play/a02p/index.m3u8
 http://181.78.0.107:8006/play/a08a/index.m3u8
 http://45.170.40.11:29125/play/a018/index.m3u8
 http://45.173.75.4:2061/play/a09h
@@ -152,6 +153,7 @@ https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/e
 http://191.97.61.32:8000/play/a05v/index.m3u8
 http://181.78.0.107:8006/play/a083/index.m3u8
 http://179.1.199.50:9000/play/a0as/index.m3u8
+http://187.102.208.83:8000/play/a02q/index.m3u8
 http://170.247.204.9:8000/play/a0a4/index.m3u8u
 #EXTINF:-1 tvg-id="gustotv.com" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Gastronomía",gusto tv
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
@@ -160,6 +162,7 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://186.33.27.9:8000/play/a02k/index.m3u8
+http://187.102.208.83:8000/play/a03z/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://186.33.0.57:8000/play/a01p/index.m3u8
 http://190.83.85.68/history/index.m3u8
@@ -330,12 +333,14 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="Telenovelas",Latina
+http://187.102.208.83:8000/play/a05e/index.m3u8
 http://38.224.231.47:8000/play/a00g/index.m3u8
 http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
 http://186.33.27.9:8000/play/a031/index.m3u8
+http://187.102.208.83:8000/play/a04g/index.m3u8
 http://200.62.239.170:830/play/a069/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://179.60.51.134:8888/NATGEO/index.m3u8
@@ -395,6 +400,7 @@ http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
 http://15.204.246.24:8080/AXNHD/index.m3u8
+http://187.102.208.83:8000/play/a045/index.m3u8
 http://179.1.110.145:9000/play/a005/index.m3u8
 http://179.1.158.52:8000/play/a0dw/index.m3u8
 http://45.228.235.116:8000/play/a0iy/index.m3u8
@@ -445,6 +451,7 @@ http://38.225.117.1:9005/play/a00j/index.m3u8
 http://45.190.13.8/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_2.png" group-title="Peliculas",HBO2
 http://186.33.27.9:8000/play/a00e/index.m3u8
+http://187.102.208.209:8000/play/a0an/index.m3u8
 http://186.33.0.57:8000/play/a00n/index.m3u8
 http://186.33.0.101:4430/play/ch47/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
