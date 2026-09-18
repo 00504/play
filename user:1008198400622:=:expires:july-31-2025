@@ -330,7 +330,6 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="Telenovelas",Latina
-http://38.187.2.170:9999/play/a08q/index.m3u8
 http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
@@ -432,7 +431,7 @@ http://191.97.61.32:8000/play/a07q/index.m3u8
 http://179.1.158.52:8000/play/a0eb/index.m3u8
 http://209.61.12.132:9000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/G_Premier.png" group-title="Peliculas",GOLDEN PREMIER
-http://190.61.116.107:9999/play/a0a5/index.m3u8
+http://168.228.44.241:9998/play/a00t/index.m3u8
 http://200.115.96.66:4000/play/a01r/index.m3u8
 http://38.225.117.1:9005/play/a01x/index.m3u8
 http://179.1.202.34:45000/play/a0m5/index.m3u8
