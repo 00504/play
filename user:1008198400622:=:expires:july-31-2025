@@ -100,6 +100,7 @@ https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://45.228.235.116:8000/play/a05q/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://181.119.108.43:9001/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
@@ -393,11 +394,11 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
-http://190.14.241.209:8001/play/a0a7/index.m3u8
+http://15.204.246.24:8080/AXNHD/index.m3u8
 http://179.1.110.145:9000/play/a005/index.m3u8
 http://179.1.158.52:8000/play/a0dw/index.m3u8
+http://45.228.235.116:8000/play/a0iy/index.m3u8
 http://179.60.51.134:8888/AXN/index.m3u8
-http://45.190.13.8/AXNHD/index.m3u8
 http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
 http://45.170.130.224:8000/play/a03g/index.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/52479.m3u8
@@ -471,6 +472,7 @@ http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
+http://45.228.235.116:8000/play/a0l6/index.m3u8
 http://38.187.2.170:9999/play/a0ea/index.m3u8
 http://186.33.0.101:4430/play/ch89/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
