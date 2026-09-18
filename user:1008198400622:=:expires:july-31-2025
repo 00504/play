@@ -472,20 +472,19 @@ http://45.190.13.8/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
+http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 http://190.14.241.209:8001/play/a0fp/index.m3u8
-http://179.1.146.22:8000/play/a0hg/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
+http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 http://45.228.235.116:8000/play/a0l6/index.m3u8
 http://38.187.2.170:9999/play/a0ea/index.m3u8
 http://186.33.0.101:4430/play/ch89/index.m3u8
-http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://181.119.177.253:8000/play/a011/index.m3u8
 http://181.78.0.107:8006/play/a089/index.m3u8
-http://45.190.28.50/HBO_EXTREME_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Peliculas",SONY CHANNEL
