@@ -70,7 +70,9 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 http://179.1.210.206:8097/play/a09c/index.m3u8
 http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
+http://181.209.105.115:2525/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
+https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
 http://179.1.210.206:8097/play/a07d/index.m3u8
@@ -229,10 +231,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Deportes_TVC.png" group-title="Deportes",DEPORTES TVC
 http://186.33.20.56:4000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+http://181.209.105.115:2525/play/dsports1/index.m3u8
 http://190.108.93.180:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://181.78.0.107:8006/play/a08p/index.m3u8
@@ -330,6 +329,7 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8?ip=212.227.32.2
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Latina_TV.png" group-title="Telenovelas",Latina
+http://38.224.231.47:8000/play/a00g/index.m3u8
 http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
@@ -363,6 +363,7 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
+http://181.209.105.115:2525/play/telefe/index.m3u8
 http://181.209.38.115:8000/play/a00p/index.m3u8
 http://45.226.28.9:8085/Live/f6a4fcaf4ec8aba3143d297b68b311f6/local-telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
@@ -410,6 +411,7 @@ http://45.170.40.11:29124/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/CineMAX.png" group-title="Peliculas",CineMAX HD
 http://200.62.239.170:830/play/a02j/index.m3u8
 http://181.224.255.210:8001/play/a0mk/index.m3u8
+http://38.224.231.47:8000/play/a027/index.m3u8
 http://190.83.85.68:80/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
 http://190.60.39.219:8000/play/a08j/index.m3u8
@@ -441,10 +443,10 @@ http://38.225.117.1:9005/play/a00l/index.m3u8
 http://38.225.117.1:9005/play/a00j/index.m3u8
 http://45.190.13.8/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_2.png" group-title="Peliculas",HBO2
+http://15.204.246.24:8080/HBO2HD/index.m3u8
 http://186.33.27.9:8000/play/a00e/index.m3u8
 http://186.33.0.57:8000/play/a00n/index.m3u8
 http://186.33.0.101:4430/play/ch47/index.m3u8
-http://15.204.246.24:8080/HBO2HD/index.m3u8
 http://45.190.13.8/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Family.png" group-title="Peliculas",HBO family
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
