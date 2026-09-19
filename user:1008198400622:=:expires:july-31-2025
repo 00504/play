@@ -93,6 +93,7 @@ http://168.228.44.241:9998/play/a00o/index.m3u8
 http://45.167.2.138:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://168.228.44.241:9998/play/a0cy/index.m3u8
+http://168.228.44.241:9997/play/a00z/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://181.119.108.43:9001/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
@@ -106,6 +107,7 @@ http://181.119.108.43:9001/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
+http://168.228.44.241:9998/play/a00n/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 http://186.33.27.9:8000/play/a00o/index.m3u8
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
@@ -207,8 +209,8 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://168.228.44.241:9997/play/a080/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
-http://181.119.108.43:9001/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
 http://181.78.197.59:8000/play/a06x/index.m3u8
 http://186.33.0.57:8000/play/a020/index.m3u8
@@ -233,7 +235,9 @@ https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Deportes_TVC.png" group-title="Deportes",DEPORTES TVC
-http://186.33.20.56:4000/play/a0a6/index.m3u8
+http://168.228.44.241:9998/play/a09m/index.m3u8
+http://168.228.44.241:9997/play/a00j/index.m3u8
+http://168.228.44.241:9999/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
 http://181.209.105.115:2525/play/dsports1/index.m3u8
 http://190.108.93.180:8000/play/a054/index.m3u8
@@ -286,6 +290,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Animal_Planet.png" group-title="Documentales",animal planet
+http://168.228.44.241:9997/play/a017/index.m3u8
 http://168.228.44.241:9998/play/a02g/index.m3u8
 http://179.1.202.34:45000/play/a08i/index.m3u8
 http://186.33.27.9:8000/play/a02r/index.m3u8
@@ -478,6 +483,7 @@ http://190.14.241.209:8001/play/a0fp/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
 http://181.119.84.107:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
+http://168.228.44.241:9997/play/a00f/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 http://45.228.235.116:8000/play/a0l6/index.m3u8
