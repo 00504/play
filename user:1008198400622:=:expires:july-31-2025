@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/SV_Plus.png" group-title="Variedades",SV+ Plus
+https://live.powerapp.com.tr/powerplus/abr/playlist.m3u8
+https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
 http://168.228.44.241:9999/play/a042/index.m3u8
@@ -367,7 +369,11 @@ http://168.228.44.241:9998/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",PLOUS tv
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="powerapp.com.tr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/POWER_TV.png" group-title="Música",POWER tv
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="powerapp.com.tr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/POWER_dance.png" group-title="Música",POWER dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="m2o.it/m2o-tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Radio_m2o.png" group-title="Música",radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
