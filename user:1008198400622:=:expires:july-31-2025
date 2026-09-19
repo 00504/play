@@ -208,6 +208,7 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://179.27.165.218:8000/play/a01l
 http://168.228.44.241:9997/play/a080/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
