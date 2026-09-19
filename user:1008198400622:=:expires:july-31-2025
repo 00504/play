@@ -72,7 +72,6 @@ http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
 http://181.209.105.115:2525/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
-https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
 http://179.1.210.206:8097/play/a07d/index.m3u8
@@ -411,15 +410,13 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
+http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
 http://15.204.246.24:8080/AXNHD/index.m3u8
 http://187.102.208.83:8000/play/a045/index.m3u8
 http://179.1.110.145:9000/play/a005/index.m3u8
 http://179.1.158.52:8000/play/a0dw/index.m3u8
-http://45.228.235.116:8000/play/a0iy/index.m3u8
-http://179.60.51.134:8888/AXN/index.m3u8
-http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
-http://45.170.130.224:8000/play/a03g/index.m3u8
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/52479.m3u8
+#EXTINF:-1 tvg-id="bombitv.online" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/BOMBI_tv.png" group-title="Peliculas",BOMBI tv
+https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
 http://181.78.0.107:8006/play/a077/index.m3u8
 http://132.255.210.69:8000/play/a03j/index.m3u8
