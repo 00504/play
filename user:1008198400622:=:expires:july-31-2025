@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/SV_Plus.png" group-title="Variedades",SV+ Plus
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1789790883/ei/Q7atavDJC9eS-LAP4paYyQk/ip/179.41.25.158/id/x_VzAPQuzFQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/hightc/yes/ss/1/siu/1/bui/AR3QkAkRV4Nb_XuXnbo0EFXgl5ZZuTsb9pXJCs6tNdbqidWcLCw4nHA-yxVeRtWZMgIZI2jE6Q/spc/I-rgITjX6_vIE1tuhCBEp2cKZ5Lvsl6bI6ZYcDpNzU2NGqLID1WyO5ls0b_XCaOs1U-e/vprv/1/go/1/ns/93dEAd3GE2NPOsDWu0bpdBsY/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/11/n/O40opVMI9yiLZQ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgWUj2IYOJWpXipo-nLBHdKvcfzXggQeHxkEEliMjvdUwCICCYsdbc17c_RP80xQJ-dQCGYutlEhZ-WwEJGIHhgQHl/file/index.m3u8
-https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
 http://168.228.44.241:9999/play/a042/index.m3u8
@@ -47,10 +45,10 @@ https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_Tribuna.png" group-title="Noticias",La Tribuna TV
 https://amixtv.com:8081/ltvhn/index.m3u8
+#EXTINF:-1 tvg-id="qhubotv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Q'hubo_TV.png" group-title="Noticias",Q'hubo TV
+https://amixtv.com:8081/qhubotv/index.m3u8
 #EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Suyapa_Medios.png" group-title="Religioso",Suyapa Medios
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
-#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
-https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN China ES
@@ -376,6 +374,8 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="m2o.it/m2o-tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Radio_m2o.png" group-title="Música",radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
+https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",SULA tv
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
