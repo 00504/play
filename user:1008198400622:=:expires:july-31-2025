@@ -103,6 +103,7 @@ http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://45.228.235.116:8000/play/a05q/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://181.119.108.43:9001/play/a06n/index.m3u8
+http://195.178.110.110/azteca7/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
@@ -404,6 +405,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
+http://170.244.209.30:8000/play/a0h5/index.m3u8
 http://190.14.241.209:8001/play/a06x/index.m3u8
 http://190.83.2.182:8090/AMC_HD/index.m3u8
 http://15.204.246.24:8080/AMCHD/index.m3u8
@@ -452,10 +454,12 @@ http://200.115.96.66:4000/play/a01r/index.m3u8
 http://38.225.117.1:9005/play/a01x/index.m3u8
 http://179.1.202.34:45000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
+http://170.244.209.30:8000/play/a028/index.m3u8
 http://168.228.44.241:9997/play/a00b/index.m3u8
 http://38.225.117.1:9005/play/a00j/index.m3u8
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_2.png" group-title="Peliculas",HBO2
+http://170.244.209.30:8000/play/a029/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 http://186.33.27.9:8000/play/a00e/index.m3u8
 http://187.102.208.209:8000/play/a0an/index.m3u8
