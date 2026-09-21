@@ -290,13 +290,12 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Animal_Planet.png" group-title="Documentales",animal planet
-http://168.228.44.241:9997/play/a017/index.m3u8
-http://168.228.44.241:9998/play/a02g/index.m3u8
-http://179.1.202.34:45000/play/a08i/index.m3u8
-http://186.33.27.9:8000/play/a02r/index.m3u8
-http://132.255.210.69:8000/play/a01k/index.m3u8
-http://186.33.0.57:8000/play/a01v/index.m3u8
 http://72.1.184.5:8089/play/a05c/index.m3u8
+http://186.33.0.57:8000/play/a01v/index.m3u8
+http://186.33.27.9:8000/play/a02r/index.m3u8
+http://179.1.202.34:45000/play/a08i/index.m3u8
+http://132.255.210.69:8000/play/a01k/index.m3u8
+http://168.228.44.241:9998/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://168.228.44.241:9998/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery home&healt
