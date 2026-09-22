@@ -408,7 +408,6 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
-http://45.190.187.183:8080/play/a17y
 http://190.97.183.101:8028/play/a13s/index.m3u8
 http://187.102.208.83:8000/play/a045/index.m3u8
 http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
