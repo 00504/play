@@ -4,9 +4,6 @@ https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal2_SV.png" group-title="Variedades",Canal 2 SV
 http://168.228.44.241:9999/play/a042/index.m3u8
 http://186.33.27.9:8000/play/a00f/index.m3u8
-http://45.167.2.138:8000/play/a0qp/index.m3u8
-https://teleon.tv/stream/cG5wODQ3ODEzM3BucDg0.m3u8
-http://190.61.34.164:8000/play/a00f/index.m3u8
 http://190.61.114.186:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-logo="https://i.imgur.com/GEyxDnf.png" group-title="Variedades",TSi
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -17,14 +14,15 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_SV.png" group-title="Variedades",Canal 6 SV
 http://168.228.44.241:9999/play/a044/index.m3u8
 http://186.33.27.9:8000/play/a00k/index.m3u8
-http://45.167.2.138:8000/play/a0qs/index.m3u8
-http://186.33.27.9:8000/play/a00k/index.m3u8
+http://190.61.114.186:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TelePais.png" group-title="Variedades",TelePaís
-https://viewhn.com/teleprogreso/live/playlist.m3u8
 https://viewhn.com/teleprogreso/live/chunks.m3u8
+https://viewhn.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VTV_HN.png" group-title="Variedades",VTV
+https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
+https://d1ltwd340qrchf.cloudfront.net/7_4/index.m3u8
 https://dx0vh388d2yli.cloudfront.net/ts:abr.m3u8
 https://dx0vh388d2yli.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DW_Espa%C3%B1ol.png" group-title="Documentales",DW en Español
@@ -34,15 +32,13 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="canal12.com.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal12_SV.png" group-title="Variedades",Canal 12 SV
 https://d17lud7ibb9z58.cloudfront.net/ts:abr.m3u8
 https://d17lud7ibb9z58.cloudfront.net/medialist_15609871089997455276_hls.m3u8
-https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="ednhn.com" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Noticias",EDN TV
+http://168.228.44.241:9999/play/a00h/index.m3u8
 https://streamingcws30.com/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="globotvhonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Globo_TV.png" group-title="Noticias",Globo TV
-https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
-https://stream.radiosmundiales.com:19360/globotvhonduras/globotvhonduras.m3u8
+https://stream.condoristream.com/live/g2pFZAuNDeqeDdDBr7PEqngdC7TzxFWl/index.m3u8
 #EXTINF:-1 tvg-id="icndigital.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ICN_Digital.png" group-title="Noticias",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
-https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="ltv.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/La_Tribuna.png" group-title="Noticias",La Tribuna TV
 https://amixtv.com:8081/ltvhn/index.m3u8
 #EXTINF:-1 tvg-id="suyapamedios.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Suyapa_Medios.png" group-title="Religioso",Suyapa Medios
@@ -50,15 +46,15 @@ https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 tvg-id="stvetelebasica.com" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Variedades",STVE Telebásica
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="Variedades",Megavisión Canal 19
-https://liveassets.encoders.immergo.tv/megasvision/uvod-live-encoder-1day/mgvchannel19/master.m3u8
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+https://liveassets.encoders.immergo.tv/megasvision/uvod-live-encoder-1day/mgvchannel19/master.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Documentales",CGTN China ES
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="Variedades",Megavisión Canal 21
-https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="tvpaishonduras.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Pa%C3%ADs_TV.png" group-title="Música",PAÍS TV
 https://rad-net.com/PaisTv/123/playlist.m3u8
 #EXTINF:-1 tvg-id="unetvhn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Une_TV.png" group-title="Noticias",UNE TV
@@ -109,6 +105,7 @@ http://195.178.110.110/azteca7/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
+http://190.61.114.186:8000/play/a00o/index.m3u8
 http://168.228.44.241:9998/play/a00n/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 http://186.33.27.9:8000/play/a00o/index.m3u8
