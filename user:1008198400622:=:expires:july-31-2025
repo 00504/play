@@ -71,9 +71,8 @@ http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
 http://181.209.105.115:2525/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
-https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
-http://200.115.96.61:9090/play/a065/index.m3u8
 http://186.33.40.97:8789/play/10
+https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
 http://179.1.210.206:8097/play/a07d/index.m3u8
@@ -93,14 +92,15 @@ http://168.228.44.241:9999/play/a043/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://45.167.2.138:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
-http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://168.228.44.241:9997/play/a00z/index.m3u8
+http://168.228.44.241:9998/play/a0cy/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://181.119.108.43:9001/play/a0k2/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
 https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
+http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://45.228.235.116:8000/play/a05q/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
@@ -204,8 +204,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
-http://179.27.165.218:8000/play/a01l
+http://179.60.224.196:8000/play/a0iz/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
+http://179.27.165.218:8000/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleHit_Musica.png" group-title="Música",TELEHIT MUSICA
 http://168.228.44.241:9997/play/a080/index.m3u8
 http://168.228.44.241:9998/play/a0c3/index.m3u8
