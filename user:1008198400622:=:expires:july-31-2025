@@ -71,6 +71,7 @@ http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
 http://181.209.105.115:2525/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
+http://38.137.192.250:8000/play/fe2s
 http://186.33.40.97:8789/play/10
 https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
@@ -451,11 +452,13 @@ http://181.78.0.107:8006/play/a079/index.m3u8
 http://200.229.147.210:9999/play/a0al/index.m3u8
 http://179.60.51.134:8888/FX/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
+http://170.244.209.30:8000/play/a15l/index.m3u8
 http://191.97.61.32:8000/play/a07q/index.m3u8
 http://179.1.158.52:8000/play/a0eb/index.m3u8
 http://209.61.12.132:9000/play/a073/index.m3u8
 http://168.228.44.241:9998/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/G_Premier.png" group-title="Peliculas",GOLDEN PREMIER
+http://170.244.209.30:8000/play/a00m/index.m3u8
 http://168.228.44.241:9997/play/a06m/index.m3u8
 http://168.228.44.241:9998/play/a00t/index.m3u8
 http://190.105.128.198:5800/play/a02l/index.m3u8
