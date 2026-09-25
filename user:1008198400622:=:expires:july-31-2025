@@ -534,8 +534,6 @@ http://179.60.51.134:8888/SPACE/index.m3u8
 http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
-http://179.60.224.196:8000/play/a0ha/index.m3u8
-http://24.152.54.30:8085/play/a03e
 http://179.1.199.50:9000/play/a07t/index.m3u8
 http://179.1.110.145:9000/play/a07t/index.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
