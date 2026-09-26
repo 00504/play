@@ -253,7 +253,7 @@ http://168.228.44.241:9998/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
 http://181.78.0.107:8006/play/a07k/index.m3u8
 http://168.228.44.241:9998/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",Formula 1
+#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",F1 Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
