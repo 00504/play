@@ -354,6 +354,7 @@ http://179.60.51.134:8888/NATGEO/index.m3u8
 http://177.245.131.133:8080/NATGEO/index.m3u8
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
+pipe:///usr/bin/ffmpeg -hide_banner -loglevel fatal -reconnect 1 -reconnect_on_network_error 1 -reconnect_on_http_error 1 -reconnect_streamed 1 -reconnect_delay_max 4294 -fflags +genpts -err_detect ignore_err -i "http://88.212.15.19/live/ngw_hun/index.m3u8" -c copy -f mpegts pipe:1
 http://88.212.15.29/live/test_ngw/playlist.m3u8
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
