@@ -110,6 +110,7 @@ http://195.178.110.110/azteca7/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
+http://45.182.22.53:8000/play/a07k/index.m3u8
 http://190.61.114.186:8000/play/a00o/index.m3u8
 http://168.228.44.241:9998/play/a00n/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
