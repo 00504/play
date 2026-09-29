@@ -101,7 +101,6 @@ http://181.119.108.43:9001/play/a0k2/index.m3u8
 https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
-http://45.182.22.53:8000/play/a0e5/index.m3u8
 http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 http://168.228.44.241:9998/play/a0cx/index.m3u8
 http://45.228.235.116:8000/play/a05q/index.m3u8
@@ -277,7 +276,6 @@ http://186.33.27.9:8000/play/a01o/index.m3u8
 http://168.228.44.241:9998/play/a0b0/index.m3u8
 http://179.60.224.196:8000/play/a0f4/index.m3u8
 http://167.250.223.26:9998/play/a05z/index.m3u8
-http://181.119.108.43:9001/play/a06z/index.m3u8
 http://45.190.13.8/TUDNHD/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://200.115.96.61:9090/play/a0jb/index.m3u8
@@ -288,7 +286,6 @@ http://45.5.118.139:8000/play/a05r/index.m3u8
 http://181.78.0.107:8006/play/a08t/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
@@ -300,7 +297,6 @@ http://186.33.0.57:8000/play/a01v/index.m3u8
 http://186.33.27.9:8000/play/a02r/index.m3u8
 http://179.1.202.34:45000/play/a08i/index.m3u8
 http://132.255.210.69:8000/play/a01k/index.m3u8
-http://168.228.44.241:9998/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Channel.png" group-title="Documentales",Discovery Channel
 http://168.228.44.241:9997/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery home&healt
