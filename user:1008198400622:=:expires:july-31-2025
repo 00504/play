@@ -365,6 +365,8 @@ http://170.247.204.9:8000/play/a04j/index.m3u8
 http://168.228.44.241:9998/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="ploustv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Plous_TV.png" group-title="Entretenimiento",PLOUS tv
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="pmc.live" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/PMC_Music.png" group-title="Música",PMC tv
+https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="powerapp.com.tr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/POWER_dance.png" group-title="Música",POWER dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="powerapp.com.tr" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/POWER_TV.png" group-title="Música",POWER tv
