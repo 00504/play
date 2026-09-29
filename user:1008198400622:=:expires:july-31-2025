@@ -255,7 +255,7 @@ http://168.228.44.241:9998/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN4.png" group-title="Deportes",ESPN 4
 http://181.78.0.107:8006/play/a07k/index.m3u8
 http://168.228.44.241:9998/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",F1 Channel
+#EXTINF:-1 tvg-id="formula1.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Formula1_TV.png" group-title="Deportes",F1 TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
@@ -282,10 +282,9 @@ http://200.115.96.61:9090/play/a0jb/index.m3u8
 http://168.228.44.241:9998/play/a0c4/index.m3u8
 http://45.5.118.139:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
-http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://181.78.0.107:8006/play/a08t/index.m3u8
+http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
-http://179.60.51.134:8888/CARACOL/index.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
@@ -354,7 +353,8 @@ http://179.60.51.134:8888/NATGEO/index.m3u8
 http://177.245.131.133:8080/NATGEO/index.m3u8
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
-http://88.212.15.29/live/test_ngw/playlist.m3u8?buffer=5000
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+http://176.65.153.78:8201/play/a085/index.m3u8
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nickelodeon.png" group-title="Infantiles",nickelodeon
 http://179.1.158.52:8000/play/a09z/index.m3u8
@@ -415,6 +415,7 @@ http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
 http://179.1.199.50:9000/play/a005/index.m3u8
+http://190.61.90.17:40000/play/a0iy/index.m3u8
 http://190.97.183.101:8028/play/a13s/index.m3u8
 http://187.102.208.83:8000/play/a045/index.m3u8
 http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
