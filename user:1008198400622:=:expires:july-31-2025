@@ -405,6 +405,8 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="rtve.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Noticias",tve Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="wtvnicaragua.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/WTV.png" group-title="Variedades",Wtv HD
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://170.244.209.30:8000/play/a0h5/index.m3u8
 http://190.14.241.209:8001/play/a06x/index.m3u8
