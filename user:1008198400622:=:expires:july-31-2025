@@ -241,9 +241,9 @@ http://168.228.44.241:9998/play/a09m/index.m3u8
 http://168.228.44.241:9997/play/a00j/index.m3u8
 http://168.228.44.241:9999/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
+http://187.102.208.209:8000/play/a09n/index.m3u8
 http://191.52.214.129:8000/play/a06gx/index.m3u8
 http://181.209.105.115:2525/play/dsports1/index.m3u8
-http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://181.78.0.107:8006/play/a08p/index.m3u8
 http://168.228.44.241:9998/play/a069/index.m3u8
@@ -284,8 +284,8 @@ http://168.228.44.241:9997/play/a072/index.m3u8
 http://45.228.235.116:8000/play/a05r/index.m3u8
 http://45.5.118.139:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
-http://181.78.0.107:8006/play/a08t/index.m3u8
 http://179.1.199.50:9000/play/a0a1/index.m3u8
+http://181.78.0.107:8006/play/a08t/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="conectatv.com.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Conecta_TV.png" group-title="Música",Conecta TV
 https://stream8.mexiserver.com:2000/hls/conectatvx/conectatvx.m3u8
@@ -385,14 +385,8 @@ http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telebolivar.com.co" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Bol%C3%ADbar.png" group-title="Variedades",TeleBolívar
 https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2011cbe516d44139652945f72781552:971bd2bf2c3ebc1c296624c9edcb6488
-https://anedgeros.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMDEwODg0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2MxZWRzL1RlbGVmZS9TQV9EQVNIX2NpcGl4LyIsInNlc3Npb25fY2RuX2lkIjoiZjI0Zjg1YjM3OWUzOGZmNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiI2Mzc0OCIsImRldmljZV9pZCI6IjIyNDU0NDYiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTkwLjIuMTA1LjIyNSIsInNlc3Npb25fdGltZW91dCI6MTIwMCwiYXVkIjoiNCIsInNvdXJjZXMiOls0XX0=.krAjMotglyAeh8zsQ0mu9T4MCqSUM9ih4DiMwiBsomrexv-_eadU5OGY3ZBq88UcTf3CZnR9f5Yva0KqGGFWCw==/live/c1eds/Telefe/SA_DASH_cipix/Telefe.mpd?token=M9qLx3VpR7zTa2NcY8kWf6HsDj4EuB1pGo5XiAnQz&dvr_window_length=36000
-http://195.178.110.110/telefe/index.m3u8
-http://181.209.105.115:2525/play/telefe/index.m3u8
 http://181.209.38.115:8000/play/a00p/index.m3u8
-http://45.226.28.9:8085/Live/f6a4fcaf4ec8aba3143d297b68b311f6/local-telefe.playlist.m3u8
+http://195.178.110.110/telefe/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
 http://186.33.27.9:8000/play/a00q/index.m3u8
 http://168.228.44.241:9998/play/a097/index.m3u8
