@@ -163,6 +163,7 @@ http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
 http://181.119.66.28:8081/History-HD/index.m3u8
+http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://186.33.27.9:8000/play/a02k/index.m3u8
 http://186.33.0.57:8000/play/a01p/index.m3u8
 http://187.102.208.83:8000/play/a03z/index.m3u8
@@ -226,6 +227,7 @@ http://179.1.210.206:8097/play/a09e/index.m3u8
 http://205.235.6.29:8000/play/a0xe/index.m3u8
 http://181.78.8.199:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
 http://181.78.197.59:8000/play/a089/index.m3u8
 http://168.228.44.241:9997/play/a01n/index.m3u8
 http://186.33.0.57:8000/play/a05v/index.m3u8
@@ -413,6 +415,7 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
+http://15.204.246.24:8080/AXNHD/index.m3u8
 http://179.1.199.50:9000/play/a005/index.m3u8
 http://190.61.90.17:40000/play/a0iy/index.m3u8
 http://190.97.183.101:8028/play/a13s/index.m3u8
@@ -555,6 +558,7 @@ http://190.61.101.11:7050/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT_Series.png" group-title="Series",TNT Series
 http://190.60.59.60:8000/play/a0sk/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png" group-title="Series",UNIVERSAL Channel
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 http://181.78.0.107:8006/play/a06y/index.m3u8
 http://179.60.51.134:8888/UNIVERSAL/index.m3u8
 http://181.224.255.210:8001/play/a0lp/index.m3u8
