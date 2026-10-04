@@ -161,6 +161,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://181.119.66.28:8081/HISTORY-2/index.m3u8
+http://181.119.66.28:8081/History-HD/index.m3u8
 http://186.33.27.9:8000/play/a02k/index.m3u8
 http://186.33.0.57:8000/play/a01p/index.m3u8
 http://187.102.208.83:8000/play/a03z/index.m3u8
@@ -205,6 +207,7 @@ http://179.60.224.196:8000/play/a0iz/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
 http://179.27.165.218:8000/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleHit_Musica.png" group-title="Música",TELEHIT MUSICA
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 http://168.228.44.241:9997/play/a080/index.m3u8
 http://168.228.44.241:9998/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
@@ -419,6 +422,7 @@ http://15.204.246.24:8080/AXNHD/index.m3u8
 http://179.1.110.145:9000/play/a005/index.m3u8
 http://179.1.158.52:8000/play/a0dw/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cinecanal_LA.png" group-title="Peliculas",CINECANAL HD
+http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 http://181.78.0.107:8006/play/a077/index.m3u8
 http://154.12.110.211:9000/play/a0eb/index.m3u8
 http://132.255.210.69:8000/play/a03j/index.m3u8
@@ -529,9 +533,10 @@ http://179.60.51.134:8888/SPACE/index.m3u8
 http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://179.1.199.50:9000/play/a07t/index.m3u8
 http://179.1.110.145:9000/play/a07t/index.m3u8
-http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://72.1.184.5:8089/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="starz.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Starz.png" group-title="Peliculas",STARZ
 http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491413
