@@ -32,8 +32,6 @@ http://168.228.44.241:9998/play/a00n/index.m3u8
 http://186.33.27.9:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal11_HN.png" group-title="Variedades",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream2/chunks.m3u8
-https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/canal11hn/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="dw.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DW_Espa%C3%B1ol.png" group-title="Documentales",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -94,21 +92,23 @@ http://181.78.211.244:8005/play/a08y/index.m3u8
 http://186.33.27.9:8000/play/a01e/index.m3u8
 http://179.60.224.196:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+http://190.61.114.186:8000/play/a03o/index.m3u8
 http://168.228.44.241:9997/play/a07v/index.m3u8
 http://168.228.44.241:9999/play/a043/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
-http://45.167.2.138:8000/play/a0qq/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://45.167.253.246:8010/play/a00e/index.m3u8
 http://168.228.44.241:9997/play/a00z/index.m3u8
 http://168.228.44.241:9998/play/a0cy/index.m3u8
-http://45.167.253.246:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
 https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
-http://168.228.44.241:9997/play/AZTECA7/index.m3u8
-http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://195.178.110.110/azteca7/index.m3u8
+http://45.167.253.246:8010/play/a00o/index.m3u8
 http://45.228.235.116:8000/play/a05q/index.m3u8
+http://168.228.44.241:9998/play/a0cx/index.m3u8
+http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 http://45.167.253.246:8010/play/a00o/index.m3u8
 http://195.178.110.110/azteca7/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
@@ -205,13 +205,14 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
 http://179.60.224.196:8000/play/a0iz/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
-http://179.27.165.218:8000/playlist.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleHit_Musica.png" group-title="Música",TELEHIT MUSICA
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 http://168.228.44.241:9997/play/a080/index.m3u8
 http://168.228.44.241:9998/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+http://170.254.17.2:80/TELEMUNDO/index.m3u8
 http://168.228.44.241:9997/play/a07g/index.m3u8
+http://190.123.76.22:8002/play/a03v/index.m3u8
 http://181.78.197.59:8000/play/a06x/index.m3u8
 http://186.33.0.57:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
@@ -225,8 +226,8 @@ http://179.1.210.206:8097/play/a09e/index.m3u8
 http://205.235.6.29:8000/play/a0xe/index.m3u8
 http://181.78.8.199:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
-http://168.228.44.241:9997/play/a01n/index.m3u8
 http://181.78.197.59:8000/play/a089/index.m3u8
+http://168.228.44.241:9997/play/a01n/index.m3u8
 http://186.33.0.57:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
