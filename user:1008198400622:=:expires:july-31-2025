@@ -25,6 +25,7 @@ https://dx0vh388d2yli.cloudfront.net/ts:abr.m3u8
 https://dx0vh388d2yli.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://45.182.22.53:8000/play/a07k/index.m3u8
+http://45.167.2.101:8000/play/a0r8/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 https://teleon.tv/stream/cG5wODQ4MzUwN3BucDg0.m3u8
 http://190.61.114.186:8000/play/a00o/index.m3u8
@@ -163,6 +164,7 @@ https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
+http://45.167.2.101:8000/play/a0qf/index.m3u8
 http://181.119.66.28:8081/History-HD/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://186.33.27.9:8000/play/a02k/index.m3u8
@@ -205,6 +207,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://45.167.2.101:8000/play/a0sh/index.m3u8
 http://179.60.224.196:8000/play/a0iz/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleHit_Musica.png" group-title="Música",TELEHIT MUSICA
