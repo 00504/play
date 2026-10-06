@@ -409,12 +409,11 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="amctv.la" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AMC.png" group-title="Peliculas",AMC
 http://170.244.209.30:8000/play/a0h5/index.m3u8
-http://190.14.241.209:8001/play/a06x/index.m3u8
-http://190.83.2.182:8090/AMC_HD/index.m3u8
 http://15.204.246.24:8080/AMCHD/index.m3u8
 http://181.78.0.107:8006/play/a085/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="la.axn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/AXN_Channel.png" group-title="Peliculas",AXN
+http://24.152.54.30:8085/play/a04g
 http://179.1.199.50:9000/play/a005/index.m3u8
 http://190.61.90.17:40000/play/a0iy/index.m3u8
 http://190.97.183.101:8028/play/a13s/index.m3u8
@@ -430,23 +429,14 @@ http://181.78.0.107:8006/play/a077/index.m3u8
 http://154.12.110.211:9000/play/a0eb/index.m3u8
 http://132.255.210.69:8000/play/a03j/index.m3u8
 http://corgol.com@45.228.234.30:16000/play/a01q
-http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 http://191.97.49.82:8001/play/a001/index.m3u8
-http://45.170.40.11:29124/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="canaldhe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DHE_Channel.png" group-title="Peliculas",DHE
-http://190.60.39.219:8000/play/a08j/index.m3u8
+http://15.204.246.24:8080/DHEHD/index.m3u8
 http://190.61.101.11:7050/play/a084/index.m3u8
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-http://190.60.39.221:8000/play/a08j/index.m3u8
-http://190.60.57.58:8000/play/a11h/index.m3u8
-http://200.229.147.210:9999/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="fxnetworks.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/FX_Channel.png" group-title="Peliculas",FX HD
 http://15.204.246.24:8080/FXHD/index.m3u8
 http://186.33.0.57:8000/play/a021/index.m3u8
-http://24.152.54.30:8085/play/a0qz/index.m3u8
 http://181.78.0.107:8006/play/a079/index.m3u8
-http://200.229.147.210:9999/play/a0al/index.m3u8
-http://179.60.51.134:8888/FX/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/golden" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Golden_TV.png" group-title="Peliculas",GOLDEN
 http://170.244.209.30:8000/play/a15l/index.m3u8
 http://191.97.61.32:8000/play/a07q/index.m3u8
@@ -479,7 +469,6 @@ http://170.244.209.30:8000/play/a0mp/index.m3u8
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 http://190.14.241.209:8001/play/a08t/index.m3u8
 http://190.14.241.209:8001/play/a08t/index.m3u8
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 http://181.119.177.253:8000/play/a010/index.m3u8
 http://181.119.84.107:8000/play/a0qx/index.m3u8
 http://152.231.29.139:8000/play/a0fc/index.m3u8
@@ -492,7 +481,6 @@ http://38.225.117.1:9005/play/a00l/index.m3u8
 http://186.33.0.101:4430/play/hboplushd/index.m3u8
 http://45.190.13.8/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
-http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
 http://170.244.209.30:8000/play/a0u2/index.m3u8
 http://179.1.146.22:8000/play/a0hg/index.m3u8
@@ -504,8 +492,6 @@ http://181.119.84.107:8000/play/a0oh/index.m3u8
 http://170.244.209.30:8000/play/a02c/index.m3u8
 http://181.119.109.191:8000/play/a0l6/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
-http://45.228.235.116:8000/play/a0l6/index.m3u8
-http://38.187.2.170:9999/play/a0ea/index.m3u8
 http://186.33.0.101:4430/play/ch89/index.m3u8
 http://181.119.177.253:8000/play/a011/index.m3u8
 http://181.78.0.107:8006/play/a089/index.m3u8
@@ -518,7 +504,6 @@ http://186.33.27.9:8000/play/a00b/index.m3u8
 http://209.61.12.132:9000/play/a09n/index.m3u8
 http://132.255.210.69:8000/play/a03i/index.m3u8
 http://72.1.184.5:8089/play/a0ao/index.m3u8
-http://45.190.13.8/SonyHD/index.m3u8
 http://187.102.210.46/SONY_HD/index.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Cine.png" group-title="Peliculas",SONY cine
