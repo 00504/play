@@ -74,6 +74,7 @@ http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://181.209.38.115:8000/play/a06g/index.m3u8
 http://181.209.105.115:2525/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 http://38.137.192.250:8000/play/cvmseries
 http://38.137.192.250:8000/play/fe2s
 http://38.137.192.250:8000/play/okok
@@ -225,11 +226,10 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",teleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tvagro.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TV_Agro.png" group-title="Agricultura",TV Agro
-http://154.12.110.211:9000/play/a0ju/index.m3u8
-http://190.105.128.198:5800/play/a07w/index.m3u8
 http://179.1.210.206:8097/play/a09e/index.m3u8
 http://205.235.6.29:8000/play/a0xe/index.m3u8
 http://181.78.8.199:8000/play/a0fj/index.m3u8
+http://154.12.110.211:9000/play/a0ju/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
 http://181.78.197.59:8000/play/a089/index.m3u8
