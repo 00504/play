@@ -205,6 +205,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="telehit.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Hit.png" group-title="Música",TELEHIT
+http://138.59.177.78:9999/play/a009/index.m3u8
 http://45.167.2.101:8000/play/a0sh/index.m3u8
 http://179.60.224.196:8000/play/a0iz/index.m3u8
 http://179.60.224.196:8000/play/a0g1/index.m3u8
@@ -213,11 +214,13 @@ http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 http://168.228.44.241:9997/play/a080/index.m3u8
 http://168.228.44.241:9998/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+http://138.59.177.78:9999/play/a0ha/index.m3u8
 http://168.228.44.241:9997/play/a07g/index.m3u8
 http://190.123.76.22:8002/play/a03v/index.m3u8
 http://181.78.197.59:8000/play/a06x/index.m3u8
 http://186.33.0.57:8000/play/a020/index.m3u8
 http://170.254.17.2:80/TELEMUNDO/index.m3u8
+http://138.59.177.78:9999/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tele_Ritmo.png" group-title="Música",teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="telesurtv.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TeleSUR.png" group-title="Noticias",teleSUR
@@ -239,6 +242,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Deportes_TVC.png" group-title="Deportes",DEPORTES TVC
 http://154.12.110.211:9000/play/a09z/index.m3u8
+http://138.59.177.78:9999/play/a002/index.m3u8
 http://190.97.183.101:8028/play/a174/index.m3u8
 http://168.228.44.241:9998/play/a09m/index.m3u8
 http://168.228.44.241:9997/play/a00j/index.m3u8
