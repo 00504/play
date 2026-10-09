@@ -379,6 +379,10 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-id="m2o.it/m2o-tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Radio_m2o.png" group-title="Música",radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="raitalia.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Rai_Italia.png" group-title="Variedades",RAI Italia
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
 #EXTINF:-1 tvg-id="multicablemas.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sula_tv.png" group-title="Variedades",SULA tv
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="supercablecr.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Super_Cable.png" group-title="Variedades",SUPER Cable
