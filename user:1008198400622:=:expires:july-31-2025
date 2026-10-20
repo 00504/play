@@ -159,14 +159,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://187.102.208.83:8000/play/a03z/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://186.33.27.9:8000/play/a02k/index.m3u8
 http://186.33.0.57:8000/play/a01p/index.m3u8
-http://187.102.208.83:8000/play/a03z/index.m3u8
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
 http://45.167.2.101:8000/play/a0qf/index.m3u8
-http://181.119.66.28:8081/History-HD/index.m3u8
 #EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Hispan_TV.png" group-title="Noticias",HiSPAN TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="intravel.fi" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/In_Travel.png" group-title="Entretenimiento",INTRAVEL
@@ -231,7 +230,7 @@ http://181.78.197.59:8000/play/a089/index.m3u8
 http://168.228.44.241:9997/play/a01n/index.m3u8
 http://186.33.0.57:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="hq.vevo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VEVO.png" group-title="Música",VEVO Music
-https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/720p/index.m3u8
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bein_Sports.png" group-title="Deportes",beIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
@@ -279,10 +278,8 @@ http://45.190.13.8/TUDNHD/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://200.115.96.61:9090/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="bandamax.tv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Bandamax.png" group-title="Música",BANDAMAX
-http://190.61.114.186:8000/play/a01r/index.m3u8
+http://38.211.118.57:50002/play/a0b5/index.m3u8
 http://168.228.44.241:9997/play/a072/index.m3u8
-http://45.228.235.116:8000/play/a05r/index.m3u8
-http://45.5.118.139:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="caracoltv.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Caracol_CO.png" group-title="Variedades",Caracol TV
 http://179.1.199.50:9000/play/a0a1/index.m3u8
 http://190.60.48.156:9010/play/a004/index.m3u8
@@ -302,9 +299,7 @@ http://168.228.44.241:9997/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_h%26h.png" group-title="Documentales",Discovery home&healt
 http://205.235.6.29:8000/play/a0y6/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Discovery_Turbo.png" group-title="Documentales",Discovery Turbo
-http://186.33.27.9:8000/play/a02g/index.m3u8
 http://38.211.118.57:50002/play/a0f0/index.m3u8
-http://38.211.118.57:50002/play/a0ez/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
 http://45.190.28.50/DISCOVERY_TURBO_HD/playlist.m3u8
 http://168.197.104.22:80/DISCOVERY_TURBO/index.m3u8
@@ -346,7 +341,6 @@ http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
-http://186.33.27.9:8000/play/a031/index.m3u8
 http://187.102.208.83:8000/play/a04g/index.m3u8
 http://200.62.239.170:830/play/a069/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
