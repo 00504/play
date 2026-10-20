@@ -20,8 +20,8 @@ https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 https://viewhn.com/teleprogreso/live/chunks.m3u8
 https://viewhn.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VTV_HN.png" group-title="Variedades",VTV
-https://d3ih3uui5kpbun.cloudfront.net/7_4/index.m3u8
 https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
+https://d3ih3uui5kpbun.cloudfront.net/6_4/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://45.182.22.53:8000/play/a07k/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
@@ -270,10 +270,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tudn.com" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
-http://186.33.27.9:8000/play/a01o/index.m3u8
-http://168.228.44.241:9998/play/a0b0/index.m3u8
-http://179.60.224.196:8000/play/a0f4/index.m3u8
 http://167.250.223.26:9998/play/a05z/index.m3u8
+http://179.60.224.196:8000/play/a0f4/index.m3u8
 http://45.190.13.8/TUDNHD/index.m3u8
 #EXTINF:-1 tvg-id="tvaztecaguate.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca_Guate.png" group-title="Variedades",azteca GUATE
 http://200.115.96.61:9090/play/a0jb/index.m3u8
@@ -289,6 +287,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="deejay.it" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Dee_Jay.png" group-title="Música",Dee Jay
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Animal_Planet.png" group-title="Documentales",animal planet
+http://167.250.223.26:9998/play/a0qt/index.m3u8
 http://72.1.184.5:8089/play/a05c/index.m3u8
 http://186.33.0.57:8000/play/a01v/index.m3u8
 http://186.33.27.9:8000/play/a02r/index.m3u8
