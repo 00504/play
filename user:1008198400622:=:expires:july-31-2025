@@ -377,8 +377,6 @@ https://tvstreaming.albpo.com/memfs/18dd99fc-d98e-41ad-b5e8-03f2d7f98bdb.m3u8
 #EXTINF:-1 tvg-id="mitelefe.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telefe_AR.png" group-title="Variedades",telefe
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-id="televisa-networks.com/tlnovelas" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TLN_tlnovelas.png" group-title="Telenovelas",tlnovelas
-http://186.33.27.9:8000/play/a00q/index.m3u8
-http://168.228.44.241:9998/play/a097/index.m3u8
 http://181.78.21.46:8009/play/a02l
 http://45.5.119.43:4000/play/a05k/index.m3u8
 http://190.60.48.151:8010/play/a0al/index.m3u8
