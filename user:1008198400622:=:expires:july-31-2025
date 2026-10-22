@@ -11,11 +11,9 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 https://www.lencatelevision.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_HN.png" group-title="Variedades",Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
+#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
+https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-http://186.33.27.9:8000/play/a00k/index.m3u8
-http://168.228.44.241:9999/play/a044/index.m3u8
-http://190.61.114.186:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="televicentro.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telecadena7_4.png" group-title="Variedades",Telecadena 7/4
 https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 #EXTINF:-1 tvg-id="teleprogreso.net" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TelePais.png" group-title="Variedades",TelePaís
@@ -99,8 +97,7 @@ http://168.196.127.137:6001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
 http://45.167.253.246:8010/play/a00e/index.m3u8
 http://168.228.44.241:9997/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="canal6hn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_HN.png" group-title="Variedades",Canal 6 HN
-https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
+#EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://168.228.44.241:9997/play/AZTECA7/index.m3u8
