@@ -69,6 +69,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
 http://179.1.210.206:8097/play/a09c/index.m3u8
 http://179.1.202.34:45000/play/a0lq/index.m3u8
+http://45.188.229.33:8000/play/a1dp/index.m3u8
 http://181.78.211.244:8000/play/a0ck/index.m3u8
 http://181.78.211.244:8005/play/a0ck/index.m3u8
 #EXTINF:-1 tvg-id="animeonegai.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Anime_Onegai.png" group-title="Infantiles",Anime Onegai
@@ -95,6 +96,7 @@ http://168.228.44.241:9999/play/a043/index.m3u8
 http://168.228.44.241:9998/play/a00o/index.m3u8
 http://168.196.127.137:6001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/canal5" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal5_MX.png" group-title="Variedades",Canal 5 MX
+http://190.61.114.244:8417/play/a09h/index.m3u8
 http://45.167.253.246:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -149,6 +151,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://190.61.114.244:8417/play/a04a/index.m3u8
 http://187.102.208.83:8000/play/a03z/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
@@ -330,6 +333,7 @@ http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
+http://190.61.114.244:8417/play/a02r/index.m3u8
 http://187.102.208.83:8000/play/a04g/index.m3u8
 http://200.62.239.170:830/play/a069/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
