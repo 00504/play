@@ -152,6 +152,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 http://200.229.190.189:8001/play/a01g
 #EXTINF:-1 tvg-id="history.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/History_Channel.png" group-title="Documentales",History Channel
+http://185.244.235.120:9000/play/a0a8/index.m3u8
+http://185.244.235.126:9000/play/a0a8/index.m3u8
 http://190.61.114.244:8417/play/a04a/index.m3u8
 http://187.102.208.83:8000/play/a03z/index.m3u8
 http://181.224.255.210:8001/play/a0m1/index.m3u8
@@ -336,6 +338,8 @@ http://209.14.108.65:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="lovenature.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Love_Nature.png" group-title="Documentales",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/720p-cc/index.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_HD.png" group-title="Documentales",National Geographic
+http://185.244.235.120:9000/play/a09i/index.m3u8
+http://185.244.235.126:9000/play/a09i/index.m3u8
 http://190.61.114.244:8417/play/a02r/index.m3u8
 http://187.102.208.83:8000/play/a04g/index.m3u8
 http://200.62.239.170:830/play/a069/index.m3u8
@@ -343,6 +347,7 @@ http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://45.171.64.30:8800/play/a057
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
 http://109.106.239.1:8001/play/a06r
+http://193.33.39.108:9005/play/a02g
 http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
 http://88.212.15.29/live/test_ngw/playlist.m3u8
 http://176.65.153.78:8201/play/a085/index.m3u8
