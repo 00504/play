@@ -20,8 +20,9 @@ https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 https://viewhn.com/teleprogreso/live/chunks.m3u8
 https://viewhn.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VTV_HN.png" group-title="Variedades",VTV
-https://d3ih3uui5kpbun.cloudfront.net/7_4/index.m3u8
 https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
+https://d3ih3uui5kpbun.cloudfront.net/0_3/index.m3u8
+https://d3ih3uui5kpbun.cloudfront.net/7_4/index.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
 http://45.182.22.53:8000/play/a07k/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
@@ -76,8 +77,7 @@ http://181.78.211.244:8005/play/a0ck/index.m3u8
 http://38.137.192.250:8000/play/okok
 http://38.137.192.250:8000/play/cvmseries
 http://38.137.192.250:8000/play/fe2s
-https://live20.bozztv.com/akamaissh101/ssh101/canal40/playlist.m3u8
-https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+http://185.47.212.25/svt24/index.m3u8
 #EXTINF:-1 tvg-id="hbomax.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Cartoon_Network.png" group-title="Infantiles",Cartoon Network
 http://179.1.210.206:8097/play/a07d/index.m3u8
 http://179.60.224.196:8000/play/a0hn/index.m3u8
@@ -102,6 +102,7 @@ http://200.71.111.27:8000/play/a0ll/index.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
 http://200.71.111.27:8000/play/a0la/index.m3u8
+http://181.119.215.61:8000/play/a07s/index.m3u8
 http://45.186.106.194:9999/play/a004/index.m3u8
 http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
