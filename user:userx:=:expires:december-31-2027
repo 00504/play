@@ -105,6 +105,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 http://45.238.141.222:8000/play/a0od/index.m3u8
 http://201.174.175.3:8000/play/a0kl/index.m3u8
 http://181.119.215.61:8000/play/a07s/index.m3u8
+http://45.5.117.57:8200/play/a04u/index.m3u8
 http://168.228.44.241:9997/play/AZTECA7/index.m3u8
 #EXTINF:-1 tvg-id="agapetv8.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal8_SV.png" group-title="Variedades",Canal 8 SV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w880344139_b1428000_sleng.m3u8
@@ -121,10 +122,13 @@ http://181.224.255.210:8001/play/a0ew/index.m3u8
 http://187.102.208.83:8000/play/a02p/index.m3u8
 http://181.78.0.107:8006/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="televisa.com/de-pelicula" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/De_Pel%C3%ADcula.png" group-title="Peliculas",D'película
+http://209.61.12.135:9000/play/a093/index.m3u8
+http://181.78.49.179:8000/play/dpeliculas
 http://138.94.3.106:8000/play/a02r/index.m3u8
 http://187.102.208.83:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="distritocomedia.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Distrito_Comedia.png" group-title="Entretenimiento",distrito comedia
 http://138.94.3.106:8000/play/a02q/index.m3u8
+http://181.78.49.179:8000/play/DC01
 http://187.102.208.83:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="3abnlatino.tv" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
@@ -242,6 +246,7 @@ http://190.97.183.101:8028/play/a174/index.m3u8
 http://168.228.44.241:9997/play/a00j/index.m3u8
 http://154.12.110.211:9000/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="directvsports.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/DSPORTS.png" group-title="Deportes",DSPORTS HD
+http://190.7.19.206:8098/play/a0qn/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-id="espndeportes.espn.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/ESPN.png" group-title="Deportes",ESPN
 http://181.119.86.1:8000/play/a0e8
