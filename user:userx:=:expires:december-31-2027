@@ -68,6 +68,7 @@ https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="adultswim.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Adult_Swim.png" group-title="Infantiles",Adult Swim
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/08.m3u8
 http://179.1.210.206:8097/play/a09c/index.m3u8
 http://179.1.202.34:45000/play/a0lq/index.m3u8
 http://45.188.229.33:8000/play/a1dp/index.m3u8
@@ -85,6 +86,7 @@ http://138.94.3.106:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="maxanime.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Max_Anime.png" group-title="Infantiles",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="tooncast.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Tooncast.png" group-title="Infantiles",tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 http://179.1.210.206:8097/play/a024/index.m3u8
 http://179.1.199.50:9000/play/a06i/index.m3u8
 http://181.78.211.244:8000/play/a08y/index.m3u8
@@ -495,6 +497,7 @@ http://181.78.0.107:8006/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetwork.com" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Peliculas",MyTime Movie
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cinesony.us" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Sony_Channel.png" group-title="Peliculas",SONY CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
 http://190.121.140.222:8081/SONY/index.m3u8
 http://186.33.27.9:8000/play/a00b/index.m3u8
 http://186.33.27.9:8000/play/a00b/index.m3u8
@@ -518,12 +521,14 @@ http://179.60.51.134:8888/SPACE/index.m3u8
 http://45.228.233.60:8000/play/a04t/index.m3u8
 http://24.152.54.30:8085/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://191.52.214.129:8000/play/a09b/index.m3u8
 http://179.1.199.50:9000/play/a07t/index.m3u8
 http://179.1.110.145:9000/play/a07t/index.m3u8
 http://72.1.184.5:8089/play/a06e/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 http://190.121.140.222:8081/STUDIO-UNIVERSAL/index.m3u8
 http://38.225.117.1:9005/play/a00s/index.m3u8
