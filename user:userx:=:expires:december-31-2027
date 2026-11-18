@@ -93,6 +93,7 @@ http://181.78.211.244:8000/play/a08y/index.m3u8
 http://181.78.211.244:8005/play/a08y/index.m3u8
 http://179.60.224.196:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
+http://45.5.118.136:8888/play/a0kt/index.m3u8
 http://168.228.44.241:9997/play/a07v/index.m3u8
 http://190.61.114.186:8000/play/a03o/index.m3u8
 http://168.228.44.241:9999/play/a043/index.m3u8
@@ -104,8 +105,8 @@ http://200.71.111.27:8000/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal6_MX.png" group-title="Variedades",Canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="tvazteca.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Azteca7_MX.png" group-title="Variedades",Azteca 7
-http://45.238.141.222:8000/play/a0od/index.m3u8
 http://201.174.175.3:8000/play/a0kl/index.m3u8
+http://45.238.141.222:8000/play/a0od/index.m3u8
 http://181.119.215.61:8000/play/a07s/index.m3u8
 http://45.5.117.57:8200/play/a04u/index.m3u8
 http://168.228.44.241:9997/play/AZTECA7/index.m3u8
@@ -216,6 +217,7 @@ http://179.60.224.196:8000/play/a0g1/index.m3u8
 http://200.115.120.1:8000/play/ca093/index.m3u8
 http://168.228.44.241:9997/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="telemundo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Telemundo.png" group-title="Noticias",Telemundo
+http://45.5.117.188:8000/play/a077/index.m3u8
 http://138.59.177.78:9999/play/a0ha/index.m3u8
 http://168.228.44.241:9997/play/a07g/index.m3u8
 http://190.123.76.22:8002/play/a03v/index.m3u8
@@ -233,6 +235,7 @@ http://205.235.6.29:8000/play/a0xe/index.m3u8
 http://181.78.8.199:8000/play/a0fj/index.m3u8
 http://154.12.110.211:9000/play/a0ju/index.m3u8
 #EXTINF:-1 tvg-id="univision.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Univision.png" group-title="Noticias",UNIVISION
+http://45.5.118.136:8888/play/a00z/index.m3u8
 http://15.204.246.24:8080/UnivisionHD/index.m3u8
 http://181.78.197.59:8000/play/a089/index.m3u8
 http://168.228.44.241:9997/play/a01n/index.m3u8
@@ -357,6 +360,7 @@ http://187.102.208.83:8000/play/a04g/index.m3u8
 http://200.62.239.170:830/play/a069/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 http://45.171.64.30:8800/play/a057
+http://201.216.147.90:8729/play/a0p4
 #EXTINF:-1 tvg-id="nationalgeographic.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Nat_Geo_Wild.png" group-title="Documentales",NatGeo WILD
 http://109.106.239.1:8001/play/a06r
 http://193.33.39.108:9005/play/a02g
@@ -402,8 +406,8 @@ http://181.78.21.46:8009/play/a02l
 http://45.5.119.43:4000/play/a05k/index.m3u8
 http://190.60.48.151:8010/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="disneyplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/The_Simpsons.png" group-title="Series",The Simpsons
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
-https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-211492/playlist.m3u8
+http://200.80.230.125:5056/Live/e7e34d90f1ca8c764c09a22bf83f0a83/online-24-7.playlist.m3u8
 https://stream.mux.com/QpB02005plpHBD02v00YTX7R89p1NT00tijln00SY6DAmgpoU.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entretenimiento",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
