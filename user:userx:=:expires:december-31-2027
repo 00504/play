@@ -20,7 +20,6 @@ https://mdstrm.com/live-stream-playlist/6444304a7c35450938089b24.m3u8
 https://viewhn.com/teleprogreso/live/chunks.m3u8
 https://viewhn.com/teleprogreso/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv.com.hn" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/VTV_HN.png" group-title="Variedades",VTV
-#EXTVLCOPT:http-referrer=https://www.vtv.com.hn/envivo/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://ddycmnicl95kp.cloudfront.net/live/tzjntcuz6gj2/master.m3u8
 #EXTINF:-1 tvg-id="noticiero.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal10_TVES.png" group-title="Variedades",Canal 10 TVES
@@ -93,7 +92,6 @@ http://181.78.211.244:8000/play/a08y/index.m3u8
 http://181.78.211.244:8005/play/a08y/index.m3u8
 http://179.60.224.196:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="tcsgo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal4_SV.png" group-title="Variedades",Canal 4 SV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://45.5.118.136:8888/play/a0kt/index.m3u8
 http://168.228.44.241:9997/play/a07v/index.m3u8
 http://190.61.114.186:8000/play/a03o/index.m3u8
