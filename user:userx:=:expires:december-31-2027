@@ -463,31 +463,27 @@ http://38.225.117.1:9005/play/a01x/index.m3u8
 http://179.1.202.34:45000/play/a0m5/index.m3u8
 http://201.216.147.90:8729/play/a0hb
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO.png" group-title="Peliculas",HBO
-http://15.204.246.24:8080/HBOHD/index.m3u8
 http://200.7.99.59:8000/play/a0jt/index.m3u8
 http://191.52.214.129:8000/play/a09k/index.m3u8
 http://168.228.44.241:9997/play/a00b/index.m3u8
 http://186.33.40.97:8789/play/68
+http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_2.png" group-title="Peliculas",HBO2
-http://15.204.246.24:8080/HBO2HD/index.m3u8
-http://186.33.27.9:8000/play/a00e/index.m3u8
-http://187.102.208.209:8000/play/a0an/index.m3u8
-http://186.33.0.57:8000/play/a00n/index.m3u8
 http://186.33.0.101:4430/play/ch47/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Family.png" group-title="Peliculas",HBO family
-http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 http://181.119.177.253:8000/play/a010/index.m3u8
 http://152.231.29.139:8000/play/a0fc/index.m3u8
 http://179.1.146.22:8000/play/a0hp/index.m3u8
+http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Plus.png" group-title="Peliculas",HBO Plus
-http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://186.33.0.101:4430/play/hboplushd/index.m3u8
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Pop.png" group-title="Peliculas",HBO Pop
+http://179.1.199.50:9000/play/a01n/index.m3u8
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 http://190.14.241.209:8001/play/a0fp/index.m3u8
 http://190.61.63.140:8000/play/a06x/index.m3u8
 http://179.1.146.22:8000/play/a0hg/index.m3u8
-http://179.1.199.50:9000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="hbo.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/HBO_Xtreme.png" group-title="Peliculas",HBO Xtreme
 http://179.1.199.50:9000/play/a00x/index.m3u8
 http://191.52.214.129:8000/play/a08g/index.m3u8
@@ -517,13 +513,8 @@ http://24.152.54.30:8085/play/a005/index.m3u8
 http://200.229.147.210:9999/play/a0an/index.m3u8
 http://45.190.13.8/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="latamwbd.com/space" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Space_Channel.png" group-title="Peliculas",SPACE X
-http://15.204.246.24:8080/SPACEHD/index.m3u8
-http://45.190.13.8/SpaceHD/index.m3u8
-http://179.60.51.134:8888/SPACE/index.m3u8
-http://45.228.233.60:8000/play/a04t/index.m3u8
-http://24.152.54.30:8085/play/a04h/index.m3u8
+http://191.52.214.129:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="starplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Star_Channel.png" group-title="Peliculas",STAR Channel
-http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 http://191.52.214.129:8000/play/a09b/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 http://38.190.100.202:8000/play/a02a/index.m3u8
@@ -531,6 +522,7 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://179.1.199.50:9000/play/a07t/index.m3u8
 http://179.1.110.145:9000/play/a07t/index.m3u8
 http://72.1.184.5:8089/play/a06e/index.m3u8
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
 http://191.52.214.129:8000/play/a0a5/index.m3u8
 http://190.121.140.222:8081/STUDIO-UNIVERSAL/index.m3u8
@@ -538,9 +530,6 @@ http://38.225.117.1:9005/play/a00s/index.m3u8
 http://168.228.44.241:9998/play/a0am/index.m3u8
 http://24.152.54.30:8085/play/a0qs/index.m3u8 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
-#EXTINF:-1 tvg-id="studiouniversal.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Studio_Universal.png" group-title="Peliculas",STUDIO Universal 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://191.52.214.129:8000/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="tntdrama.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/TNT.png" group-title="Peliculas",TNT 
 http://190.60.59.60:8000/play/a0uh/index.m3u8
 http://190.61.101.11:7050/play/a06k/index.m3u8
@@ -548,9 +537,9 @@ http://190.61.101.11:7050/play/a06k/index.m3u8
 http://190.60.59.60:8000/play/a0sk/index.m3u8
 http://186.148.196.250:81/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_TV.png" group-title="Series",UNIVERSAL Channel
-http://15.204.246.24:8080/UniversalHD/index.m3u8
 http://181.78.0.107:8006/play/a06y/index.m3u8
 http://181.224.255.210:8001/play/a0lp/index.m3u8
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="universalplus.com" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Universal_Cinema.png" group-title="Peliculas",UNIVERSAL Cinema
 http://38.190.100.202:8000/play/a04z/index.m3u8
 http://186.33.0.57:8000/play/a05x/index.m3u8
